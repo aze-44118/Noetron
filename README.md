@@ -27,30 +27,42 @@ pip install -r requirements.txt
 
 ### Commande `process`
 
-Traite un fichier de données avec l'argument `-i` pour spécifier le fichier d'entrée.
+Traite un dossier de fichiers TXT et les convertit en CSV avec extraction de paragraphes.
+
+#### Fonctionnalités
+- **Extraction de paragraphes** selon des règles spécifiques :
+  - **Début de paragraphe** : ligne commençant par une indentation (espaces/tabulations) + majuscule
+  - **Fin de paragraphe** : point suivi d'un saut de ligne
+- **Conversion automatique** en CSV avec une colonne "text"
+- **Support multi-fichiers** : traite tous les fichiers `.txt` du dossier
 
 #### Syntaxe
 ```bash
-python cli/main.py process -i <nom_du_fichier>
+python cli/main.py process -i <nom_du_dossier>
 ```
 
 #### Arguments
-- `-i, --input` : Nom du fichier à traiter (obligatoire)
-  - Si un nom simple est fourni, le fichier sera cherché dans le dossier `data/`
+- `-i, --input` : Nom du dossier à traiter (obligatoire)
+  - Si un nom simple est fourni, le dossier sera cherché dans `data/`
   - Si un chemin complet est fourni, il sera utilisé tel quel
 
 #### Exemples d'utilisation
 
 ```bash
-# Traiter un fichier dans le dossier data
-python cli/main.py process -i mon_fichier.txt
+# Traiter un dossier dans data/
+python cli/main.py process -i mes_textes
 
-# Traiter un fichier avec chemin absolu
-python cli/main.py process -i /chemin/complet/vers/fichier.txt
+# Traiter un dossier avec chemin absolu
+python cli/main.py process -i /chemin/complet/vers/dossier
 
 # Utiliser l'alias --input
-python cli/main.py process --input donnees.csv
+python cli/main.py process --input documents
 ```
+
+#### Résultat
+- **Fichier CSV créé** : `database/<nom_du_dossier>.csv`
+- **Contenu** : Une colonne "text" avec un paragraphe par ligne
+- **Exemple** : `data/mes_textes/` → `database/mes_textes.csv`
 
 #### Aide
 ```bash
@@ -67,9 +79,11 @@ python cli/main.py process --help
 Noetron/
 ├── cli/
 │   ├── main.py          # Point d'entrée CLI
-│   └── process.py       # Module de traitement
-├── data/                # Dossier des fichiers à traiter
-├── processing/          # Modules de traitement
+│   └── process.py       # Orchestration du traitement
+├── processing/
+│   └── txt_processer.py # Extraction de paragraphes
+├── data/                # Dossiers de fichiers TXT à traiter
+├── database/            # Fichiers CSV générés
 ├── vectorization/       # Modules de vectorisation
 ├── analysis/           # Modules d'analyse
 ├── tests/              # Tests unitaires
@@ -78,11 +92,25 @@ Noetron/
 
 ## Développement
 
+### Architecture du projet
+
+Le projet suit une architecture modulaire :
+- **`cli/`** : Interface en ligne de commande et orchestration
+- **`processing/`** : Modules de traitement des données (extraction, nettoyage, etc.)
+- **`vectorization/`** : Modules de vectorisation des données
+- **`analysis/`** : Modules d'analyse et de traitement avancé
+
 ### Ajouter une nouvelle commande
 
 1. Modifier `cli/main.py` pour ajouter un nouveau sous-parser
-2. Créer le module correspondant dans le dossier approprié
+2. Créer le module correspondant dans le dossier approprié (`processing/`, `vectorization/`, etc.)
 3. Importer et utiliser la fonction dans `main.py`
+
+### Ajouter un nouveau processeur
+
+1. Créer une nouvelle classe dans `processing/`
+2. Implémenter la logique de traitement spécifique
+3. Importer et utiliser dans `cli/process.py` ou créer une nouvelle commande
 
 ### Tests
 

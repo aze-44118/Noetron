@@ -33,18 +33,36 @@ def process_data(input_path: Union[str, Path]) -> None:
         print(f"Aucun fichier TXT trouvé dans '{input_path}'")
         return
     print(f"Traitement de {len(txt_files)} fichier(s) TXT...")
+    
     all_paragraphs = []
+    paragraph_id = 1
+    
     for txt_file in txt_files:
         extractor = ParagraphExtractor(txt_file)
         paragraphs = extractor.extract_paragraphs()
-        all_paragraphs.extend(paragraphs)
+        
+        # Ajouter les métadonnées pour chaque paragraphe
+        for para in paragraphs:
+            all_paragraphs.append({
+                'paragraph_id': paragraph_id,
+                'text': para,
+                'source': txt_file.name,
+                'vector': ''  # Futur vecteur
+            })
+            paragraph_id += 1
+    
     # Écriture du CSV
     try:
         with open(output_path, 'w', newline='', encoding='utf-8') as csvfile:
             writer = csv.writer(csvfile)
-            writer.writerow(['text'])
-            for para in all_paragraphs:
-                writer.writerow([para])
+            writer.writerow(['paragraph_id', 'text', 'source', 'vector'])
+            for para_data in all_paragraphs:
+                writer.writerow([
+                    para_data['paragraph_id'],
+                    para_data['text'],
+                    para_data['source'],
+                    para_data['vector']
+                ])
         print(f"CSV créé: {output_path}")
         print(f"Nombre de paragraphes extraits: {len(all_paragraphs)}")
     except Exception as e:
