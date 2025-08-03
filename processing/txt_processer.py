@@ -26,6 +26,7 @@ class SentenceExtractor:
         # Diviser en lignes
         lines = content.split('\n')
         
+        # Initialiser la phrase en cours
         current_sentence = ""
         in_sentence = False
         
