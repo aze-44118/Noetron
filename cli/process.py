@@ -6,14 +6,15 @@ Module de traitement des données pour Noetron
 import csv
 from pathlib import Path
 from typing import Union
-from processing.txt_processer import ParagraphExtractor
+from processing.txt_processer import SentenceExtractor
 
 
-def process_data(input_path: Union[str, Path]) -> None:
+def process_data(input_path: Union[str, Path], debug: bool = False) -> None:
     """
-    Traite un dossier de fichiers TXT et les convertit en CSV (paragraphe par ligne)
+    Traite un dossier de fichiers TXT et les convertit en CSV (phrase par ligne)
     Args:
         input_path: Chemin vers le dossier contenant les fichiers TXT
+        debug: Mode debug pour afficher plus d'informations
     """
     input_path = Path(input_path)
     database_dir = Path(__file__).parent.parent / 'database'
@@ -34,37 +35,46 @@ def process_data(input_path: Union[str, Path]) -> None:
         return
     print(f"Traitement de {len(txt_files)} fichier(s) TXT...")
     
-    all_paragraphs = []
-    paragraph_id = 1
+    all_sentences = []
+    sentence_id = 1
     
     for txt_file in txt_files:
-        extractor = ParagraphExtractor(txt_file)
-        paragraphs = extractor.extract_paragraphs()
+        if debug:
+            print(f"Traitement du fichier: {txt_file.name}")
         
-        # Ajouter les métadonnées pour chaque paragraphe
-        for para in paragraphs:
-            all_paragraphs.append({
-                'paragraph_id': paragraph_id,
-                'text': para,
+        extractor = SentenceExtractor(txt_file)
+        sentences = extractor.extract_sentences()
+        
+        if debug:
+            print(f"  Nombre de phrases extraites: {len(sentences)}")
+            if sentences:
+                print(f"  Première phrase: {sentences[0][:100]}...")
+                print(f"  Dernière phrase: {sentences[-1][:100]}...")
+        
+        # Ajouter les métadonnées pour chaque phrase
+        for sentence in sentences:
+            all_sentences.append({
+                'sentence_id': sentence_id,
+                'text': sentence,
                 'source': txt_file.name,
                 'vector': ''  # Futur vecteur
             })
-            paragraph_id += 1
+            sentence_id += 1
     
     # Écriture du CSV
     try:
         with open(output_path, 'w', newline='', encoding='utf-8') as csvfile:
             writer = csv.writer(csvfile)
-            writer.writerow(['paragraph_id', 'text', 'source', 'vector'])
-            for para_data in all_paragraphs:
+            writer.writerow(['sentence_id', 'text', 'source', 'vector'])
+            for sentence_data in all_sentences:
                 writer.writerow([
-                    para_data['paragraph_id'],
-                    para_data['text'],
-                    para_data['source'],
-                    para_data['vector']
+                    sentence_data['sentence_id'],
+                    sentence_data['text'],
+                    sentence_data['source'],
+                    sentence_data['vector']
                 ])
         print(f"CSV créé: {output_path}")
-        print(f"Nombre de paragraphes extraits: {len(all_paragraphs)}")
+        print(f"Nombre de phrases extraites: {len(all_sentences)}")
     except Exception as e:
         print(f"Erreur lors de l'écriture du CSV: {e}")
 

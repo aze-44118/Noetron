@@ -43,6 +43,12 @@ Exemples d'utilisation:
         help='Nom du dossier à traiter (situé dans le dossier data) ou chemin complet vers un dossier'
     )
     
+    process_parser.add_argument(
+        '--debug',
+        action='store_true',
+        help='Mode debug pour afficher plus d\'informations'
+    )
+    
     args = parser.parse_args()
     
     if not args.command:
@@ -65,7 +71,7 @@ Exemples d'utilisation:
             sys.exit(1)
         
         print(f"Traitement du dossier: {input_path}")
-        process_data(input_path)
+        process_data(input_path, debug=args.debug)
 
 
 if __name__ == '__main__':
