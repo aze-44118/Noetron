@@ -23,124 +23,40 @@ class SentenceExtractor:
         # Normaliser les espaces multiples et tabulations
         content = re.sub(r'[ \t]+', ' ', content)
         
-        # Diviser en lignes
-        lines = content.split('\n')
+        # Diviser en paragraphes (séparés par des lignes vides)
+        paragraphs = re.split(r'\n\s*\n', content)
         
-        # Initialiser la phrase en cours
-        current_sentence = ""
-        in_sentence = False
+        for paragraph in paragraphs:
+            if paragraph.strip():
+                paragraph_sentences = self._extract_sentences_from_paragraph(paragraph.strip())
+                sentences.extend(paragraph_sentences)
         
-        for line_num, line in enumerate(lines):
-            line = line.strip()
-            if not line:  # Ligne vide
-                if in_sentence and current_sentence.strip():
-                    # Fin de phrase à la ligne vide
-                    sentence = current_sentence.strip()
-                    if sentence and sentence.endswith('.'):
-                        sentences.append(sentence)
-                    current_sentence = ""
-                    in_sentence = False
-                continue
+        return sentences
+    
+    def _extract_sentences_from_paragraph(self, paragraph: str) -> List[str]:
+        """
+        Extrait les phrases d'un paragraphe
+        """
+        sentences = []
+        
+        # Remplacer les retours à la ligne par des espaces
+        paragraph = re.sub(r'\n+', ' ', paragraph)
+        
+        # Pattern pour détecter les phrases
+        # Une phrase se termine par un point suivi d'un espace et d'une majuscule
+        # ou par un point à la fin du paragraphe
+        pattern = r'[^.]*\.(?=\s+[A-ZÉÈÀÂÎÔÙÛÇ]|$)'
+        
+        matches = re.finditer(pattern, paragraph, re.MULTILINE)
+        
+        for match in matches:
+            sentence = match.group().strip()
             
-            # Traiter la ligne caractère par caractère
-            i = 0
-            while i < len(line):
-                char = line[i]
-                
-                # Vérifier si c'est le début d'une phrase
-                # Cas 1: Majuscule après un point ou au début de ligne
-                if (char.isupper() or char in 'ÉÈÀÂÎÔÙÛÇ') and (i == 0 or line[i-1] in ' .'):
-                    # Commencer une nouvelle phrase
-                    if in_sentence and current_sentence.strip():
-                        # Sauvegarder la phrase précédente
-                        sentence = current_sentence.strip()
-                        if sentence and sentence.endswith('.'):
-                            sentences.append(sentence)
-                    
-                    current_sentence = char
-                    in_sentence = True
-                    i += 1
-                    
-                    # Chercher la fin de la phrase
-                    while i < len(line):
-                        current_sentence += line[i]
-                        
-                        if line[i] == '.':
-                            # Vérifier si c'est vraiment la fin de la phrase
-                            if i + 1 < len(line):
-                                next_char = line[i + 1]
-                                # Si le caractère suivant est une majuscule, c'est probablement la fin
-                                if next_char.isupper() or next_char in 'ÉÈÀÂÎÔÙÛÇ':
-                                    # Mais vérifier que ce n'est pas une abréviation
-                                    if not self._is_abbreviation(current_sentence):
-                                        break
-                            else:
-                                # Point à la fin de la ligne
-                                break
-                        i += 1
-                    
-                    # Si on a trouvé une fin de phrase
-                    if i < len(line):
-                        sentence = current_sentence.strip()
-                        if sentence:
-                            sentences.append(sentence)
-                        current_sentence = ""
-                        in_sentence = False
-                    else:
-                        # La phrase continue sur la ligne suivante
-                        current_sentence += " "
-                        break
-                
-                # Cas 2: Guillemets français (début de citation)
-                elif char == '«' and (i == 0 or line[i-1] in ' .'):
-                    # Commencer une nouvelle phrase avec guillemets
-                    if in_sentence and current_sentence.strip():
-                        # Sauvegarder la phrase précédente
-                        sentence = current_sentence.strip()
-                        if sentence and sentence.endswith('.'):
-                            sentences.append(sentence)
-                    
-                    current_sentence = char
-                    in_sentence = True
-                    i += 1
-                    
-                    # Chercher la fin de la phrase (guillemets fermants + point)
-                    while i < len(line):
-                        current_sentence += line[i]
-                        
-                        if line[i] == '»':
-                            # Chercher le point après les guillemets
-                            j = i + 1
-                            while j < len(line) and line[j] == ' ':
-                                j += 1
-                            if j < len(line) and line[j] == '.':
-                                current_sentence += line[i+1:j+1]
-                                i = j
-                                break
-                        i += 1
-                    
-                    # Si on a trouvé une fin de phrase
-                    if i < len(line):
-                        sentence = current_sentence.strip()
-                        if sentence:
-                            sentences.append(sentence)
-                        current_sentence = ""
-                        in_sentence = False
-                    else:
-                        # La phrase continue sur la ligne suivante
-                        current_sentence += " "
-                        break
-                
-                else:
-                    # Continuer la phrase en cours
-                    if in_sentence:
-                        current_sentence += char
-                    i += 1
-        
-        # Ajouter la dernière phrase si elle existe
-        if in_sentence and current_sentence.strip():
-            sentence = current_sentence.strip()
-            if sentence and sentence.endswith('.'):
+            # Nettoyer la phrase
+            sentence = re.sub(r'\s+', ' ', sentence)
+            
+            # Vérifier que ce n'est pas une abréviation et que la phrase n'est pas vide
+            if sentence and not self._is_abbreviation(sentence) and len(sentence) > 10:
                 sentences.append(sentence)
         
         return sentences

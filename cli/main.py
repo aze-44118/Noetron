@@ -12,6 +12,7 @@ from pathlib import Path
 sys.path.append(str(Path(__file__).parent.parent))
 
 from cli.process import process_data
+from cli.extractor import extract_sentences
 
 
 def main():
@@ -21,6 +22,8 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Exemples d'utilisation:
+  python main.py extractor -i mon_dossier
+  python main.py extractor -i /chemin/vers/dossier --csv
   python main.py process -i mon_dossier
   python main.py process -i /chemin/vers/dossier
         """
@@ -31,10 +34,34 @@ Exemples d'utilisation:
         help='Commandes disponibles'
     )
     
+    # Commande extractor
+    extractor_parser = subparsers.add_parser(
+        'extractor',
+        help='Extraire les phrases d\'un fichier de données'
+    )
+    
+    extractor_parser.add_argument(
+        '-i', '--input',
+        required=True,
+        help='Nom du dossier à traiter (situé dans le dossier data) ou chemin complet vers un dossier'
+    )
+    
+    extractor_parser.add_argument(
+        '--csv',
+        action='store_true',
+        help='Créer un fichier CSV avec les phrases extraites'
+    )
+    
+    extractor_parser.add_argument(
+        '--debug',
+        action='store_true',
+        help='Mode debug pour afficher plus d\'informations'
+    )
+    
     # Commande process
     process_parser = subparsers.add_parser(
         'process',
-        help='Traiter un fichier de données'
+        help='Traiter un fichier de données (extraction + vectorisation + autres traitements)'
     )
     
     process_parser.add_argument(
@@ -55,22 +82,26 @@ Exemples d'utilisation:
         parser.print_help()
         return
     
-    if args.command == 'process':
-        # Vérifier si le chemin est relatif ou absolu
-        if os.path.isabs(args.input):
-            # Chemin absolu fourni
-            input_path = Path(args.input)
-        else:
-            # Chemin relatif - chercher dans le dossier data
-            data_dir = Path(__file__).parent.parent / 'data'
-            input_path = data_dir / args.input
-        
-        # Vérifier que le dossier existe
-        if not input_path.exists():
-            print(f"Erreur: Le dossier '{input_path}' n'existe pas.")
-            sys.exit(1)
-        
-        print(f"Traitement du dossier: {input_path}")
+    # Vérifier si le chemin est relatif ou absolu
+    if os.path.isabs(args.input):
+        # Chemin absolu fourni
+        input_path = Path(args.input)
+    else:
+        # Chemin relatif - chercher dans le dossier data
+        data_dir = Path(__file__).parent.parent / 'data'
+        input_path = data_dir / args.input
+    
+    # Vérifier que le dossier existe
+    if not input_path.exists():
+        print(f"Erreur: Le dossier '{input_path}' n'existe pas.")
+        sys.exit(1)
+    
+    if args.command == 'extractor':
+        print(f"Extraction des phrases du dossier: {input_path}")
+        extract_sentences(input_path, create_csv=args.csv, debug=args.debug)
+    
+    elif args.command == 'process':
+        print(f"Traitement complet du dossier: {input_path}")
         process_data(input_path, debug=args.debug)
 
 

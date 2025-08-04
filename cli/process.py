@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
 """
-Module de traitement des données pour Noetron
+Module de traitement complet des données pour Noetron
 """
 
 import csv
 from pathlib import Path
 from typing import Union
-from processing.txt_processer import SentenceExtractor
+from cli.extractor import extract_sentences
+from cli.vectorize import vectorize_sentences_from_list
 
 
 def process_data(input_path: Union[str, Path], debug: bool = False) -> None:
     """
-    Traite un dossier de fichiers TXT et les convertit en CSV (phrase par ligne)
+    Traite un dossier de fichiers TXT : extraction + vectorisation + autres traitements
     Args:
         input_path: Chemin vers le dossier contenant les fichiers TXT
         debug: Mode debug pour afficher plus d'informations
@@ -27,41 +28,27 @@ def process_data(input_path: Union[str, Path], debug: bool = False) -> None:
         print(f"Erreur: '{input_path}' n'est pas un dossier.")
         return
     
+    print("=== ÉTAPE 1: Extraction des phrases ===")
+    # Utiliser la fonction d'extraction
+    all_sentences = extract_sentences(input_path, create_csv=False, debug=debug)
+    
+    if not all_sentences:
+        print("Aucune phrase extraite. Arrêt du traitement.")
+        return
+    
+    print(f"=== ÉTAPE 2: Vectorisation des phrases ===")
+    # Vectoriser les phrases
+    all_sentences = vectorize_sentences_from_list(all_sentences, debug=debug)
+    
+    print("=== ÉTAPE 3: Autres traitements ===")
+    # TODO: Ajouter d'autres traitements ici
+    if debug:
+        print("  Autres traitements en cours...")
+    
+    # Écriture du CSV final
     output_filename = f"{input_path.name}.csv"
     output_path = database_dir / output_filename
-    txt_files = list(input_path.glob("*.txt"))
-    if not txt_files:
-        print(f"Aucun fichier TXT trouvé dans '{input_path}'")
-        return
-    print(f"Traitement de {len(txt_files)} fichier(s) TXT...")
     
-    all_sentences = []
-    sentence_id = 1
-    
-    for txt_file in txt_files:
-        if debug:
-            print(f"Traitement du fichier: {txt_file.name}")
-        
-        extractor = SentenceExtractor(txt_file)
-        sentences = extractor.extract_sentences()
-        
-        if debug:
-            print(f"  Nombre de phrases extraites: {len(sentences)}")
-            if sentences:
-                print(f"  Première phrase: {sentences[0][:100]}...")
-                print(f"  Dernière phrase: {sentences[-1][:100]}...")
-        
-        # Ajouter les métadonnées pour chaque phrase
-        for sentence in sentences:
-            all_sentences.append({
-                'sentence_id': sentence_id,
-                'text': sentence,
-                'source': txt_file.name,
-                'vector': ''  # Futur vecteur
-            })
-            sentence_id += 1
-    
-    # Écriture du CSV
     try:
         with open(output_path, 'w', newline='', encoding='utf-8') as csvfile:
             writer = csv.writer(csvfile)
@@ -73,8 +60,9 @@ def process_data(input_path: Union[str, Path], debug: bool = False) -> None:
                     sentence_data['source'],
                     sentence_data['vector']
                 ])
+        print(f"=== RÉSULTAT ===")
         print(f"CSV créé: {output_path}")
-        print(f"Nombre de phrases extraites: {len(all_sentences)}")
+        print(f"Nombre de phrases traitées: {len(all_sentences)}")
     except Exception as e:
         print(f"Erreur lors de l'écriture du CSV: {e}")
 
