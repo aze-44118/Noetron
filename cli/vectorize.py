@@ -13,7 +13,7 @@ from sentence_transformers import SentenceTransformer
 
 def vectorize_sentences(csv_path: Union[str, Path], debug: bool = False) -> None:
     """
-    Vectorise les phrases d'un fichier CSV en utilisant all-mpnet-base-v2
+    Vectorise les phrases d'un fichier CSV en utilisant BAAI/bge-m3
     Args:
         csv_path: Chemin vers le fichier CSV contenant les phrases
         debug: Mode debug pour afficher plus d'informations
@@ -26,12 +26,12 @@ def vectorize_sentences(csv_path: Union[str, Path], debug: bool = False) -> None
     
     print("=== VECTORISATION DES PHRASES ===")
     
-    # Charger le modèle
+    # Charger le modèle BAAI/bge-m3
     if debug:
-        print("  Chargement du modèle all-mpnet-base-v2...")
+        print("  Chargement du modèle BAAI/bge-m3...")
     
     try:
-        model = SentenceTransformer('all-mpnet-base-v2')
+        model = SentenceTransformer('BAAI/bge-m3')
         if debug:
             print("  Modèle chargé avec succès")
     except Exception as e:
@@ -103,12 +103,12 @@ def vectorize_sentences_from_list(sentences: List[Dict], debug: bool = False) ->
     
     print("=== VECTORISATION DES PHRASES ===")
     
-    # Charger le modèle
+    # Charger le modèle BAAI/bge-m3
     if debug:
-        print("  Chargement du modèle all-mpnet-base-v2...")
+        print("  Chargement du modèle BAAI/bge-m3...")
     
     try:
-        model = SentenceTransformer('all-mpnet-base-v2')
+        model = SentenceTransformer('BAAI/bge-m3')
         if debug:
             print("  Modèle chargé avec succès")
     except Exception as e:

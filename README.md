@@ -25,9 +25,32 @@ pip install -r requirements.txt
 
 ## Utilisation
 
+### Commande `extractor`
+
+Extrait les phrases d'un dossier de fichiers TXT et peut créer un CSV avec les phrases extraites.
+
+#### Fonctionnalités
+- **Extraction de phrases** selon des règles spécifiques :
+  - **Début de phrase** : majuscule (au début de ligne ou après un point)
+  - **Fin de phrase** : point suivi d'une majuscule ou d'un saut de ligne
+- **Conversion automatique** en CSV avec une colonne "text"
+- **Support multi-fichiers** : traite tous les fichiers `.txt` du dossier
+
+#### Syntaxe
+```bash
+python cli/main.py extractor -i <nom_du_dossier> [--csv] [--debug]
+```
+
+#### Arguments
+- `-i, --input` : Nom du dossier à traiter (obligatoire)
+  - Si un nom simple est fourni, le dossier sera cherché dans `data/`
+  - Si un chemin complet est fourni, il sera utilisé tel quel
+- `--csv` : Créer un fichier CSV avec les phrases extraites
+- `--debug` : Mode debug pour afficher plus d'informations
+
 ### Commande `process`
 
-Traite un dossier de fichiers TXT et les convertit en CSV avec extraction de paragraphes.
+Traite un dossier de fichiers TXT : extraction + vectorisation + autres traitements.
 
 #### Fonctionnalités
 - **Extraction de paragraphes** selon des règles spécifiques :
@@ -61,8 +84,22 @@ python cli/main.py process --input documents
 
 #### Résultat
 - **Fichier CSV créé** : `database/<nom_du_dossier>.csv`
-- **Contenu** : Une colonne "text" avec un paragraphe par ligne
+- **Contenu** : Colonnes "sentence_id", "text", "source", "vector"
 - **Exemple** : `data/mes_textes/` → `database/mes_textes.csv`
+
+### Commande `vectorize`
+
+Vectorise les phrases d'un fichier CSV en utilisant le modèle BAAI/bge-m3.
+
+#### Fonctionnalités
+- **Modèle d'embedding** : BAAI/bge-m3 (multilingue, haute performance)
+- **Vectorisation** : Conversion des phrases en vecteurs numériques
+- **Format de sortie** : CSV avec colonne "vector" contenant les embeddings
+
+#### Syntaxe
+```bash
+python cli/vectorize.py <chemin_vers_csv> [--debug]
+```
 
 #### Aide
 ```bash
