@@ -9,13 +9,14 @@ from typing import Union
 from processing.txt_processer import SentenceExtractor
 
 
-def extract_sentences(input_path: Union[str, Path], create_csv: bool = False, debug: bool = False) -> None:
+def extract_sentences(input_path: Union[str, Path], create_csv: bool = False, debug: bool = False, start_phrase: str = None) -> None:
     """
     Extrait les phrases d'un dossier de fichiers TXT
     Args:
         input_path: Chemin vers le dossier contenant les fichiers TXT
         create_csv: Si True, crée un fichier CSV avec les phrases extraites
         debug: Mode debug pour afficher plus d'informations
+        start_phrase: Phrase de départ pour filtrer le contenu (optionnel)
     """
     input_path = Path(input_path)
     
@@ -33,6 +34,9 @@ def extract_sentences(input_path: Union[str, Path], create_csv: bool = False, de
     
     print(f"Extraction des phrases de {len(txt_files)} fichier(s) TXT...")
     
+    if start_phrase:
+        print(f"🎯 Filtrage à partir de la phrase: '{start_phrase}'")
+    
     all_sentences = []
     sentence_id = 1
     
@@ -41,7 +45,7 @@ def extract_sentences(input_path: Union[str, Path], create_csv: bool = False, de
             print(f"Traitement du fichier: {txt_file.name}")
         
         extractor = SentenceExtractor(txt_file)
-        sentences = extractor.extract_sentences()
+        sentences = extractor.extract_sentences(start_phrase=start_phrase)
         
         if debug:
             print(f"  Nombre de phrases extraites: {len(sentences)}")

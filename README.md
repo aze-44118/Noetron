@@ -47,6 +47,25 @@ python cli/main.py extractor -i <nom_du_dossier> [--csv] [--debug]
   - Si un chemin complet est fourni, il sera utilisé tel quel
 - `--csv` : Créer un fichier CSV avec les phrases extraites
 - `--debug` : Mode debug pour afficher plus d'informations
+- `--start` : Phrase de départ pour filtrer le contenu (ex: "Maurice MERLEAU-PONTY SIGNES")
+
+#### Exemples d'utilisation
+```bash
+# Extraction simple
+python cli/main.py extractor -i mes_textes
+
+# Avec création de CSV
+python cli/main.py extractor -i /chemin/vers/dossier --csv
+
+# Avec mode debug
+python cli/main.py extractor -i mon_dossier --debug
+
+# Avec phrase de départ (filtrage)
+python cli/main.py extractor -i merleau_ponty --start "Maurice MERLEAU-PONTY SIGNES"
+
+# Combinaison d'options
+python cli/main.py extractor -i merleau_ponty --start "SIGNES" --csv --debug
+```
 
 ### Commande `process`
 
@@ -99,6 +118,39 @@ Vectorise les phrases d'un fichier CSV en utilisant le modèle BAAI/bge-m3.
 #### Syntaxe
 ```bash
 python cli/vectorize.py <chemin_vers_csv> [--debug]
+```
+
+### Commande `search`
+
+Recherche des phrases similaires avec similarité cosinus en utilisant le modèle BAAI/bge-m3.
+
+#### Fonctionnalités
+- **Recherche sémantique** : Comprend le sens, pas juste les mots-clés
+- **Similarité cosinus** : Calcul précis de la similarité entre vecteurs
+- **Top K configurable** : Nombre de résultats personnalisable
+- **Scores de confiance** : Affichage des scores de similarité
+
+#### Syntaxe
+```bash
+python cli/main.py search -p "phrase de recherche" -f <chemin_vers_csv> [--top N] [--debug]
+```
+
+#### Arguments
+- `-p, --phrase` : Phrase de recherche (obligatoire)
+- `-f, --file` : Chemin vers le fichier CSV vectorisé (obligatoire)
+- `--top` : Nombre de résultats à afficher (défaut: 3)
+- `--debug` : Mode debug pour afficher plus d'informations
+
+#### Exemples d'utilisation
+```bash
+# Recherche simple
+python cli/main.py search -p "La liberté guidant le peuple" -f database/merleau_ponty.csv
+
+# Avec plus de résultats
+python cli/main.py search -p "philosophie de la perception" -f database/merleau_ponty.csv --top 5
+
+# Mode debug
+python cli/main.py search -p "existence et essence" -f database/merleau_ponty.csv --debug
 ```
 
 #### Aide

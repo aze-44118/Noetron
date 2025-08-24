@@ -1,0 +1,66 @@
+#!/usr/bin/env python3
+"""
+Script principal Noetron - Environnement d'analyse sémantique
+"""
+
+import sys
+import os
+from pathlib import Path
+
+# Ajouter le répertoire cli au path
+sys.path.insert(0, str(Path(__file__).parent / 'cli'))
+
+def main():
+    """Point d'entrée principal du script noetron"""
+    if len(sys.argv) < 2:
+        print("🔮 NOETRON - Environnement d'analyse sémantique")
+        print("Usage: noetron activate <fichier_csv>")
+        print("       noetron --help")
+        sys.exit(1)
+    
+    command = sys.argv[1]
+    
+    if command == "--help" or command == "-h":
+        print("🔮 NOETRON - Environnement d'analyse sémantique")
+        print()
+        print("Commandes:")
+        print("  activate <fichier_csv>  - Activer l'environnement interactif")
+        print("  --help, -h             - Afficher cette aide")
+        print()
+        print("Exemple:")
+        print("  noetron activate database/merleau_ponty.csv")
+        sys.exit(0)
+    
+    elif command == "activate":
+        if len(sys.argv) < 3:
+            print("❌ Erreur: Fichier CSV requis")
+            print("Usage: noetron activate <fichier_csv>")
+            sys.exit(1)
+        
+        csv_file = sys.argv[2]
+        
+        # Vérifier que le fichier existe
+        if not Path(csv_file).exists():
+            print(f"❌ Erreur: Le fichier '{csv_file}' n'existe pas")
+            sys.exit(1)
+        
+        # Lancer le mode interactif
+        try:
+            from cli.search import launch_interactive_mode
+            launch_interactive_mode(csv_file)
+        except ImportError as e:
+            print(f"❌ Erreur d'import: {e}")
+            print("Assurez-vous que tous les modules sont installés")
+            sys.exit(1)
+        except Exception as e:
+            print(f"❌ Erreur: {e}")
+            sys.exit(1)
+    
+    else:
+        print(f"❌ Commande inconnue: {command}")
+        print("Utilisez 'noetron --help' pour voir les commandes disponibles")
+        sys.exit(1)
+
+if __name__ == '__main__':
+    main()
+

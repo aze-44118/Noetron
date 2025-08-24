@@ -11,7 +11,7 @@ class SentenceExtractor:
     def __init__(self, txt_file: Path):
         self.txt_file = Path(txt_file)
 
-    def extract_sentences(self) -> List[str]:
+    def extract_sentences(self, start_phrase: str = None) -> List[str]:
         sentences = []
         
         with open(self.txt_file, 'r', encoding='utf-8') as f:
@@ -22,6 +22,10 @@ class SentenceExtractor:
         
         # Normaliser les espaces multiples et tabulations
         content = re.sub(r'[ \t]+', ' ', content)
+        
+        # Si une phrase de départ est spécifiée, filtrer le contenu
+        if start_phrase:
+            content = self._filter_content_from_start_phrase(content, start_phrase)
         
         # Diviser en paragraphes (séparés par des lignes vides)
         paragraphs = re.split(r'\n\s*\n', content)
@@ -86,3 +90,48 @@ class SentenceExtractor:
                     return True
         
         return False
+    
+    def _filter_content_from_start_phrase(self, content: str, start_phrase: str) -> str:
+        """
+        Filtre le contenu pour commencer à partir d'une phrase spécifique
+        Args:
+            content: Contenu complet du fichier
+            start_phrase: Phrase de départ (peut être partielle)
+        Returns:
+            Contenu filtré à partir de la phrase de départ
+        """
+        # Normaliser la phrase de départ
+        start_phrase = start_phrase.strip()
+        
+        # Diviser le contenu en lignes pour chercher la phrase de départ
+        lines = content.split('\n')
+        
+        # Chercher la ligne contenant la phrase de départ
+        start_line_index = -1
+        for i, line in enumerate(lines):
+            if start_phrase.lower() in line.lower():
+                start_line_index = i
+                break
+        
+        if start_line_index == -1:
+            print(f"⚠️ Phrase de départ '{start_phrase}' non trouvée. Utilisation du contenu complet.")
+            return content
+        
+        # Trouver le début exact de la phrase dans la ligne
+        line = lines[start_line_index]
+        phrase_start_pos = line.lower().find(start_phrase.lower())
+        
+        if phrase_start_pos == -1:
+            # Si la phrase n'est pas trouvée dans la ligne, commencer à la ligne suivante
+            start_line_index += 1
+            phrase_start_pos = 0
+        
+        # Reconstituer le contenu à partir de la phrase de départ
+        if start_line_index < len(lines):
+            # Prendre la partie de la ligne de départ à partir de la phrase
+            filtered_lines = [lines[start_line_index][phrase_start_pos:]]
+            # Ajouter toutes les lignes suivantes
+            filtered_lines.extend(lines[start_line_index + 1:])
+            return '\n'.join(filtered_lines)
+        
+        return content
