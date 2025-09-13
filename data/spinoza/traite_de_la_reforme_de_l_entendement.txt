@@ -1,0 +1,2849 @@
+Traité de la réforme de l’entendement
+            (trad. Appuhn)
+
+               Baruch Spinoza
+
+
+
+
+         Garnier Frères, Paris, 1907
+
+
+
+
+        Exporté de Wikisource le 24 août 2025
+
+
+
+
+                         1
+                         NOTICE
+                           sur le
+          TRAITE DE LA RÉFORME DE
+              L’ENTENDEMENT
+   Le Traité de la Réforme de l’Entendement est compris
+dans les Œuvres Posthumes publiées, quelques mois après
+la mort de l’auteur, par ses amis [N 1] ; il est précédé d’un
+Avis au lecteur qu’on trouvera plus loin. Mention en est
+faite, en outre, dans la préface générale, vraisemblablement
+écrite par Jarig Jelles [N 2]. Nous apprenons ainsi que cet
+écrit est un des plus anciens de Spinoza et qu’il est resté
+inachevé, en dépit du désir qu’avait l’auteur de le
+compléter, à cause de « la difficulté de l’ouvrage, des
+profondes recherches et du savoir infini qu’il exigeait ».
+   Dans une lettre adressée à Oldenburg [N 3], Spinoza
+s’exprime ainsi : « Quant à vos questions sur la façon dont
+les choses ont commencé et leur lien de dépendance avec la
+cause première, j’ai composé un petit ouvrage entier sur ce
+sujet et aussi sur la Réforme de l’Entendement : je suis
+occupé à le transcrire et à le corriger. »
+   Ce petit ouvrage ne peut être ni le Court Traité, qui ne
+traite pas expressément de l’entendement et de la
+connaissance, ni l’Ethique, qui n’existait pas encore à cette
+date, n’est pas un petit ouvrage (opusculum), et ne contient
+d’ailleurs pas non plus d’étude particulière de notre pouvoir
+de connaître.
+
+
+                             2
+   Seul le fragment connu sous le nom de Traité de la
+Réforme de l’Entendement peut être l’ouvrage que Spinoza
+donne dans sa lettre à Oldenburg comme étant déjà
+composé, bien que non encore achevé. A la vérité ce
+fragment ne contient dans son état actuel [N 4] que de très
+brèves allusions à l’origine des choses et à la cause
+première mais, en plusieurs endroits, Spinoza avertit le
+lecteur qu’il traitera plus loin des questions de cette sorte ou
+encore le renvoie à sa Philosophie [N 5], c’est-à-dire sans
+doute à la partie de son livre qui devait contenir l’exposé de
+sa doctrine métaphysique et qui a été détruite comme
+faisant double emploi avec l’Ethique.
+   Nous pouvons donc considérer le Traité de la Réforme de
+l’Entendement comme ayant été composé en 1661 à peu
+près [N 6]. C’est un des ouvrages de cette période de la vie de
+Spinoza qu’il a passée à Rijnsburg ; le plus célèbre, le plus
+lu et, au moins pour son contenu dogmatique, le plus
+important qu’il ait écrit dans cette première période
+d’activité littéraire.
+   On ne peut manquer de se demander pourquoi cet
+ouvrage, capital en dépit de son peu d’étendue, n’a pas été
+achevé. On conçoit fort bien que Spinoza, ayant entrepris la
+composition de l’Ethique, ait renoncé à écrire ou à
+conserver la partie de son traité où il devait exposer sa
+Philosophie ; ce qui demande explication c’est que même la
+théorie de la connaissance soit restée inachevée.
+   Les dernières pages de la Réforme de l’Entendement
+trahissent un certain embarras ; la pensée, jusque-là sûre
+                               3
+d’elle-même, facile à suivre dans sa marche, semble se
+chercher encore, hésiter peut-être, revenir sur son chemin,
+comme si des difficultés non prévues se fussent présentées
+et qu’il fallût user d’un détour. Après avoir exposé les
+motifs d’ordre moral [N 7], qui l’ont déterminé à
+entreprendre la réforme de son entendement, Spinoza
+commence par distinguer quatre modes de perception ou
+degrés de connaissance [N 8] et donne les raisons pour
+lesquelles le quatrième mode (la connaissance immédiate
+d’une chose par son essence ou sa cause prochaine) doit
+être préféré aux autres ; il parle ensuite de la méthode à
+suivre pour parvenir à ce degré supérieur et montre que
+cette méthode consiste avant tout dans une connaissance
+réfléchie, claire, de la vérité qu’on possède déjà ; cette
+connaissance en effet rendra possible la distinction du vrai
+et du faux et aussi le progrès de l’esprit, c’est-à-dire la
+formation de nouvelles idées claires et distinctes. Un peu
+plus loin il résume à peu près comme il suit ce qu’on doit
+attendre de la méthode :
+   1° Qu’elle enseigne à distinguer l’idée vraie de toutes les
+autres perceptions ;
+   2° Qu’elle trace des règles pour former des choses encore
+inconnues des idées claires et distinctes ;
+   3° Qu’elle institue un ordre de recherche propre à nous
+épargner d’inutiles fatigues ;
+  Enfin 4° pour que la méthode soit la plus parfaite
+possible, il faudra que Ion prenne comme point de départ
+
+                              4
+l’idée de l’être le plus parfait.
+   Le premier point est entièrement traité : l’idée vraie est
+distinguée avec le plus grand soin de la fiction et de
+l’erreur. L’Ethique où l’on peut voir l’application des
+principes posés dans la Réforme de l’Entendement a un
+début conforme à la règle énoncée en quatrième lieu. Quant
+au second point, il n’est traité qu’incomplètement et le
+troisième ne l’est pas, du moins explicitement.
+   La connaissance des choses singulières étant le but à
+atteindre, toutes les autres n’étant que des êtres de raison,
+Spinoza montre que cette connaissance ne peut se déduire
+d’idées ou de principes généraux ; d’autre part, l’ordre (de
+fait) dans lequel les choses se succèdent, n’ayant point de
+connexion avec leur essence, n’étant pas une vérité [N 9], il
+est impossible de le concevoir clairement et distinctement.
+C’est par des choses singulières elles-mêmes mais fixes et
+éternelles qu’on parviendra déductivement à la
+connaissance des choses mobiles et changeantes. Dans quel
+ordre cependant cette déduction se fera-t-elle ? Il sera
+nécessaire de considérer une chose avant une autre ;
+laquelle choisir ?
+   A cet endroit de son exposition, Spinoza, comme
+Descartes, sinon exactement pour les mêmes raisons [N 10],
+sent le besoin de faire appel à l’expérience. Il sera temps,
+nous dit-il, avant d’entreprendre de connaître les choses
+singulières, de traiter des moyens permettant d’atteindre
+cette fin, et il nomme comme moyens le bon usage des sens
+et l’emploi de l’expérience, non plus vague et nue, mais
+                             5
+suivant des règles fixes et dans un ordre arrêté, pour
+déterminer la chose qu’on étudie. En fait ni dans la suite du
+traité ni nulle part ailleurs Spinoza n’a tenu la promesse
+qu’il semble faire ici. Il a toujours affirmé que la
+connaissance des choses existant dans la Nature était
+possible, et il est certain qu’elle doit l’être dans sa doctrine ;
+il n’a jamais montré de façon satisfaisante comment elle
+l’était ; il ne s’est jamais expressément expliqué sur le rôle
+de l’expérience dans l’acquisition du savoir.
+   Renvoyant donc à plus tard l’étude des règles à observer
+pour parvenir à la connaissance des choses changantes et
+périssables dont nous formons, à l’aide des sens, des idées
+confuses et obscures, Spinoza paraît vouloir s’en tenir à
+cette partie de la méthode qui a trait aux choses éternelles.
+Pour cela même il est requis de déterminer avec précision
+les forces et la puissance de l’entendement et, en vertu du
+principe posé dans la première partie, il est clair que cette
+connaissance doit se déduire de celle de l’entendement
+considéré en lui-même. Mais nous n’avons pas une idée
+parfaitement claire de l’entendement humain. Force est
+donc à Spinoza de suivre pour commencer une marche
+inverse de celle qu’il sait être la meilleure. Au lieu de
+déduire les propriétés de l’entendement de sa définition et
+de les connaître ainsi par leur cause prochaine ou l’essence
+de la chose, il énumère les propriétés de l’entendement,
+telles quelles lui sont actuellement connues par ses effets, et
+se propose ensuite de chercher quelque chose de commun
+d’où elles se puissent déduire.
+
+                                6
+   Au moment précis de sa recherche Spinoza s’interrompt :
+reliqua desiderantur. Ainsi, dans le seul ouvrage où il soit
+proprement traité de la connaissance et du moyen de
+l’acquérir, nous trouvons deux lacunes importantes :
+   1° Nous ne savons pas comment des choses éternelles [N
+11] se déduiront les modes passagers et corruptibles (non
+
+l’existence de ces modes, qu’on l’observe, mais leurs
+essences) ; nous ne savons pas non plus par quels moyens
+nous nous assurerons de la réalité problématique des
+choses, avant d’en chercher la vérité et en vue même de
+cette recherche.
+   2° Nous n’arrivons même pas à une connaissance
+suffisamment claire de l’entendement humain et du rapport
+qu’il soutient avec les modes éternels ; son pouvoir de
+connaître est mis hors de doute ; ses erreurs sont expliquées
+avec une précision et une clarté que nous ne croyons pas qui
+puisse être surpassée ; son essence reste incomplètement
+connue. Spinoza s’arrête avant même d’avoir achevé
+l’analyse qu’il a reconnue indispensable et qui n’était que le
+premier moment de la recherche entreprise.
+   Il est facile de comprendre que Spinoza n’ait pu, au
+moment de la rédaction du traité, combler à sa satisfaction
+ces deux lacunes ; il eût fallu qu’il possédât dès lors une
+connaissance suffisante de la nature humaine et de la nature
+en général. Tout ce qui pouvait être dit sur la connaissance
+considérée en elle-même, abstraction faite de l’objet à
+connaître et, jusqu’à un certain point, du sujet connaissant,
+l’avait été de façon définitive ; pour ce qui devait suivre,
+                              7
+Spinoza n’a pu manquer de voir — il l’indique même en
+passant — que la solution des problèmes posés exigeait la
+constitution préalable d’une cosmologie et d’une
+anthropologie, qu’il fallait du moins établir les principes de
+ces parties de la philosophie et il a dû, en conséquence,
+interrompre provisoirement la composition d’un ouvrage
+sur la méthode à suivre pour connaître.
+  Pourquoi, cependant, n’y est-il pas revenu par la suite ?
+Pourquoi après avoir rédigé l’Ethique n’a-t-il pas achevé le
+Traité de la Réforme de l’Entendement ?
+   Dans les Notes sur Spinoza, laissées par Lagneau, on
+trouve cette phrase [N 12] : « Pourquoi Spinoza n’a pas
+terminé son de Emend : parce qu’il n’avait pas appliqué,
+expérimenté la méthode expérimentale [N 13]. C’est pour cela
+qu’il ne la tenait pas comme il tenait l’autre. »
+  Je pense qu’il y a une part de vérité dans cette opinion
+d’un homme si profondément versé dans la philosophie de
+Spinoza. Toutefois, je ne crois pas que l’explication soit
+suffisante. Il est certain, en effet, que Spinoza a eu plus
+d’une occasion, sinon d’appliquer proprement la méthode
+expérimentale, au moins d’y réfléchir.
+   De nombreux passages des Lettres, l’intérêt marqué aux
+recherches des physiciens et des chimistes, la composition
+du Traité de l’Arc-en-Ciel [N 14], le projet, que nous savons
+qu’il avait formé, d’écrire un ouvrage sur la Philosophie
+Naturelle, pour faire suite à l’Ethique, nous permettent
+d’affirmer que Spinoza n’a jamais entièrement perdu de vue
+
+                              8
+les questions qui l’avaient préoccupé au moment où il
+écrivait sur la réforme de l’entendement, et, d’ailleurs, la
+composition de l’Ethique l’a nécessairement amené à se
+poser ces mêmes questions et en fournit même une solution
+au moins partielle.
+   Je pense que Spinoza n’a pas réussi à les tirer au clair à
+sa pleine et entière satisfaction, parce qu’elles ne pouvaient
+être résolues entièrement au temps et dans les termes où il
+les posait, et je me hâte d’ajouter que, s’il n’y est revenu par
+la suite dans aucun ouvrage destiné à être publié, c’est que
+la solution ne lui en paraissait pas indispensable et qu’il ne
+croyait pas que cette lacune pût compromettre la solidité de
+son œuvre. Ce qui est essentiel, c’est que la possibilité de la
+science soit établie ; quant aux moyens par lesquels elle se
+constituera, cela est relativement secondaire.
+   A la différence de Descartes, Spinoza est moraliste et non
+physicien. Les diverses sciences énumérées au début du
+Traite de la Réforme de l’Entendement ont leur place dans
+la vie humaine, telle qu’il la conçoit ; elles ne sont
+cependant pas une chose de première nécessité : l’homme
+peut parvenir à la liberté par la réflexion seule, pourvu qu’il
+sache que rien en lui ni hors de lui n’est inintelligible, et il
+est possible à cette même condition de déterminer
+dialectiquement les institutions qui conviennent à la cité.
+Ainsi le règlement, selon la droite raison, des choses
+humaines, et le salut de l’individu n’exigent pas la
+constitution préalable d’une science de la Nature considérée
+dans la multiplicité de ses modes.
+
+                               9
+    A la raison par laquelle Lagneau explique l’état
+d’inachèvement du Traité de la Réforme de l’Entendement,
+il faut donc ajouter celle-ci : Spinoza avait une autre et plus
+pressante besogne à accomplir, une besogne qu’il pouvait
+faire avant de reprendre le premier et qui importait
+davantage. Il avait à écrire le Traité Théologico-Politique et
+à prouver, contre toutes les églises, contre toutes les sectes
+(celle des collégiants exceptée) que l’Etat peut et doit être
+entièrement laïque, laisser à l’individu l’entière liberté de
+ses pensées philosophiques et religieuses, et ne permettre à
+aucune autorité religieuse de s’imposer par la force. Il avait
+à composer le Traité Politique et n’a pu aller au delà du
+onzième chapitre. Par-dessus tout, il avait à rédiger
+l’Ethique, à établir par la grande voie méthaphysique, la
+seule qu’il pût suivre, que le courage et la générosité ont par
+eux-mêmes un prix infini, et que la moralité n’a pas besoin
+de récompense, étant identique à l’être.
+    Spinoza a enseigné aux hommes de son temps, et de tous
+les temps, ce qu’ils ont à gagner à se traiter les uns les
+autres en êtres raisonnables ; il a montré à l’homme que,
+dans une âme claire, l’appétit se confond avec l’amour de
+Dieu, que la vie vraie, pas plus qu’elle n’est une vie de
+plaisirs, n’est une vie de peines et de privations, qu’elle est
+épanouissement joyeux, compréhension et possession de
+soi.
+   Il n’a pas repris et terminé son Traite de la Réforme de
+l’Entendement parce que, avant de pouvoir y travailler
+sérieusement [N 15], il avait à dire ces choses grandes et
+
+                              10
+salutaires, à les dire et à les prouver non seulement par ses
+écrits, mais par son exemple, par sa grande bonté et sa
+fermeté inflexible, par la douceur simple de ses mœurs et
+l’indépendance fière de son caractère, par sa modestie et
+son assurance ; en polissant des verres de lunettes et en
+écrivant à Albert Burgh [N 16] : « renonce à une superstition
+funeste, reconnais et cultive ta raison » ; en protestant
+contre la barbarie de la foule meurtrière des frères de Witt [N
+17], et en s’entretenant familièrement, gaiement, avec ses
+
+propriétaires van der Spyck ; en refusant la chaire de
+professeur qu’on lui offrait à Heidelberg, comme il avait
+refusé la richesse offerte par son ami S. de Vries, et en
+répondant sans jamais se lasser aux questions souvent peu
+intelligentes posées par ses amis, voire même par des
+adversaires plus ou moins déclarés comme Guillaume de
+Blyenbergh [N 18] ; en faisant toutes ces choses discrètement
+et sans faste, après avoir hésité et réfléchi quand il y avait
+lieu d’hésiter et de réfléchir ; capable qu’il était de ressentir
+les mêmes émotions que les autres hommes, et supérieur à
+presque tous par la clarté de l’esprit et la force de la
+volonté.
+              AVERTISSEMENT
+    RELATIF AU TRAITÉ DE LA RÉFORME DE
+              L’ENTENDEMENT
+   L’établissement du texte ne présente pas pour cet ouvrage les difficultés
+grandes que j’ai rencontrées dans ma traduction du Court Traité. J’ai pu suivre
+en général le texte de l’édition van Vloten et Land. Pour le choix que j’ai eu à
+faire parfois entre deux leçons proposées par ces éditeurs et pour corriger
+certains passages, je me suis aidé de l’opuscule de Léopold : Ad Spinozæ Opera
+
+                                      11
+Posthuma, La Haye, 1902 ; comme précédemment j’ai signalé par un
+astérisque* toutes les notes critiques.
+  Toutes les notes qui portent un numéro sont de Spinoza.
+   Pour rendre plus faciles les renvois et l’usage des notes explicatives, qu’on
+trouvera à la fin du volume, j’ai numéroté de 1 à 72 tous les paragraphes qu’on
+peut distinguer dans l’ouvrage en supposant qu’un paragraphe nouveau
+commence toutes les fois que l’auteur va à la ligne.
+  Il convient d’attirer l’attention du lecteur sur la traduction de certains mots
+importants :
+  En ce qui concerne d’abord la chose même qui est l’objet du Traité, j’ai cru
+devoir conserver le mot d’entendement par déférence pour l’usage établi et
+aussi parce que l’habitude, qui s’est introduite, de traduire par entendement le
+Verstand de Kant ne doit pas nous empêcher d’user du mot dans le sens
+cartésien, au moins quand nous l’employons au sujet d’auteurs du xviie siècle.
+   Intelligo désigne proprement l’acte de percevoir par l’entendement
+(intellectus), le fait d’avoir une idée claire d’une chose ou plus simplement le
+véritable connaître (tel que Descartes et Spinoza le définissent) : c’est par ce
+dernier mot que je l’ai habituellement traduit. J’ai traduit de même intellectio
+par connaissance ou connaissance claire ; intelligibile par connaissable.
+  Percipio est toujours rendu par percevoir, perceptio par perception, de même
+pour concipio et conceptus j’ai pris les mots français dérivés concevoir et
+conception ou concept.
+   Pour ce qui est du mot fingo, je n’ai pas voulu faire de même, le mot feindre
+en raison de son sens actuel pouvant donner lieu à une méprise : dans bien des
+cas le mot imaginer (au sens d’inventer) conviendrait assez ; toutefois il
+pourrait aussi entraîner certaines confusions, et j’avais à le réserver pour
+traduire imaginari ; j’ai adopté en fin de compte forger, ce qui m’a obligé à
+traduire idea ficta par idée forgée, après avoir été tenté d’emprunter à Descartes
+l’expression d’idée factice. Quant au substantif fictio, il n’y avait pas de raison
+pour ne pas le rendre par fiction.
+
+                                TRAITÉ
+    DE LA RÉFORME DE L’ENTENDEMENT
+
+
+                                       12
+    et de la meilleure voie a suivre pour parvenir a la
+               connaissance vraie des choses
+          AVERTISSEMENT AU LECTEUR
+Ce Traité de la Réforme de l’Entendement que nous te
+donnons ici, lecteur bienveillant, dans son état
+d’inachèvement, a été composé il y a bien des années, par
+l’auteur. Il eut toujours dans l’esprit de le terminer ;
+d’autres soins l’en ont empêché, et la mort finit par
+l’enlever avant qu’il eût pu, comme il l’eût désiré, mener
+son œuvre jusqu’au bout. Comme elle contient toutefois un
+grand nombre de choses remarquables et utiles, qui seront,
+nous n’en saurions douter, d’un grand prix pour le
+poursuivant sincère de la vérité, nous n’avons pas voulu
+que tu en fusses privé ; d’autre part, pour te faire paraître
+plus aisément pardonnables les obscurités, la rudesse et les
+imperfections qui s’y rencontrent çà et là, nous avons tenu à
+te prévenir et avons rédigé à cet effet le présent
+avertissement. Adieu.
+                           DE LA
+  RÉFORME DE L’ENTENDEMENT
+   (1) L’expérience m’avait appris que toutes les
+occurrences les plus fréquentes de la vie ordinaire sont
+vaines et futiles ; je voyais qu’aucune des choses, qui
+étaient pour moi cause ou objet de crainte, ne contient rien
+en soi de bon ni de mauvais, si ce n’est à proportion du
+mouvement qu’elle excite dans l’âme : je résolus enfin de
+chercher s’il existait quelque objet qui fût un bien véritable,
+capable de se communiquer, et par quoi l’âme, renonçant à
+                              13
+tout autre, pût être affectée uniquement, un bien dont la
+découverte et la possession eussent pour fruit une éternité
+de joie continue et souveraine. Je résolus, dis-je, enfin au
+premier regard, en effet, il semblait inconsidéré, pour une
+chose encore incertaine, d’en vouloir perdre une certaine ;
+je voyais bien quels avantages se tirent de l’honneur et de la
+richesse, et qu’il me faudrait en abandonner la poursuite, si
+je voulais m’appliquer sérieusement à quelque entreprise
+nouvelle : en cas que la félicité suprême y fût contenue, je
+devais donc renoncer à la posséder ; en cas au contraire
+qu’elle n’y fût pas contenue, un attachement exclusif à ces
+avantages me la faisait perdre également. Mon âme
+s’inquiétait donc de savoir s’il était possible par rencontre
+d’instituer une vie nouvelle, ou du moins d’acquérir une
+certitude touchant cette institution, sans changer l’ordre
+ancien ni la conduite ordinaire de ma vie. Je le tentai
+souvent en vain. Les occurrences les plus fréquentes dans la
+vie, celles que les hommes, ainsi qu’il ressort de toutes
+leurs œuvres, prisent comme étant le souverain bien, se
+ramènent en effet à trois objets : richesse, honneur, plaisir
+des sens. Or chacun d’eux distrait l’esprit de toute pensée
+relative à un autre bien dans le plaisir l’âme est suspendue
+comme si elle eût trouvé un bien où se reposer : elle est
+donc au plus haut point empêchée de penser à un autre
+bien ; après la jouissance d’autre part vient une extrême
+tristesse qui, si elle ne suspend pas la pensée, la trouble et
+l’émousse. La poursuite de l’honneur et de la richesse
+n’absorbe pas moins l’esprit ; celle de la richesse, surtout
+quand on la recherche pour elle-même [1], parce qu’alors on
+                             14
+lui donne rang de souverain bien ; quant à l’honneur, il
+absorbe l’esprit d’une façon bien plus exclusive encore,
+parce qu’on ne manque jamais de le considérer comme une
+chose bonne par elle-même, et comme une fin dernière à
+laquelle se rapportent toutes les actions. En outre l’honneur
+et la richesse ne sont point suivis de repentir comme le
+plaisir ; au contraire, plus on possède soit de l’un soit de
+l’autre, plus la joie qu’on éprouve est accrue, d’où cette
+conséquence qu’on est de plus en plus excité à les
+augmenter ; mais si en quelque occasion nous sommes
+trompés dans notre espoir, alors prend naissance une
+tristesse extrême. L’honneur enfin est encore un grand
+empêchement en ce que, pour y parvenir, il faut
+nécessairement diriger sa vie d’après la manière de voir des
+hommes, c’est-à-dire fuir ce qu’ils fuient communément et
+chercher ce qu’ils cherchent.
+   (2) Voyant donc que ces objets sont un obstacle à
+l’entreprise d’instituer une vie nouvelle, que même il y a
+entre eux et elle une opposition telle qu’il faille
+nécessairement renoncer soit aux uns, soit à l’autre, j’étais
+contraint de chercher quel parti était le plus utile ; il
+semblait en effet, je l’ai dit, que je voulusse pour un bien
+incertain en perdre un certain. Avec un peu d’attention
+toutefois je reconnus d’abord que si, renonçant à ces objets,
+je m’attachais à l’institution d’une vie nouvelle,
+j’abandonnais un bien incertain de sa nature, comme il
+ressort clairement des observations ci-dessus, pour un bien
+incertain, non du tout de sa nature (puisque j’en cherchais
+
+                             15
+un inébranlable) mais seulement quant à son atteinte. Une
+méditation plus prolongée me convainquit ensuite que, dès
+lors, si seulement je pouvais réfléchir à fond, j’abandonnais
+un mal certain pour un bien certain. Je me voyais en effet
+dans un extrême péril et contraint de chercher de toutes mes
+forces un remède, fût-il incertain ; de même un malade
+atteint d’une affection mortelle, qui voit la mort imminente,
+s’il n’applique un remède, est contraint de le chercher, fût-il
+incertain, de toutes ses forces, puisque tout son espoir est
+dans ce remède. Or les objets que poursuit le vulgaire non
+seulement ne fournissent aucun remède propre à la
+conservation de notre être, mais ils l’empêchent et,
+fréquemment cause de perte pour ceux qui les possèdent [2],
+ils sont toujours cause de perte pour ceux qu’ils possèdent.
+   (3) Très nombreux en effet sont les exemples d’hommes
+qui ont souffert la persécution et la mort à cause de leur
+richesse, et aussi d’hommes qui, pour s’enrichir, se sont
+exposés à tant de périls qu’ils ont fini par payer leur
+déraison de leur vie. Il n’y a pas moins d’exemples
+d’hommes qui, pour conquérir ou conserver l’honneur, ont
+pâti très misérablement. Innombrables enfin sont ceux dont
+l’amour excessif du plaisir a hâté la mort. Ces maux
+d’ailleurs semblaient provenir de ce que toute notre félicité
+et notre misère ne résident qu’en un seul point : à quelle
+sorte d’objet sommes-nous attachés par l’amour ? Pour un
+objet qui n’est pas aimé, il ne naîtra point de querelle ; nous
+serons sans tristesse s’il vient à périr, sans envie s’il tombe
+en la possession d’un autre ; sans crainte, sans haine et,
+
+                              16
+pour le dire d’un mot, sans trouble de l’âme ; toutes ces
+passions sont, au contraire, notre partage quand nous
+aimons des choses périssables, comme toutes celles dont
+nous venons de parler. Mais l’amour allant à une chose
+éternelle et infinie repaît l’âme d’une joie pure, d’une joie
+exempte de toute tristesse ; bien grandement désirable et
+méritant qu’on le cherche de toutes ses forces. Ce n’est pas
+sans raison toutefois que j’ai écrit ces mots : si seulement je
+pouvais réfléchir sérieusement. Si clairement en effet que
+mon esprit perçût ce qui précède, je ne pouvais encore me
+détacher entièrement des biens matériels, des plaisirs et de
+la gloire.
+   (4) Un seul point était clair : pendant le temps du moins
+que mon esprit était occupé de ces pensées, il se détournait
+des choses périssables et sérieusement pensait à l’institution
+d’une vie nouvelle ; cela me fut une grande consolation : le
+mal, je le voyais, n’était pas d’une nature telle qu’il ne dût
+céder à aucun remède. Au début, à la vérité, ces relâches
+furent rares et de très courte durée, mais, à mesure que le
+vrai bien me fut connu de mieux en mieux, ils devinrent
+plus fréquents et durèrent davantage ; surtout quand j’eus
+observé que le gain d’argent, le plaisir et la gloire ne sont
+nuisibles qu’autant qu’on les recherche pour eux-mêmes et
+non comme des moyens en vue d’une autre fin. Au
+contraire, si on les recherche comme des moyens, ils ne
+dépasseront pas une certaine mesure, et, loin de nuire,
+contribueront beaucoup à l’atteinte de la fin qu’on se
+propose ainsi que nous le montrerons en son temps.
+
+                              17
+   (5) Je me bornerai à dire ici brièvement ce que j’entends
+par un bien véritable et aussi ce qu’est le souverain bien.
+Pour l’entendre droitement il faut noter que bon et mauvais
+se disent en un sens purement relatif, une seule et même
+chose pouvant être appelée bonne et mauvaise suivant
+l’aspect sous lequel on la considère ; ainsi en est-il de
+parfait et d’imparfait. Nulle chose, en effet, considérée dans
+sa propre nature ne sera dite parfaite ou imparfaite, surtout
+quand on aura connu que tout ce qui arrive se produit selon
+un ordre éternel et des lois de nature déterminées. Tandis
+cependant que l’homme, dans sa faiblesse, ne saisit pas cet
+ordre par la pensée, comme il conçoit une nature humaine
+de beaucoup supérieure en force à la sienne et ne voit point
+d’empêchement à ce qu’il en acquière une pareille, il est
+poussé à chercher des intermédiaires le conduisant à cette
+perfection ; tout ce qui dès lors peut servir de moyen pour y
+parvenir est appelé bien véritable ; le souverain bien étant
+d’arriver à jouir, avec d’autres individus s’il se peut, de
+cette nature supérieure. Quelle est donc cette nature ? Nous
+l’exposerons en son temps et montrerons qu’elle est [3] la
+connaissance de l’union qu’a l’âme pensante avec la nature
+entière. Telle est donc la fin à laquelle je tends : acquérir
+cette nature supérieure et faire de mon mieux pour que
+beaucoup l’acquièrent avec moi ; car c’est encore une partie
+de ma félicité de travailler à ce que beaucoup connaissent
+clairement ce qui est clair pour moi, de façon que leur
+entendement et leur désir s’accordent pleinement avec mon
+propre entendement et mon propre désir. Pour parvenir à
+
+                             18
+cette fin il est nécessaire [4] d’avoir de la Nature une
+connaissance telle qu’elle suffise à l’acquisition de cette
+nature supérieure ; en second lieu, de former une société
+telle qu’il est à désirer pour que le plus d’hommes possible
+arrivent au but aussi facilement et sûrement qu’il se pourra.
+On devra s’appliquer ensuite à la Philosophie Morale de
+même qu’à la Science de l’Éducation ; comme la santé n’est
+pas un moyen de peu d’importance pour notre objet, un
+ajustement complet de la Médecine sera nécessaire ; comme
+enfin l’art rend faciles quantité de travaux qui, sans lui,
+seraient difficiles, fait gagner beaucoup de temps et accroît
+l’agrément de la vie, la Mécanique ne devra être en aucune
+façon négligée. Avant tout cependant il faut penser au
+moyen de guérir l’entendement et de le purifier, autant qu’il
+se pourra au début, de façon qu’il connaisse les choses avec
+succès, sans erreur et le mieux possible. Il est par là, dès à
+présent, visible pour chacun, que je veux diriger toutes les
+sciences vers une seule fin et un seul but [5], qui est de
+parvenir à cette suprême perfection humaine dont nous
+avons parlé ; tout ce qui dans les sciences ne nous
+rapproche pas de notre but devra être rejeté comme inutile ;
+tous nos travaux, en un mot, comme toutes nos pensées
+devront tendre à cette fin. Pendant toutefois que nous
+sommes occupés de cette poursuite et travaillons à
+maintenir notre entendement dans la voie droite, il est
+nécessaire que nous vivions ; nous sommes donc obligés
+avant tout de poser certaines règles que nous tiendrons pour
+bonnes et qui sont les suivantes.
+
+                             19
+   (6) I. Mettre nos paroles à la portée du vulgaire et faire
+d’après sa manière de voir tout ce qui ne nous empêchera
+pas d’atteindre notre but : nous avons beaucoup à gagner
+avec lui pourvu, qu’autant qu’il se pourra, nous déférions à
+sa manière de voir et nous trouverons ainsi des oreilles bien
+disposées à entendre la vérité.
+  (7) II. Des jouissances de la vie prendre tout juste ce qu’il
+faut pour le maintien de la santé.
+  (8) III. Rechercher enfin l’argent, ou tout autre bien
+matériel, autant seulement qu’il est besoin pour la
+conservation de la vie et de la santé et pour nous conformer
+aux usages de la cité, en tout ce qui n’est pas opposé à notre
+but.
+   (9) Ces règles posées, je me mets en route et m’attache
+d’abord à ce qui doit venir le premier, c’est-à-dire à
+réformer l’entendement et à le rendre apte à connaître les
+choses comme il est nécessaire pour atteindre notre but.
+Pour cela, l’ordre tiré de la nature exige que je passe en
+revue tous les modes de perception dont j’ai usé jusqu’ici
+pour affirmer ou nier avec assurance, afin de choisir le
+meilleur et de commencer du même coup à connaître mes
+forces et ma nature que je désire porter à sa perfection.
+   (10) En y regardant attentivement, le mieux que je puisse
+faire est de ramener à quatre tous ces modes.
+ (11) I. Il y a une perception acquise par ouï-dire ou par le
+moyen d’un signe conventionnel arbitraire.
+
+
+                              20
+   (12) II. Il y a une perception acquise par expérience
+vague, c’est-à-dire par une expérience qui n’est pas
+déterminée par l’entendement ; ainsi nommée seulement
+parce que, s’étant fortuitement offerte et n’ayant été
+contredite par aucune autre, elle est demeurée comme
+inébranlée en nous.
+   (13) III. Il y a une perception où l’essence d’une chose se
+conclut d’une autre chose, mais non adéquatement, comme
+il arrive [6] ou bien quand, d’un effet, nous faisons ressortir
+la cause ou bien qu’une conclusion se tire de quelque
+caractère général toujours accompagné d’une certaine
+propriété.
+  (14) IV. Il y a enfin une perception dans laquelle une
+chose est perçue par sa seule essence ou par la connaissance
+de sa cause prochaine.
+   (15) Voici des exemples pour illustrer ces distinctions. Je
+sais par ouï-dire seulement quel a été mon jour de
+naissance ; que j’ai eu tels parents et autres choses
+semblables, dont je n’ai jamais douté. Je sais par expérience
+vague que je mourrai ; si je l’affirme, en effet, c’est que j’ai
+vu d’autres êtres semblables à moi rencontrer la mort, bien
+que tous n’aient pas vécu le même espace de temps et ne
+soient pas morts de la même maladie. C’est par expérience
+vague encore que je sais que l’huile est pour la flamme un
+aliment propre à l’entretenir, et que l’eau est propre à
+l’éteindre, que le chien est un animal aboyant et l’homme
+un animal raisonnable ; et ainsi ai-je appris presque tout ce
+qui se fait pour l’usage de la vie. Voici maintenant comment
+                              21
+nous concluons une chose d’une autre chose. Quand nous
+percevons clairement que nous sentons tel corps et n’en
+sentons aucun autre, nous concluons clairement de là que
+l’âme est unie [7] au corps et que cette union est la cause de
+cette sensation ; mais en quoi cette sensation, ou cette
+union, consiste, c’est ce que nous ne pouvons connaître
+absolument par là ; de même quand je connais la nature de
+la vision et aussi cette propriété à elle appartenant, qu’un
+même objet vu à grande distance paraît plus petit que si
+nous le regardons de près, j’en conclus [8],[N 19] que le soleil
+est plus grand qu’il ne m’apparaît et autres propositions
+semblables. Une chose enfin est perçue par sa seule essence
+quand, par cela même que je sais quelque chose, je sais ce
+que c’est que de savoir quelque chose ou quand, par la
+connaissance que j’ai de l’essence de l’âme, je sais qu’elle
+est unie au corps. C’est de cette sorte de connaissance que
+nous savons que deux et trois font cinq et que deux lignes
+parallèles à une troisième sont parallèles entre elles, etc.
+Très peu nombreuses toutefois sont les choses que j’ai pu
+jusqu’ici connaître d’une connaissance de cette sorte.
+   (16) Pour faire mieux entendre tout ce qui précède je me
+servirai enfin d’un exemple unique : Soient donnés trois
+nombres ; on en cherche un quatrième qui soit au troisième
+comme le second est au premier. Des marchands diront ici
+mainte fois qu’ils savent ce qu’il faut faire pour trouver ce
+quatrième nombre parce qu’ils n’ont pas encore oublié le
+procédé que sans démonstration ils ont appris de leurs
+maîtres. D’autres de l’expérience des cas simples tirent un
+
+                              22
+principe universel : il arrive que le quatrième nombre soit
+connu comme dans la proportion 2, 4, 3, 6, et l’expérience
+montre qu’en divisant par le premier le produit du second et
+du troisième, on a comme quotient le nombre 6 ; obtenant
+par cette opération le même nombre qu’ils savaient déjà être
+le quatrième proportionnel demandé, ils en concluent que
+cette opération permet toujours de trouver un quatrième
+proportionnel. Les Mathématiciens, s’appuyant sur la
+démonstration d’Euclide (proposition 19, livre VII), savent
+quels nombres sont proportionnels entre eux : ils le
+concluent de la nature de la proportion et de cette propriété
+lui appartenant que le produit du premier terme et du
+quatrième égale le produit du second et du troisième ; ils ne
+voient pas toutefois adéquatement la proportionnalité des
+nombres donnés et, s’ils la voient, ce n’est point par la vertu
+de la proposition d’Euclide, mais intuitivement, sans faire
+aucune opération. Pour faire choix maintenant du meilleur
+parmi ces modes de perception, il est requis d’énumérer
+brièvement les moyens qui nous sont nécessaires pour
+atteindre notre fin, à savoir :
+  (17) I. Connaître exactement notre nature, que nous
+désirons porter à sa perfection, et avoir aussi de la nature
+des choses une connaissance suffisante
+   (18) II. Pour en faire droitement ressortir les différences,
+les conformités et les oppositions des choses
+  (19) III. De façon à concevoir droitement à quoi elles se
+prêtent et à quoi elles ne se prêtent pas
+
+
+                              23
+  (20) IV. Afin de comparer ce résultat avec la nature et la
+puissance de l’homme. Par où se verra aisément la plus
+haute perfection où l’homme puisse parvenir.
+  (21) Après ces considérations voyons quel mode de
+perception doit être choisi :
+   (22) Pour le premier, il est de soi manifeste que par le
+simple ouï-dire, outre que ce mode est fort incertain, nous
+ne percevons nulle essence de chose ainsi qu’il apparaît
+dans notre exemple ; or nous ne pouvons connaître
+l’existence singulière d’une chose que si l’essence nous en
+est connue, comme on le verra par la suite ; d’où nous
+concluons que toute certitude acquise par ouï-dire doit être
+exclue des sciences. Par la simple audition en effet, sans un
+acte préalable de l’entendement propre, nul ne peut être
+affecté.
+   (23) Quant au deuxième mode [9] on ne peut dire non plus
+qu’il ait l’idée de la proportion qu’il cherche. Outre que
+cette connaissance est fort incertaine et n’est jamais
+définitive, on ne percevra jamais par expérience vague autre
+chose que des accidents dans les choses de la Nature, et de
+ces derniers nous n’avons d’idée claire que si les essences
+nous sont d’abord connues. Il faut donc également rejeter
+l’expérience vague.
+  (24) Au sujet du troisième mode par contre, on doit dire
+en quelque manière qu’il nous donne l’idée d’une chose et
+aussi nous permet de conclure sans danger d’erreur ; il n’est
+cependant pas par lui-même un moyen d’atteindre à notre
+perfection.
+                             24
+   (25) Seul le quatrième mode saisit l’essence adéquate
+d’une chose et cela sans risque d’erreur ; c’est pourquoi
+nous devons nous en servir principalement. De quelle façon
+il faut l’employer pour acquérir des choses inconnues une
+connaissance claire de cette sorte, et comment nous y
+parviendrons le plus directement, c’est ce que nous allons
+faire en sorte d’expliquer.
+   (26) Sachant maintenant quelle sorte de connaissance
+nous est nécessaire, il nous faut indiquer la Voie et la
+Méthode par où nous arriverons à connaître ainsi
+véritablement les choses que nous avons à connaître. Pour
+cela il faut observer d’abord qu’il n’y aura pas ici d’enquête
+se poursuivant à l’infini : pour trouver la meilleure méthode
+de recherche de la vérité, nous n’aurons pas besoin d’une
+méthode par laquelle nous rechercherions cette méthode de
+recherche, et pour rechercher cette seconde méthode nous
+n’aurons pas besoin d’une troisième et ainsi de suite à
+l’infini ; car de cette façon nous ne parviendrions jamais à
+la connaissance de la vérité ni même à aucune
+connaissance. Il en est de cela tout de même que des
+instruments matériels, lesquels donneraient lieu à pareil
+raisonnement. Pour forger le fer en effet, on a besoin d’un
+marteau et pour avoir un marteau il faut le faire ; pour cela
+un autre marteau, d’autres instruments sont nécessaires et,
+pour avoir ces instruments, d’autres encore et ainsi de suite
+à l’infini ; par où l’on pourrait s’efforcer vainement de
+prouver que les hommes n’ont aucun pouvoir de forger le
+fer. En réalité les hommes ont pu, avec les instruments
+
+                             25
+naturels, venir à bout, bien qu’avec peine et imparfaitement,
+de certaines besognes très faciles. Les ayant achevées, ils en
+ont exécuté de plus difficiles avec une peine moindre et
+plus parfaitement et, allant ainsi par degrés des travaux les
+plus simples aux instruments, de ces instruments à d’autres
+travaux et d’autres instruments, par un progrès constant, ils
+sont parvenus enfin à exécuter tant d’ouvrages et de si
+difficiles avec très peu de peine. De même l’entendement
+avec sa puissance native [10], se façonne des instruments
+intellectuels par lesquels il accroît ses forces pour accomplir
+d’autres œuvres [11] intellectuelles ; de ces dernières il tire
+d’autres instruments, c’est-à-dire le pouvoir de pousser plus
+loin sa recherche, et il continue ainsi à progresser jusqu’à ce
+qu’il soit parvenu au faîte de la sagesse. Qu’il en soit ainsi
+pour l’entendement, on le verra aisément, pourvu que l’on
+comprenne en quoi consiste la méthode de recherche de la
+vérité, et quels sont ces instruments naturels par la seule
+aide desquels il en façonne d’autres lui permettant d’aller de
+l’avant. Pour le montrer je procéderai comme il suit :
+   (27) L’idée [12] vraie (car nous avons une idée vraie) est
+quelque chose de distinct de ce dont elle est l’idée : autre
+est le cercle, autre l’idée du cercle. L’idée du cercle n’est
+pas un objet ayant un centre et une périphérie comme le
+cercle, et pareillement l’idée d’un corps n’est pas ce corps
+même. Étant quelque chose de distinct de ce dont elle est
+l’idée, elle sera donc aussi en elle-même quelque chose de
+connaissable ; c’est-à-dire que l’idée, en tant qu’elle a une
+essence formelle, peut être l’objet d’une autre essence
+
+                              26
+objective et, à son tour, cette autre essence objective,
+considérée en elle-même, sera quelque chose de réel et de
+connaissable et ainsi indéfiniment. Pierre par exemple est
+un objet réel, l’idée vraie de Pierre est l’essence objective
+de Pierre, et en elle-même elle est aussi quelque chose de
+réel qui est entièrement distinct de Pierre lui-même. Puis
+donc que l’idée de Pierre est quelque chose de réel, elle sera
+aussi l’objet d’une autre idée qui contiendra objectivement
+en elle tout ce que l’idée de Pierre contient formellement, et
+à son tour cette idée, qui aura pour objet l’idée de Pierre,
+aura aussi son essence qui pourra de même être l’objet
+d’une nouvelle idée, et ainsi indéfiniment. Chacun peut
+l’éprouver en voyant que, sachant ce qu’est Pierre il sait
+aussi qu’il sait, et encore sait qu’il sait qu’il sait, etc. Il est
+constant par là, que pour connaître l’essence de Pierre, il
+n’est pas nécessaire que l’entendement connaisse l’idée
+même de Pierre et, encore moins, l’idée de l’idée de Pierre ;
+ce qui revient à dire que je n’ai pas besoin pour savoir, de
+savoir que je sais, et encore bien moins de savoir que je sais
+que je sais ; pas plus que pour connaître l’essence du
+triangle il n’est besoin de connaître celle du cercle [13]. C’est
+le contraire qui a lieu dans ces idées : pour savoir que je
+sais, il est nécessaire que je sache d’abord. Il suit de là
+évidemment que la certitude n’est rien en dehors de
+l’essence objective elle-même ; c’est-à-dire que la manière
+dont nous sentons l’essence objective est la certitude elle-
+même. Mais de là suit évidemment que, pour avoir la
+certitude de la vérité, nulle marque n’est nécessaire en
+dehors de la possession de l’idée vraie, car, ainsi que nous
+                                27
+l’avons montré, je n’ai pas besoin pour savoir de savoir que
+je sais. Et de là suit de nouveau manifestement que seul
+peut savoir ce qu’est la plus haute certitude, celui qui a
+l’idée adéquate ou l’essence objective d’une chose : il le
+faut puisque certitude et essence objective ne font qu’un.
+Puis donc que la vérité n’a besoin d’aucune marque et qu’il
+suffit de posséder les essences objectives ou, ce qui revient
+au même, les idées des choses pour lever tout doute, il suit
+de là que la vraie méthode ne consiste pas à chercher la
+marque à laquelle se reconnaît la vérité après l’acquisition
+des idées ; la vraie méthode est la voie par laquelle la vérité
+elle-même, ou les essences objectives des choses, ou leurs
+idées (tous ces termes ont même signification) sont
+cherchées dans l’ordre dû [14]. La méthode, pour y revenir,
+doit nécessairement parler du raisonnement ou de l’action
+de connaitre ; c’est-à-dire qu’elle n’est pas le raisonnement
+même par lequel nous connaissons les causes des choses,
+encore bien moins la connaissance de ces causes ; elle
+consiste à bien entendre ce qu’est une idée vraie, en la
+distinguant des autres perceptions et en en étudiant la
+nature, de façon à prendre connaissance de notre pouvoir de
+connaître et à astreindre notre esprit à connaître, selon cette
+norme, tout ce qui doit être connu, lui traçant de plus à titre
+d’auxiliaires des règles assurées et lui épargnant d’inutiles
+fatigues. De là ressort que la Méthode n’est pas autre chose
+que la connaissance réflexive ou l’idée de l’idée ; et, n’y
+ayant pas d’idée d’une idée, si l’idée n’est donnée d’abord,
+il n’y aura donc point de méthode si une idée n’est donnée
+d’abord. La bonne méthode est donc celle qui montre
+                              28
+comment l’esprit doit être dirigé selon la norme de l’idée
+vraie donnée.
+   (28) Deux idées, poursuivrons-nous, soutenant le même
+rapport que les essences formelles qui en sont les objets, il
+s’ensuit que la connaissance réflexive s’appliquant à l’idée
+de l’Être le plus parfait l’emporte sur la connaissance
+réflexive des autres idées ; la méthode la plus parfaite sera
+donc celle qui montre, selon la norme de l’idée donnée de
+l’Être le plus parfait, comment l’esprit doit être dirigé. Par
+où se connaît aisément comment l’esprit, à mesure que sa
+connaissance s’étend à plus de choses, acquiert de
+nouveaux instruments lui permettant de continuer avec plus
+de facilité à l’étendre. Avant tout en effet, comme il ressort
+de ce qui a été dit, doit exister en nous, comme un
+instrument donné de naissance, l’idée vraie dont la
+connaissance fasse connaître la différence existant entre une
+perception de cette sorte et toutes les autres. En cela
+consiste une partie de la méthode. Comme il va de soi,
+d’autre part, que l’esprit se connaît d’autant mieux que sa
+connaissance de la nature est plus étendue, il est constant
+que cette première partie de la méthode sera d’autant plus
+parfaite que l’esprit connaîtra plus de choses et qu’elle sera
+parfaite au plus haut point quand l’esprit s’applique
+attentivement ou réfléchit à la connaissance de l’Être le plus
+parfait. En second lieu, plus l’esprit sait de choses, mieux
+aussi il connaît ses propres forces et l’ordre de la Nature ;
+mais, mieux il connaît ses propres forces et plus aisément il
+peut se diriger et se donner des règles ; et mieux il connaît
+
+                             29
+l’ordre de la Nature, plus aisément il peut se préserver des
+démarches inutiles ; et c’est en quoi consiste toute la
+méthode comme nous l’avons dit. Il faut ajouter qu’il en est
+objectivement de l’idée tout de même qu’il en est de son
+objet. Si donc il existait dans la Nature quelque chose qui
+n’eût aucun commerce avec d’autres choses, à supposer
+qu’il y ait [N 20] de cette chose une essence objective,
+s’accordant en tout avec son essence formelle, elle aussi
+n’aurait [15] aucun commerce avec d’autres idées, c’est-à-
+dire que nous n’en pourrons rien conclure. Au contraire les
+choses ayant commerce avec d’autres, comme toutes celles
+qui existent dans la Nature, seront connues et leurs essences
+objectives auront entre elles le même commerce, c’est-à-
+dire que d’autres idées s’en déduiront, lesquelles auront à
+leur tour commerce avec d’autres et ainsi croîtront de
+nouveaux instruments pour aller plus avant. Ce que je
+cherchais à démontrer. Pour poursuivre enfin, de ce que
+nous avons dit en dernier, à savoir que l’idée doit s’accorder
+entièrement avec l’essence formelle correspondante, il suit
+clairement que, d’une manière générale, pour présenter un
+tableau de la Nature, notre esprit doit faire sortir toutes ses
+idées de celle qui représente la source et l’origine de la
+Nature entière, de façon que cette idée soit aussi la source
+des autres idées.
+   (29) Peut-être ici s’étonnera-t-on qu’après avoir dit que la
+bonne méthode est celle qui montre comment l’esprit doit
+être dirigé selon la norme de l’idée vraie donnée, nous le
+prouvions par le raisonnement : ce qui semble indiquer que
+
+                              30
+cela n’est pas connu de soi. On pourra aussi demander si
+notre raisonnement est bon. Si notre raisonnement est bon
+nous devons partir de l’idée donnée, et comme ce point de
+départ a lui-même besoin d’une démonstration, il nous
+faudrait un second raisonnement pour justifier le premier,
+puis un troisième pour justifier le second, et ainsi à l’infini.
+A quoi je réponds : si quelqu’un, par un destin qui lui serait
+advenu, avait marché de l’avant dans son investigation de la
+Nature, comme nous l’avons expliqué, c’est-à-dire en
+acquérant des idées nouvelles dans l’ordre dû, selon la
+norme de l’idée vraie donnée, jamais il n’eût douté de la
+vérité [16] qu’il eût ainsi possédée, parce que la vérité,
+comme nous l’avons dit, se fait connaître elle-même, et que
+tout aussi se fût offert à lui d’un cours spontané. Mais cela
+n’advient jamais ou advient rarement ; j’ai donc été obligé
+de poser ces principes afin que nous puissions acquérir par
+un dessein prémédité ce qui ne nous est pas échu par
+destin ; je voulais aussi faire voir que, pour établir la vérité,
+et faire de bons raisonnements, nous n’avons besoin
+d’autres instruments que la vérité elle-même et le bon
+raisonnement : j’ai confirmé un bon raisonnement et je
+m’efforce encore de le justifier en raisonnant bien. Ajoutez
+que de cette façon les hommes s’accoutument aux
+méditations intérieures. La raison d’ailleurs pour laquelle il
+advient rarement que, dans l’étude de la Nature, on
+conduise son investigation dans l’ordre dû, ce sont d’abord
+les préjugés dont nous expliquerons plus tard les causes
+dans notre Philosophie. En second lieu, pour suivre cet
+ordre, il faut une attention très exacte et une vue très
+                               31
+distincte, ce qui exige beaucoup d’application. Enfin cela
+tient aussi à l’état des affaires humaines qui est, comme
+nous l’avons déjà montré, très sujet au changement. Il y a
+encore d’autres raisons que nous ne recherchons pas.
+   (30) Si quelqu’un demande, comme il se peut, pourquoi
+moi-même je n’ai pas exposé d’abord, et avant tout, les
+vérités de la Nature dans l’ordre dû, puisque la vérité se fait
+connaître elle-même ? Je réponds en avertissant le lecteur
+qu’il se garde quand il rencontrera par la suite des
+propositions contraires à l’opinion commune de les rejeter
+comme fausses ; que d’abord il prenne en considération
+l’ordre suivi par nous pour les prouver, et il acquerra la
+certitude que nous sommes parvenus à la connaissance de la
+vérité ; telle est la raison pour laquelle j’ai commencé par
+ces considérations sur la méthode.
+   (31) Si, par la suite, quelque sceptique se trouvait dans le
+doute à l’égard de la première vérité elle-même et de toutes
+celles que nous déduirons selon la norme de cette première
+vérité, c’est, ou bien qu’il parlera contre sa conscience, ou
+bien nous avouerons qu’il y a des hommes dont l’esprit est
+complètement aveugle, qu’il le soit de naissance ou que les
+préjugés, c’est-à-dire quelque accident extérieur, l’aient
+rendu tel. En effet ils n’ont même pas conscience d’eux-
+mêmes : s’ils affirment quelque chose ou doutent de
+quelque chose, ils ne savent pas qu’ils affirment ou qu’ils
+doutent ; ils disent qu’ils ne savent rien, et cela même qu’ils
+ne savent rien, ils déclarent l’ignorer ; encore ne le disent-
+ils pas sans restriction, car ils craignent de s’avouer
+
+                              32
+existants, alors qu’ils ne savent rien, si bien qu’il leur faut
+enfin garder le silence pour être sûrs de ne rien admettre qui
+ait senteur de vérité. Il faut, en définitive, s’abstenir de
+parler de sciences avec eux (car pour ce qui concerne
+l’usage de la vie et de la société, la nécessité les oblige à
+admettre leur propre existence, à chercher ce qui leur est
+utile, à affirmer et à nier sous serment bien des choses).
+Leur prouve-t-on quelque chose, en effet, ils ne savent si
+l’argumentation est probante ou défectueuse. S’ils nient,
+concèdent, ou opposent une objection, ils ne savent qu’ils
+nient, concèdent, ou opposent une objection ; il faut donc
+les considérer comme des automates entièrement privés de
+pensée.
+   (32) Revenons maintenant à notre dessein : nous avons
+primo déterminé la Fin vers laquelle nous nous appliquons à
+diriger toutes nos pensées. Nous avons reconnu secundo
+quelle est la Perception la meilleure à l’aide de laquelle
+nous puissions parvenir à notre perfection ; tertio, quelle est
+la première Voie où doive s’attacher l’esprit pour bien
+commencer : elle consiste, étant donnée une idée vraie
+quelconque, à la prendre comme norme pour continuer ses
+recherches suivant des lois assurées. Pour le faire
+droitement, il faut demander à la Méthode : Primo, de
+distinguer l’idée vraie de toutes les autres perceptions et de
+préserver l’esprit de ces dernières ; secundo, de tracer des
+règles pour percevoir selon cette norme les choses
+inconnues ; tertio, d’instituer un ordre pour nous épargner
+d’inutiles fatigues. Après avoir fait connaissance avec cette
+
+                              33
+méthode nous avons vu quarto, que pour qu’elle fût la plus
+parfaite, il fallait que nous eussions l’idée de l’Être le plus
+parfait. Nous aurons donc au début à prendre garde avant
+tout que nous parvenions le plus vite possible à la
+connaissance d’un tel Être.
+   (33) Commençons donc par la première partie de la
+Méthode qui est, comme nous l’avons dit, de distinguer et
+de séparer l’Idée vraie des autres perceptions, et
+d’empêcher l’esprit de confondre les idées fausses, forgées
+et douteuses avec les vraies ; mon intention est d’expliquer
+cela amplement en cet endroit, afin d’arrêter la pensée du
+lecteur sur une connaissance aussi nécessaire, et aussi parce
+que beaucoup en sont venus à douter même des choses
+vraies pour n’avoir pas pris garde à ce qui distingue la
+perception vraie de toutes les autres. Ils ressemblent ainsi à
+des hommes qui, pendant la veille, ne mettaient d’abord pas
+en doute qu’ils ne fussent éveillés, mais, s’étant une fois
+crus assurés en rêve, comme il arrive, qu’ils étaient éveillés,
+et ayant reconnu par la suite leur erreur, se sont mis à douter
+même de leurs veilles ; accident dont la raison est qu’ils
+n’ont jamais distingué le sommeil d’avec la veille. J’avertis
+toutefois que je ne traiterai pas ici de l’essence de chaque
+perception et ne l’expliquerai point par sa cause prochaine ;
+car cela appartient à la Philosophie. J’exposerai seulement
+ce que demande la méthode, c’est-à-dire à quel sujet se
+forme une perception fausse, forgée et douteuse, et
+comment nous arriverons à nous en libérer. Notre première
+enquête aura pour objet l’Idée Forgée.
+
+                              34
+   (34) Toute perception a pour objet une chose considérée
+comme existante ou bien seulement une essence et la
+plupart des fictions ont trait à des choses considérées
+comme existantes ; je parlerai donc d’abord de cette
+dernière sorte, savoir celle où seule l’existence est
+controuvée, tandis que la chose que l’on se représente
+fictivement dans telle condition est connue ou supposée
+telle. Par exemple, je forge cette idée que Pierre, que je
+connais, va à la maison, vient me voir [17] et autres choses
+semblables. Je demande ici : à quoi se rapporte une pareille
+idée ? Je vois qu’elle a trait uniquement aux choses
+possibles. J’appelle impossible une chose dont la nature
+implique qu’il y a contradiction à en poser l’existence ;
+nécessaire une chose dont la nature implique qu’il y a
+contradiction à n’en pas poser l’existence ; possible une
+chose dont l’existence, par sa nature même, n’implique pas
+qu’il y ait contradiction à en poser l’existence ou la non-
+existence, la nécessité ou l’impossibilité de l’existence de
+cette chose dépendant de causes qui nous sont inconnues
+tout le temps que nous forgeons l’idée qu’elle existe ; par
+suite, si cette nécessité ou cette impossibilité, qui dépend de
+causes extérieures, nous était connue, nous ne pourrions
+forger aucune fiction au sujet de cette chose. Il s’ensuit que
+s’il existe un Dieu ou quelque être ommiscient, cet être ne
+peut forger [N 21] absolument aucune fiction. Pour ce qui
+nous concerne en effet, sitôt [18] que je sais que j’existe je ne
+puis forger de fiction touchant mon existence ou ma non-
+existence ; je ne puis non plus me représenter un éléphant
+
+                               35
+passant par le trou d’une aiguille ; ni, quand je connais [19]
+la nature de Dieu, me le représenter fictivement comme
+existant ou n’existant pas ; on doit reconnaître qu’il en est
+de même touchant la Chimère dont la nature s’oppose à
+l’existence. D’où appert clairement ce que j’ai dit, à savoir
+que la fiction, dont nous parlons ici, n’a point lieu au sujet
+des vérités éternelles [20]. Avant de poursuivre toutefois il
+faut noter ici en passant que la même différence qu’il y a
+entre l’essence d’une chose et celle d’une autre existe aussi
+entre l’actualité ou l’existence de la première et l’actualité
+ou l’existence de la seconde. Par suite, si nous voulions
+concevoir l’existence d’Adam, par exemple par le moyen de
+l’existence en général, ce serait comme si, pour concevoir
+l’essence d’Adam, nous dirigions notre pensée sur la nature
+de l’être et définissions Adam comme étant un être. C’est
+pourquoi, plus généralement l’existence est conçue, plus
+aussi elle est conçue confusément et plus aisément elle peut
+être attribuée par fiction à toute chose ; au contraire sitôt
+qu’elle est conçue comme l’existence plus particulière
+d’une chose, nous en avons une idée plus claire et
+l’attribuons plus difficilement par fiction (alors que nous ne
+prenons pas garde à l’ordre de la nature) à une autre chose ;
+ce qui mérite d’être noté.
+   (35) Nous avons maintenant à considérer les cas où l’on
+dit communément qu’il y a fiction, bien que nous sachions
+clairement que la chose n’est pas comme nous la forgeons.
+Par exemple, bien que sachant que la terre est ronde, rien ne
+m’empêche de dire à quelqu’un qu’elle est un hémisphère,
+
+                             36
+telle une demi-orange sur un plat, ou que le soleil se meut
+autour de la terre et autres choses semblables. Si nous
+considérons ces cas avec attention, nous n’y verrons rien
+qui ne s’accorde avec nos paroles de tout à l’heure ; il faut
+observer seulement d’abord qu’il y a eu à un certain
+moment possibilité de nous tromper et que maintenant nous
+avons conscience de nos erreurs ; ensuite que nous pouvons
+forger ou au moins admettre l’idée que d’autres hommes
+sont dans la même erreur ou sont capables d’y tomber,
+comme nous l’avons été précédemment. Nous pouvons, dis-
+je, forger cette idée aussi longtemps que nous ne voyons pas
+d’impossibilité ni de nécessité. Quand donc je dis à
+quelqu’un que la terre n’est pas ronde, etc., je ne fais pas
+autre chose que de rappeler à mon souvenir l’erreur que j’ai
+commise peut-être, ou dans laquelle je pouvais tomber, et
+ensuite je forge ou j’admets l’idée que celui à qui je parle
+est encore dans l’erreur ou peut y tomber. Je forge cette idée
+comme je l’ai dit, aussi longtemps que je ne vois pas
+d’impossibilité ni de nécessité ; si, par contre, mon
+entendement avait perçu l’une ou l’autre, je n’aurais plus
+rien pu forger, et il aurait fallu dire seulement que j’avais
+fait une certaine tentative.
+   (36) Il nous reste à nous occuper des suppositions faites
+dans les discussions ; suppositions qui ont trait, parfois,
+même à des impossibilités. Par exemple quand nous
+disons : supposons que cette chandelle qui brûle ne brûle
+pas, ou supposons qu’elle brûle dans quelque lieu
+imaginaire, c’est-à-dire où n’existe de corps d’aucune sorte.
+
+                             37
+On fait parfois des suppositions semblables bien que voyant
+clairement que la dernière est impossible ; mais quand cela
+arrive on ne forge rien en réalité. Dans le premier exemple
+en effet je n’ai rien fait que rappeler à mon souvenir [21] un
+autre exemple de chandelle ne brûlant pas (ou que
+concevoir la même chandelle sans flamme) et ce que je
+pense au sujet de cette autre chandelle, je l’entends aussi de
+celle-ci, aussi longtemps que je n’ai pas égard à la flamme.
+Dans le second exemple on n’a fait autre chose qu’abstraire
+ses pensées des corps environnants de façon que l’esprit se
+portât uniquement à la contemplation de la chandelle,
+considérée en et pour elle-même, et en conclût ensuite
+qu’elle n’a en elle aucune cause de destruction : si donc il
+n’y avait point du tout de corps environnants, cette
+chandelle et aussi cette flamme demeureraient immuables,
+ou autres choses semblables. Il n’y a donc là aucune fiction,
+mais [22] des assertions pures et simples.
+   (37) Passons maintenant aux fictions ayant trait aux
+essences seules ou jointes à quelque actualité ou existence.
+Il faut à ce sujet considérer surtout que, moins l’esprit
+connaît et plus il perçoit, plus il est capable de fiction ; et
+plus il a de connaissances claires, plus ce pouvoir diminue.
+De même que, par exemple, comme nous l’avons vu plus
+haut, nous ne pouvons, aussi longtemps que nous pensons,
+forger l’idée que nous pensons et que nous ne pensons pas,
+de même, quand nous connaissons la nature du corps, nous
+ne pouvons forger l’idée d’une mouche infinie ou encore,
+quand nous connaissons la nature de l’âme [23], nous ne
+
+                              38
+pouvons forger l’idée d’une âme carrée, bien que nous
+puissions exprimer en paroles n’importe quoi. Mais, comme
+nous l’avons dit, moins les hommes connaissent la Nature,
+plus facilement ils peuvent forger de nombreuses fictions ;
+telles que des arbres qui parlent, des hommes changés
+subitement en pierres, en sources, des fantômes
+apparaissant dans des miroirs, rien devenant quelque chose,
+même des Dieux changés en bêtes et en hommes et une
+infinité d’autres semblables.
+   (38) Quelqu’un croira peut-être que la fiction est
+délimitée par la fiction et non par la connaissance ; c’est-à-
+dire, qu’après que j’ai forgé l’idée d’une chose et, qu’usant
+d’une certaine liberté, j’ai voulu donner mon assentiment à
+ce que cette chose existât, telle que je l’ai forgée, dans la
+nature réelle, cela fait qu’il m’est impossible ensuite de la
+penser différemment. Par exemple, après que j’ai forgé
+(pour parler leur langage) telle idée sur la nature du corps,
+et que j’ai voulu, usant de ma liberté, me persuader que
+cette nature est telle dans la réalité, il ne m’est plus possible
+de forger l’idée d’une mouche infinie et, après que j’ai
+forgé l’essence de l’âme, je ne peux plus la faire carrée. Or,
+examinons. En premier lieu : ou bien l’on nie ou bien l’on
+accorde que nous pouvons connaître quelque chose. Si on
+l’accorde, on devra dire nécessairement de la connaissance
+ce qu’on dit de la fiction. Si on le nie, voyons, nous qui
+savons que nous savons quelque chose, ce que l’on dit. On
+dit ceci : l’âme peut sentir et percevoir de beaucoup de
+manières, mais non se percevoir elle-même, non plus que
+
+                               39
+les choses qui existent ; elle ne perçoit que les choses qui ne
+sont ni en soi ni quelque part que ce soit ; autrement dit,
+l’âme pourrait, par sa seule force, créer des sensations et
+des idées ne correspondant point à des choses ; de telle sorte
+qu’on la considère en partie comme un Dieu. On dit
+ensuite : nous avons la liberté de nous contraindre, ou, notre
+âme a la liberté de se contraindre, bien mieux, de
+contraindre sa propre liberté ; car, après qu’elle a forgé
+l’idée d’une chose et y a donné son assentiment, elle ne
+peut plus penser autrement cette chose ou en forger une
+autre idée, et cette fiction la contraint même à avoir des
+autres choses [N 22] des idées telles qu’il ne soit point
+contredit à la fiction ; comme ici même on est contraint,
+pour n’abandonner point sa fiction, d’admettre les
+absurdités que j’indique et auxquelles nous ne nous
+fatiguerons pas à opposer des démonstrations. Laissant de
+tels adversaires à leur délire, nous prendrons soin plutôt de
+tirer de cet échange de paroles quelque vérité utile à notre
+objet, à savoir [24],[N 23] : l’esprit qui s’applique
+attentivement à une chose forgée et de sa nature fausse pour
+l’examiner et la connaître, et qui en déduit dans l’ordre juste
+ce qu’il faut en déduire, en rendra aisément la fausseté
+manifeste ; si la chose forgée est vraie de sa nature, quand
+l’esprit s’applique attentivement à elle pour la connaître, et
+commencer à déduire dans l’ordre juste ce qui s’ensuit, il
+continuera avec succès sans aucune interruption, comme
+nous avons vu que dans le cas de l’idée forgée fausse, ci-
+dessus mentionnée, l’entendement s’offre aussitôt à montrer
+
+                              40
+l’absurdité qu’elle contient et les conséquences absurdes qui
+s’en déduisent.
+   (39) Nous n’avons donc nullement à redouter de forger
+une fiction pourvu que nous percevions la chose clairement
+et distinctement : s’il nous arrive de dire que des hommes
+sont subitement changés en bêtes, cela est dit d’une façon
+tout à fait générale, si bien qu’il n’y a dans l’esprit aucune
+conception de la chose, aucune idée, c’est-à-dire aucune
+liaison entre un sujet et un prédicat ; si cette liaison existait,
+on verrait en même temps le moyen et les causes par où et
+pourquoi cette métamorphose a lieu. On ne prend pas garde
+non plus à la nature du sujet et du prédicat. En outre,
+pourvu seulement qu’une première idée ne soit pas forgée et
+que toutes les autres en soient déduites, l’empressement à
+forger disparaîtra peu à peu. De plus, une idée forgée ne
+peut être claire et distincte, mais seulement confuse et toute
+confusion provient de ce que l’esprit connaît un entier, ou
+une chose composée de beaucoup d’autres, seulement en
+partie et ne distingue pas le connu de l’inconnu ; de ce que,
+en outre, il s’attache à la fois aux nombreux éléments
+contenus dans chaque objet sans les distinguer le moins du
+monde, d’où il suit : Primo, que si une idée se rapporte à
+une chose très simple, elle ne pourra être que claire et
+distincte. Cette chose en effet ne devra pas être connue en
+partie mais ou bien elle le sera tout entière ou il n’en sera
+rien connu. Secundo, que si une chose composée de
+beaucoup de parties est divisée par la pensée en toutes ses
+parties les plus simples et qu’on soit attentif à chacune
+
+                               41
+d’elles prise à part, toute confusion disparaîtra. Tertio,
+qu’une fiction ne peut pas être simple ; elle naît de la
+combinaison des diverses idées confuses qui se rapportent à
+des choses et à des actions diverses existant dans la Nature ;
+plutôt encore de ce que nous sommes attentifs en même
+temps, sans leur donner [25] notre assentiment, à ces diverses
+idées ; si la fiction était simple, en effet, elle serait claire et
+distincte et par conséquent vraie. Si elle naissait d’une
+combinaison d’idées distinctes, cette combinaison même
+serait claire et distincte et par suite vraie. Quand, par
+exemple, nous connaissons la nature du cercle et aussi celle
+du carré, il devient impossible de les combiner et de forger
+un cercle carré ou une âme carrée ou d’autres combinaisons
+semblables. Concluons donc brièvement une fois encore : il
+n’est, nous le voyons, nullement à craindre qu’une fiction
+soit confondue avec des idées vraies. Pour ce qui concerne
+d’abord la première sorte de fiction dont nous avons parlé,
+sitôt qu’une chose est conçue clairement, nous voyons que
+si cette chose, qui est conçue clairement, est en soi une
+vérité éternelle, et que son existence en soit une également,
+nous ne pouvons forger aucune fiction à son sujet ; par
+contre, si l’existence de la chose conçue n’est pas une vérité
+éternelle, il faut seulement prendre soin de confronter
+l’existence de la chose avec son essence et être attentif en
+même temps à l’ordre de la Nature. Quant à la dernière
+sorte de fiction, nous avons dit qu’elle consistait dans une
+attention non accompagnée d’assentiment portée à la fois
+sur plusieurs idées confuses se rapportant à des choses et à
+des actions diverses qui existent dans la nature, et nous
+                                42
+avons vu aussi qu’une chose parfaitement simple ne pouvait
+être forgée, mais était un objet de connaissance ; et aussi
+une chose composée, pourvu que nous fussions attentifs aux
+parties les plus simples dont elle est compo- sée. Bien plus,
+nous ne pouvons même pas, en combinant ces parties,
+forger des actions qui ne soient pas vraies : car nous
+sommes obligés de considérer en même temps comment et
+pourquoi telle action a lieu.
+   (40) Ayant pris connaissance de ce qui précède, passons
+maintenant à l’investigation de l’Idée Fausse pour voir à
+quoi elle a trait et comment nous pouvons nous garder de
+tomber dans des perceptions fausses. Ni l’une ni l’autre
+tâche ne nous sera difficile après notre étude de la fiction. Il
+n’y a en effet aucune différence entre elles, sinon que l’idée
+fausse implique l’assentiment, c’est- à-dire (comme nous
+l’avons déjà noté) que dans l’erreur, au moment de
+l’apparition de certaines images, il ne s’offre point de
+causes d’où puisse ressortir, comme dans la fiction, que ces
+images ne proviennent pas de choses extérieures ; l’erreur
+consiste ainsi à peu près à rêver les yeux ouverts ou pendant
+l’état de veille. De même que la fiction, l’idée fausse se
+produit au sujet de, ou (pour mieux dire) se rapporte à,
+l’existence d’une chose dont l’essence est connue ou bien
+elle a trait à une essence. L’erreur relative à l’existence se
+corrige de même que la fiction ; si en effet la nature de la
+chose connue implique l’existence nécessaire, il est
+impossible que nous nous trompions au sujet de l’existence
+de cette chose ; par contre, si l’existence de la chose n’est
+
+                              43
+pas une vérité éternelle, comme l’est son essence, mais que
+la nécessité ou l’impossibilité dépende de causes
+extérieures, alors que l’on reprenne et applique tout ce que
+nous avons dit quand nous parlions de la fiction ; la
+correction de l’erreur se fait de même. Quant à l’autre sorte
+d’erreur, qui est relative aux essences ou encore aux
+actions, de telles perceptions sont nécessairement toujours
+confuses, composées de diverses perceptions confuses de
+choses existant dans la Nature ; par exemple quand les
+hommes se persuadent qu’il y a des divinités dans les forêts,
+les idoles, les bêtes, etc. ; qu’il y a des corps de la seule
+combinaison desquels l’entendement puisse naître ; que des
+cadavres raisonnent, se promènent, parlent ; que Dieu se
+trompe et autres erreurs semblables. Par contre, les idées
+qui sont claires et distinctes ne peuvent jamais être fausses ;
+car les idées des choses qui sont conçues clairement et
+distinctement sont ou bien parfaitement simples, ou bien
+composées des idées les plus simples, c’est-à-dire déduites
+des idées les plus simples. Que d’ailleurs une idée
+parfaitement simple ne peut pas être fausse, c’est ce que
+chacun pourra voir, pourvu qu’il sache ce qu’est le vrai, ou
+l’entendement et, en même temps, ce qu’est le faux.
+   (41) À l’égard, en effet, de ce qui constitue la forme du
+vrai, il est certain qu’une pensée vraie ne se distingue pas
+seulement d’une fausse par un caractère extrinsèque, mais
+principalement par un caractère intrinsèque. Si quelque
+ouvrier, par exemple, a conçu un ouvrage bien ordonné,
+encore que cet ouvrage n’ait jamais existé et ne doive
+
+                              44
+jamais exister, la pensée ne laisse pas d’en être vraie, et
+cette pensée reste la même que cet ouvrage existe ou non.
+Au contraire si quelqu’un dit que Pierre, par exemple,
+existe, sans qu’il sache que Pierre existe, cette pensée est
+fausse en ce qui concerne celui qui la forme ou, si l’on
+préfère, n’est pas vraie, encore que Pierre existe réellement.
+Et cette énonciation : Pierre existe, n’est vraie qu’en ce qui
+concerne celui qui sait avec certitude que Pierre existe.
+D’où suit qu’il y a dans les idées quelque chose de réel par
+quoi les vraies se distinguent des fausses ; et nous devons
+maintenant diriger notre enquête sur ce point afin d’avoir la
+meilleure norme de vérité (nous avons dit en effet qu’il
+nous fallait déterminer nos pensées selon la norme donnée
+de l’idée vraie et que la méthode est la connaissance
+réflexive) et de connaître les propriétés de l’entendement. Il
+ne faut pas dire d’ailleurs que la différence provient de ce
+que la pensée vraie consiste à connaître les choses par leurs
+premières causes (en quoi elle différerait beaucoup à la
+vérité d’une fausse, la nature de la pensée fausse étant telle
+que je l’ai expliquée ci-dessus) ; car on appelle aussi pensée
+vraie celle qui enveloppe objectivement l’essence d’un
+principe qui n’a pas de cause et est connu en soi et par soi.
+La forme de la pensée vraie doit donc être contenue dans
+cette pensée même sans relation à d’autres, et elle ne
+reconnaît pas comme cause un objet, mais doit dépendre de
+la puissance même et de la nature de l’entendement. Si nous
+supposions en effet que l’entendement eût perçu quelque
+être nouveau n’ayant jamais existé, comme le faisait, selon
+certains, l’entendement de Dieu avant qu’il eût créé les
+                             45
+choses (et cette perception ne peut assurément provenir
+d’aucun objet) et que de cette perception il en eût déduit
+légitimement d’autres, toutes ces pensées seraient vraies et
+ne seraient déterminées par aucun objet extérieur ; mais
+dépendraient seulement de la puissance et de la nature de
+l’entendement. Pour diriger donc notre enquête, posons-
+nous devant les yeux quelque idée vraie dont nous sachions
+avec la plus haute certitude que l’objet dépend de notre
+pouvoir de penser et n’a pas d’objet dans la Nature ; c’est
+dans une idée de cette sorte que nous pourrons plus
+facilement, comme il suit clairement de ce qui précède,
+faire notre enquête. Par exemple, pour former le concept
+d’une sphère, je forge une cause à volonté, à savoir qu’un
+demi-cercle tourne autour d’un centre et qu’une sphère est
+comme engendrée par cette rotation. Certes cette idée est
+vraie et, bien que nous sachions que nulle sphère n’a jamais
+été engendrée de la sorte dans la Nature, c’est là cependant
+une perception vraie et le moyen le plus aisé de former le
+concept d’une sphère. Il faut noter d’ailleurs que cette
+perception affirme la rotation du demi-cercle ; affirmation
+qui serait fausse si elle n’était pas jointe au concept de la
+sphère ou à celui de la cause déterminant le mouvement,
+c’est-à-dire, parlant absolument, si elle était isolée, car
+l’esprit en pareil cas se bornerait à affirmer le mouvement
+du demi-cercle, ce mouvement n’étant ni contenu dans le
+concept du demi-cercle ni issu de celui de la cause
+déterminant le mouvement. La fausseté consiste donc en
+cela seul qu’il est affirmé d’une chose quelque chose qui
+n’est pas contenu dans le concept que nous avons formé de
+                             46
+cette chose, tel le mouvement ou le repos dans le cas du
+demi-cercle. D’où il suit que les pensées simples ne peuvent
+pas ne pas être vraies, telle l’idée simple d’un demi-cercle,
+du mouvement, de la quantité, etc. Ce que ces pensées
+contiennent d’affirmation atteint, sans les dépasser, les
+limites du concept ; nous pouvons donc à notre gré, sans
+avoir d’erreur à craindre, former des idées simples. Il ne
+nous reste donc qu’à chercher par quelle puissance notre
+esprit peut former ces idées et jusqu’où s’étend cette
+puissance ; cela trouvé en effet, nous aurons facilement la
+connaissance la plus haute à laquelle nous puissions
+parvenir. Car il est certain que cette puissance de l’esprit ne
+s’étend pas à l’infini : quand nous affirmons de quelque
+chose ce qui n’est pas contenu dans le concept que nous en
+formons, cela indique en effet qu’il y a en nous un manque
+de perception, c’est-à-dire que nos pensées ou nos idées
+sont mutilées en quelque sorte et tronquées. Nous avons vu
+que le mouvement d’un demi-cercle est faux sitôt qu’il est
+isolé dans l’esprit et qu’il est vrai s’il est joint au concept de
+la sphère ou à celui de quelque cause déterminant un tel
+mouvement. Que si, comme on le voit d’abord, il est de la
+nature d’un être pensant, de former des pensées vraies c’est-
+à-dire adéquates, il est certain que nos idées inadéquates ont
+pour unique origine que nous sommes une partie d’un être
+pensant dont certaines pensées dans leur intégrité, certaines
+seulement par partie, constituent notre esprit.
+  (42) Il importe encore ici d’avoir égard à une rencontre
+qu’il ne valait pas la peine de noter en traitant de la fiction
+
+                               47
+et qui est l’occasion de l’erreur la plus grande, à savoir
+quand certaines choses présentes à l’imagination sont aussi
+dans l’entendement, c’est-à-dire sont conçues clairement et
+distinctement : en pareil cas, tant que le distinct n’est pas
+distingué du confus, la certitude, c’est-à-dire l’idée vraie, se
+mêle aux idées non distinctes. Quelques-uns, par exemple,
+d’entre les Stoïciens ont, par rencontre, entendu parler de
+l’âme et aussi de son immortalité, choses qu’ils ne faisaient
+qu’imaginer confusément ; ils imaginaient aussi et en même
+temps percevaient par l’entendement que les corps les plus
+subtils pénètrent tous les autres et ne sont pénétrés par
+aucuns. Imaginant toutes ces choses ensemble et y joignant
+la certitude de cet axiome, ils étaient certains tout aussitôt
+que ces plus subtils d’entre les corps sont l’esprit, qu’ils ne
+peuvent être divisés, etc. Nous nous affranchissons toutefois
+également de cette erreur en nous efforçant d’examiner
+toutes nos perceptions selon la norme de l’idée vraie
+donnée, nous gardant, comme nous l’avons dit au
+commencement, des idées qui nous viennent par ouï-dire ou
+par expérience vague. Il faut ajouter que cette sorte d’erreur
+provient de ce que l’on conçoit les choses d’une façon trop
+abstraite ; car il est de soi assez clair que, ce que je conçois
+dans son véritable objet, je ne puis l’appliquer à un autre.
+L’erreur provient aussi de ce qu’on ne connaît pas les
+premiers éléments de toute la Nature, par suite procédant
+sans ordre et confondant la Nature avec des axiomes
+abstraits, encore qu’ils soient vrais, on porte en soi-même la
+confusion et on renverse l’ordre de la Nature. Pour nous, si
+nous procédons de la façon la moins abstraite qu’il se
+                              48
+puisse et partons des premiers éléments, c’est-à-dire de la
+source et de l’origine de la Nature, le plus tôt qu’il se
+pourra, nous n’avons pas à craindre de nous tromper ainsi.
+Pour ce qui touche d’ailleurs la connaissance de l’origine de
+la Nature, il n’est pas du tout à redouter que nous la
+confondions avec des choses abstraites ; quand en effet on
+conçoit quelque chose abstraitement, comme on fait pour
+tous les universaux, ces concepts s’étendent toujours dans
+l’entendement au delà des limites où peuvent exister
+réellement dans la Nature leurs objets particuliers. De plus,
+comme il y a dans la Nature beaucoup de choses dont la
+différence est si petite qu’elle échappe presque à
+l’entendement, il peut arriver facilement (à les concevoir
+abstraitement) qu’on les confonde ; mais, comme nous le
+verrons plus loin, il ne peut y avoir de l’origine de la Nature
+de concept abstrait, ni de concept général, et cette origine
+ne peut être conçue par l’entendement comme plus étendue
+qu’elle n’est réellement ; elle n’a d’ailleurs aucune
+ressemblance avec des choses soumises au changement ;
+aucune confusion n’est donc à craindre au sujet de son idée,
+pourvu que nous possédions la norme de la vérité (que nous
+avons déjà indiquée) ; l’être dont il s’agit est unique [26] en
+effet, infini, c’est-à-dire qu’il est l’être total hors duquel il
+n’y a pas d’être [27].
+   (43) Voilà pour l’idée fausse ; il nous reste à étudier
+l’Idée Douteuse, c’est-à-dire à chercher en quoi consiste ce
+qui peut nous conduire au doute et, en même temps,
+comment le doute est levé. Je parle du doute véritable dans
+
+                               49
+l’esprit et non de ce doute qui se rencontre maintes fois : à
+savoir quand, par le langage, on prétend douter, bien que
+l’esprit ne doute pas ; ce n’est pas à la Méthode qu’il
+appartient de corriger ce doute, cela rentre plutôt dans
+l’étude de l’obstination et de son traitement. Il n’y a pas
+dans l’âme, disons-nous donc, de doute dû à la chose même
+dont on doute, c’est-à-dire s’il n’y avait dans l’âme qu’une
+seule idée, qu’elle fût vraie ou fausse, il n’y aurait place
+pour aucun doute et pour aucune certitude ; il n’y aurait
+qu’une sensation de telle ou telle sorte. Car cette idée n’est
+en soi rien de plus qu’une sensation de telle ou telle sorte,
+mais le doute se forme par le moyen d’une autre idée qui
+n’est pas si claire et distincte qu’on en puisse rien conclure
+de certain à l’égard de la chose dont on doute, c’est-à-dire
+que l’idée qui nous incline au doute n’est pas claire et
+distincte. Par exemple quelqu’un qui n’a jamais eu la
+pensée occupée de l’illusion des sens — si elle vient de
+l’expérience ou a une autre origine — ne doutera jamais si
+le soleil est plus grand ou plus petit qu’il ne paraît. C’est
+ainsi que les paysans s’étonnent maintes fois, quand ils
+entendent dire que le soleil est beaucoup plus grand que le
+globe terrestre ; mais [28]. le doute prend naissance en
+pensant à l’illusion des sens, et si, après avoir douté, on
+parvient à la connaissance vraie des sens et de la façon
+dont, par leurs organes, les choses sont représentées à
+distance, alors le doute sera de nouveau levé. Il suit de là
+que nous ne pouvons mettre en doute des idées vraies sous
+prétexte qu’il existe peut-être un Dieu trompeur qui nous
+tromperait dans les choses les plus certaines, sinon quand
+                             50
+nous n’avons encore de Dieu [29] aucune idée claire et
+distincte, c’est-à-dire quand, par la considération attentive
+de la connaissance que nous avons de l’origine de toutes
+choses, nous ne trouvons rien qui nous fasse savoir que
+Dieu n’est pas trompeur aussi clairement que, par la
+considération attentive de la nature du triangle, nous
+trouvons que ses trois angles sont égaux à deux droits ;
+mais, si nous avons de Dieu une connaissance telle que du
+triangle, alors tout doute est levé. Et, de même que nous
+pouvons parvenir à cette connaissance claire du triangle,
+bien que ne sachant pas avec certitude si quelque souverain
+trompeur ne nous égare pas, de même aussi nous pouvons
+parvenir à une telle connaissance de Dieu, bien que ne
+sachant pas avec certitude s’il n’existe pas quelque
+souverain trompeur ; et, sitôt que nous avons cette
+connaissance, cela suffit, comme je l’ai dit, pour lever tout
+doute que nous pouvons avoir au sujet des idées claires et
+distinctes. De plus, si l’on procède droitement, s’appliquant
+d’abord à la recherche de ce qu’il faut chercher
+premièrement,       suivant    sans    aucune     interruption
+l’enchaînement des choses, et si l’on sait comment on doit
+déterminer les problèmes avant d’entreprendre de les
+résoudre, on n’aura jamais que les idées les plus certaines,
+c’est-à-dire claires et distinctes : car le doute n’est rien
+d’autre que l’indécision de l’esprit à l’égard d’une
+affirmation ou d’une négation qu’il prononcerait s’il ne se
+trouvait devant lui quelque objet dont l’ignorance doit
+rendre imparfaite la connaissance de la chose affirmée ou
+
+                             51
+niée. Il ressort de là que le doute naît toujours de ce que les
+choses sont étudiées sans ordre.
+   (44) Telles sont les questions que j’ai promis de traiter
+dans cette première partie de la méthode. Pour ne rien
+omettre cependant de ce qui peut conduire à la connaissance
+de l’entendement et de ses forces, je traiterai encore
+brièvement de la mémoire et de l’oubli ; y ayant à
+considérer principalement ici que la mémoire acquiert de la
+force avec le secours de l’entendement et aussi sans ce
+secours. Touchant le premier point, plus une chose est
+connaissable et plus facilement elle se retient, et au
+contraire moins elle est connaissable, plus facilement nous
+l’oublions. Par exemple, si je donne à quelqu’un un grand
+nombre de mots sans lien, il les retiendra beaucoup plus
+difficilement que si je les lui communique sous forme de
+récit. La mémoire acquiert aussi de la force sans le secours
+de l’entendement, en raison de la vigueur avec laquelle une
+chose matérielle singulière affecte l’imagination ou le sens
+appelé commun. Je dis une chose singulière ; car seules les
+choses singulières affectent l’imagination. Si quelqu’un, par
+exemple, a lu une seule pièce contenant une histoire
+d’amour, il la retiendra très bien tant qu’il n’en aura pas lu
+plusieurs du même genre, parce qu’elle se maintient seule
+dans son imagination ; mais, s’il y a plusieurs objets du
+même genre, on les imagine tous à la fois et on les confond
+aisément. Je dis de plus : une chose matérielle, car seuls les
+corps affectent l’imagination. Puis donc que la mémoire
+acquiert de la force par l’entendement et sans lui, il s’ensuit
+
+                              52
+qu’elle doit être quelque chose de distinct de l’entendement
+et qu’à l’égard de l’entendement considéré en lui-même, il
+n’y a ni mémoire ni oubli. Que sera donc la mémoire ? Rien
+d’autre que la sensation des empreintes qui sont dans le
+cerveau, jointe à une pensée relative à une durée [30]
+déterminée de cette sensation, comme le montre la
+réminiscence. Dans la réminiscence, en effet, l’âme a la
+pensée de cette sensation, mais non sous la forme d’une
+durée continue ; et ainsi l’idée de la sensation n’est pas la
+durée même de la sensation, c’est-à-dire qu’elle n’en est pas
+proprement la mémoire. Quant à savoir si les idées elles-
+mèmes sont sujettes à quelque corruption, nous le verrons
+dans la Philosophie. Et si quelqu’un trouvait cela très
+absurde, il suffit pour notre dessein de considérer que plus
+une chose est singulière, plus aisément on la retient, comme
+il appert de l’exemple ci-dessus donné de la comédie. En
+outre, plus une chose est connaissable, plus aisément on la
+retient. D’où suit que nous ne pourrons ne pas retenir une
+chose singulière au plus haut point, pour peu qu’elle soit
+connaissable.
+   (45) Nous avons donc distingué entre l’Idée Vraie et les
+autres perceptions et nous avons montré que les idées
+forgées, fausses et autres, ont leur origine dans
+l’imagination, c’est-à-dire dans certaines sensations
+fortuites (pour ainsi parler) et sans lien qui ne naissent pas
+du pouvoir qu’a l’esprit, mais de causes extérieures, selon
+que le corps, soit dans le rêve, soit à l’état de veille, reçoit
+tels ou tels mouvements. Que si on le préfère, on entende ici
+
+                              53
+par imagination tout ce qu’on voudra, pourvu que ce soit
+quelque chose de distinct de l’entendement et par quoi
+l’âme puisse prendre la condition de patient ; car la façon de
+l’entendre ne fait pas de différence, sitôt que nous savons
+que l’imagination est quelque chose d’indéterminé par où
+l’âme pâtit, et en même temps comment nous nous en
+libérons à l’aide de l’entendement. On ne s’étonnera donc
+pas que je ne prouve pas encore ici l’existence du corps et
+d’autres choses nécessaires à connaître, et que je parle
+cependant de l’imagination, du corps et de sa constitution.
+Comme je l’ai dit en effet, ce que j’entends par là ne fait
+pas de différence, sitôt que je sais que c’est quelque chose
+d’indéterminé, etc.
+   (46) Nous avons montré cependant que l’idée vraie est
+simple, ou composée d’idées simples, telle l’idée faisant
+connaître comment et pourquoi une chose existe ou a eu
+lieu ; nous avons montré aussi qu’il en découle dans l’âme
+des effets objectifs proportionnés à l’essence formelle de
+son objet ; cela revient à ce qu’ont dit les anciens : que la
+vraie science procède de la cause aux effets ; à cela prés
+cependant que, jamais que je sache, on n’a conçu, comme
+nous ici, l’âme agissant selon des lois déterminées et telle
+qu’un automate spirituel. par là nous avons, autant qu’il se
+pouvait au début, acquis la connaissance de notre
+entendement, et une norme de l’idée vraie telle que nous
+n’ayons plus à craindre de confondre la vérité avec l’erreur
+et la fiction ; nous verrons maintenant sans étonnement que
+nous puissions connaître certaines choses qui ne tombent en
+
+                             54
+aucune façon sous l’imagination, qu’il y en ait dans
+l’imagination qui contredisent à l’entendement et qu’il y en
+ait aussi qui s’accordent avec lui. Nous savons en effet que
+ces opérations, d’où naissent les images, se produisent selon
+d’autres lois, entièrement différentes des lois de
+l’entendement, et que l’âme, en ce qui concerne
+l’imagination, est dans la condition d’un patient. Par là se
+voit aussi avec quelle facilité peuvent tomber dans de
+grandes erreurs ceux qui n’ont pas distingué très
+exactement entre l’imagination et la connaissance. Dans
+cette classe rentrent, par exemple, les erreurs suivantes : que
+l’étendue, dont les parties [N 24] se distinguent réellement les
+unes des autres, doit être en un lieu, qu’elle doit être finie,
+qu’elle est le premier et unique fondement de toutes choses,
+et occupe à un moment un espace plus grand qu’à un autre
+et beaucoup d’autres opinions de même sorte qui sont toutes
+entièrement contraires à la vérité comme nous le
+montrerons en son lieu.
+   (47) Ensuite, comme les mots sont une partie de
+l’imagination, c’est-à-dire comme nous forgeons beaucoup
+de concepts suivant que, par une disposition quelconque du
+corps, les mots s’assemblent sans ordre déterminé dans la
+mémoire, il ne faut pas douter qu’ils ne puissent, autant que
+l’imagination, être cause de nombreuses et grandes erreurs,
+si nous ne nous mettons pas fortement en garde contre eux.
+Ajoutez qu’ils sont formés au gré du vulgaire et selon sa
+manière de voir ; de sorte qu’ils sont des signes des choses,
+telles qu’elles sont dans l’imagination et non telles qu’elles
+
+                              55
+sont dans l’entendement, comme il se voit clairement de ce
+que l’on a souvent appliqué à toutes les choses qui sont
+seulement dans l’entendement et ne sont pas dans
+l’imagination des noms négatifs, par exemple : incorporel,
+infini, etc., et aussi de ce que l’on exprime négativement
+beaucoup de choses qui sont en réalité affirmatives et
+inversement comme : incréé, indépendant, infini, immortel,
+parce qu’effectivement nous imaginons avec beaucoup plus
+de facilité leurs contraires et que ces dernières se sont ainsi
+offertes les premières aux premiers hommes et ont accaparé
+les termes affirmatifs. Beaucoup d’affirmations et de
+négations prennent naissance parce que la nature des mots
+s’y prête, et non la nature des choses ; c’est pourquoi. si
+nous ignorions cela nous prendrions facilement le faux pour
+le vrai [N 25].
+   (48) Nous évitons, en outre, une autre grande cause de
+confusion qui empêche que l’entendement ne réfléchisse sur
+lui-même : en effet, quand nous ne distinguons pas entre
+l’imagination et l’entendement, nous croyons que ce qui est
+plus facilement imaginé est aussi plus clair pour nous, et ce
+que nous imaginons nous croyons le connaître. Par suite
+nous mettons devant ce qui doit venir après, l’ordre vrai
+suivant lequel il nous faut avancer est renversé et aucune
+conclusion légitime n’est possible.
+   (49) Pour arriver maintenant à la Deuxième Partie de
+cette Méthode [31], j’indiquerai d’abord le but que nous nous
+proposons dans cette Méthode, puis les moyens de
+l’atteindre. Le but est d’avoir des idées claires et distinctes,
+
+                              56
+c’est-à-dire des idées telles qu’elles proviennent de la
+pensée pure et non des mouvements fortuits du corps.
+Ensuite, pour ramener toutes ces idées à l’unité, nous nous
+efforcerons de les enchaîner et de les ordonner de telle
+façon que notre esprit, autant qu’il se peut faire, reproduise
+objectivement ce qui est formellement dans la nature, prise
+dans sa totalité aussi bien que dans ses parties.
+   (50) Touchant le premier point, il est comme nous
+l’avons déjà dit, requis pour notre fin qu’une chose soit
+conçue ou bien par sa seule essence ou par sa cause
+prochaine : à savoir, si une chose existe en soi ou, comme
+on dit communément, est cause de soi, elle devra alors être
+connue par sa seule essence ; si, au contraire, une chose
+n’existe pas en soi mais requiert une cause pour exister,
+alors elle doit être connue par sa cause prochaine ; car en
+réalité connaître l’effet [32] n’est pas autre chose qu’acquérir
+une connaissance plus parfaite de la cause. Nous ne devrons
+donc jamais, tant qu’il s’agira d’étudier les choses réelles,
+tirer des conclusions de concepts abstraits et nous prendrons
+grand garde à ne pas mêler ce qui est seulement dans
+l’entendement avec ce qui est dans la réalité. Mais la
+conclusion la meilleure est celle qui se tirera d’une essence
+particulière affirmative, ou d’une définition vraie et
+légitime. Car des seuls axiomes universels l’entendement ne
+peut descendre aux choses singulières, puisque les axiomes
+s’étendent à l’infini et ne peuvent déterminer l’entendement
+à considérer une chose singulière plutôt qu’une autre. La
+voie droite pour inventer est donc de former des pensées en
+
+                              57
+partant d’une définition donnée, ce que nous ferons avec
+d’autant plus de succès et de facilité que nous aurons mieux
+défini une chose. Ainsi le point capital en toute cette
+deuxième partie de la méthode consiste en ceci seulement :
+connaître les conditions d’une bonne définition, et ensuite
+donner le moyen d’en trouver. Je traiterai donc en premier
+lieu des conditions de la Définition.
+   (51) Pour qu’une définition soit dite parfaite elle devra
+exprimer l’essence intime de la chose et nous prendrons
+garde qu’à la place de cette essence, nous ne mettions
+certaines propriétés de la chose. Pour éclaircir cela, à défaut
+d’autres exemples que j’écarte pour n’avoir pas l’air de
+vouloir mettre en lumière les erreurs des autres, je prendrai
+seulement l’exemple d’une chose très abstraite que l’on
+peut, sans que cela fasse de différence, définir d’une
+manière quelconque, à savoir le cercle : si on le définit une
+figure où les lignes menées du centre à la circonférence sont
+égales, il n’est personne qui ne voie que cette définition
+n’exprime pas du tout l’essence du cercle, mais seulement
+une de ses propriétés. Et bien que, comme je l’ai dit, cela
+importe peu quand il s’agit de figures et d’autres êtres de
+raison, cela importe beaucoup dès qu’il s’agit d’êtres
+physiques et réels : effectivement les propriétés des choses
+ne sont pas clairement connues aussi longtemps qu’on n’en
+connaît pas les essences ; si nous passons outre sans nous
+arrêter aux essences, nous renverserons nécessairement
+l’enchaînement des idées qui doit reproduire dans
+l’entendement l’enchaînement de la Nature, et nous nous
+
+                              58
+éloignerons tout à fait de notre but. Pour nous libérer de
+cette faute, il faudra observer dans la définition les règles
+suivantes :
+   (52) I. S’il s’agit d’une chose créée, la définition devra,
+comme nous l’avons dit, comprendre en elle la cause
+prochaine. Par exemple, le cercle selon cette règle devrait
+être défini ainsi : une figure qui est décrite par une ligne
+quelconque dont une extrémité est fixe et l’autre mobile ;
+cette définition comprend clairement en elle la cause
+prochaine.
+   (53) II. Le concept d’une chose, ou sa définition, doit être
+tel que toutes les propriétés de la chose puissent en être
+conclues, alors qu’on le considère seul, sans y joindre
+d’autres concepts, ainsi qu’on peut le voir dans cette
+définition du cercle ; car on en conclut clairement que
+toutes les lignes menées du centre à la circonférence sont
+égales ; et, que ce soit là une condition nécessaire de la
+définition, cela est de soi si évident pour celui qui y prend
+garde, qu’il ne paraît pas qu’il vaille la peine de s’arrêter à
+le démontrer, non plus que de tirer de cette deuxième
+condition cette conséquence que toute définition doit être
+affirmative. Je parle d’une affirmation de l’entendement,
+m’inquiétant peu de la verbale, laquelle, à cause du manque
+de mots pourra bien à l’occasion s’exprimer sous une forme
+négative, bien qu’elle soit entendue affirmativement.
+  (54) Quant aux conditions d’une définition s’appliquant à
+une chose incréée, ce sont les suivantes :
+
+
+                              59
+   (55) I. Elle doit exclure toute cause, c’est-à-dire que
+l’objet ne doit avoir besoin pour s’expliquer d’aucune chose
+en dehors de son être propre.
+  II. Une fois donnée la définition de la chose, il ne doit
+plus y avoir place pour cette question : existe-t-elle ?
+  III. Elle ne doit pas, eu égard à l’esprit, contenir de
+substantifs dont on puisse faire des adjectifs, c’est-à-dire
+qu’elle ne doit pas s’exprimer par des termes abstraits.
+   IV. Enfin (bien que ce ne soit pas très nécessaire à noter),
+il faut que de cette définition se puissent conclure toutes les
+propriétés de la chose. Tout cela est évident pour quiconque
+est attentif.
+  (56) J’ai dit aussi que la meilleure conclusion se tirera
+d’une essence particulière affirmative : car plus une idée est
+spéciale, plus elle est distincte, et claire par conséquent.
+D’où suit que nous devons chercher par-dessus tout la
+connaissance des choses particulières.
+   (57) Relativement à l’ordre maintenant et pour ordonner
+et unir toutes nos perceptions, il est requis et la raison
+demande [N 26], que nous cherchions, aussitôt qu’il se peut
+faire, s’il existe un Être, et en même temps quel il est, qui
+soit cause de toutes choses, de manière que son essence
+objective soit aussi cause de toutes nos idées, et alors notre
+esprit, comme je l’ai dit, reproduira la Nature aussi
+parfaitement que possible. Car il en possédera
+objectivement et l’essence et l’ordre et l’unité. Par là nous
+pouvons voir qu’avant tout il nous est nécessaire de tirer
+
+                              60
+toujours toutes nos idées de choses physiques, c’est-à-dire
+d’êtres réels, allant, autant qu’il se pourra, suivant la suite
+des causes, d’un être réel à un autre être réel, et cela sans
+passer aux choses abstraites et générales, évitant également
+de conclure de ces choses quelque chose de réel, on de
+conclure ces choses d’un être réel, car l’un et l’autre
+interrompent la véritable marche en avant de l’entendement.
+Il est à noter toutefois que, par la suite des causes et des
+choses réelles, je n’entends pas ici la succession des choses
+singulières soumises au changement, mais seulement la
+suite des choses fixes et éternelles. Pour ce qui touche en
+effet la suite des choses singulières soumises au
+changement, il serait impossible à la faiblesse humaine de
+la saisir, tant à cause de leur multitude supérieure à tout
+nombre, qu’à cause des circonstances infinies réunies dans
+une seule et même chose, circonstances dont chacune peut
+faire que la chose existe ou n’existe pas ; puisque
+l’existence de ces choses n’a aucune connexion avec leur
+essence c’est-à-dire, comme nous l’avons déjà dit, n’est pas
+une vérité éternelle. Mais il n’est pas du tout nécessaire non
+plus que nous en connaissions la succession, puisque les
+essences des choses singulières soumises au changement ne
+doivent pas être tirées de cette succession, c’est-à-dire de
+leur ordre d’existence, lequel ne nous offre rien d’autre que
+des dénominations extrinsèques, des relations ou, au plus,
+des circonstances, toutes choses bien éloignées de l’essence
+intime des choses. Cette essence, au contraire, doit être
+acquise des choses fixes et éternelles et aussi des lois qui y
+sont, on peut dire, véritablement codifiées et suivant
+                              61
+lesquelles arrivent et s’ordonnent toutes les choses
+singulières ; en vérité, ces choses singulières soumises au
+changement dépendent si intimement et si essentiellement
+(pour ainsi dire) des choses fixes, qu’elles ne pourraient
+sans ces dernières ni être ni être conçues. Ces choses fixes
+et éternelles, bien qu’elles soient singulières, seront donc
+pour nous, à cause de leur présence partout et de leur
+puissance qui s’étend au plus loin, comme des universaux
+ou des genres à l’égard des définitions des choses
+singulières et comme les causes prochaines de toutes
+choses.
+   (58) Puisqu’il en est ainsi toutefois, une difficulté, non
+petite, semble inhérente à l’entreprise de parvenir à la
+connaissance de ces choses singulières ; car de tout
+concevoir à la fois, cela dépasse de beaucoup les forces de
+l’entendement humain. Or l’ordre suivant lequel il faut
+qu’une chose soit connue avant une autre ne doit pas, nous
+l’avons dit, se tirer de la succession des existences, ni non
+plus des choses éternelles ; car en elles toutes les choses
+singulières sont données par nature à la fois. Il nous faudra
+donc nécessairement chercher d’autres secours que ceux
+dont nous usons pour connaître les choses éternelles et leurs
+lois ; ce n’est cependant pas le lieu ici d’en traiter, et ce
+n’est pas nécessaire tant que nous n’aurons pas acquis une
+connaissance suffisante des choses éternelles et de leurs lois
+infaillibles et que la nature de nos sens ne nous sera pas
+connue.
+
+
+                             62
+   (59) Il sera temps, avant d’entreprendre de connaître les
+choses singulières, de traiter de ces secours qui se
+rapportent tous à cette fin : savoir nous servir de nos sens et
+faire, d’après des règles et dans un ordre arrêté, des
+expériences suffisantes pour déterminer la chose que l’on
+étudie, de façon à en conclure enfin selon quelles lois des
+choses éternelles elle est faite et prendre connaissance de sa
+nature intime, comme je le montrerai en son lieu [N 27]. Ici,
+pour revenir à notre dessein, je m’efforcerai seulement
+d’indiquer ce qui paraît nécessaire pour que nous puissions
+parvenir à la connaissance des choses éternelles, et en
+formions des définitions conformes aux conditions ci-
+dessus énoncées.
+   (60) Pour cela il nous faut rappeler à notre souvenir ce
+qui a été dit plus haut, à savoir que, si l’esprit s’attache à
+une pensée quelconque afin de l’examiner soigneusement et
+d’en déduire en bon ordre ce qui s’en déduit légitimement,
+en cas qu’elle soit fausse il en découvrira la fausseté ; si au
+contraire elle est vraie, alors il continuera avec succès [N 28]
+à en déduire sans aucune interruption des choses vraies ;
+cela, dis-je, est requis pour notre objet. Car sans un principe
+nos pensées ne peuvent [N 29] être déterminées. Si donc nous
+voulons prendre comme objet d’étude la chose qui est la
+première de toutes il est nécessaire qu’il y ait quelque
+principe qui dirige nos pensées de ce côté. En outre,
+puisque la méthode est la connaissance réflexive elle-
+même, ce principe, qui doit diriger nos pensées, ne peut être
+autre chose que la connaissance de ce qui constitue la forme
+
+                              63
+de la vérité, et la connaissance de l’entendement, de ses
+propriétés et de ses forces ; quand nous l’aurons acquise en
+effet nous posséderons un principe d’où nous pourrons
+déduire nos pensées, et une voie par laquelle l’entendement
+pourra, dans la mesure de sa compréhension, parvenir à la
+connaissance des choses éternelles, ayant égard à ses
+propres forces.
+   (61) S’il appartient cependant à la nature de la pensée de
+former des idées vraies, comme on l’a montré dans la
+première partie, il faut chercher ici ce que nous entendons
+par les Forces et la Puissance de l’entendement. Or, si c’est
+la partie principale de notre Méthode de connaître
+parfaitement les forces de l’entendement et sa nature, nous
+nous voyons nécessairement obligés (par ce qui a été dit
+dans cette deuxième partie de la méthode) de déduire cette
+connaissance de la définition même de la pensée et de
+l’Entendement. Mais nous n’avons jusqu’ici pas eu de
+règles pour trouver des définitions et, comme nous ne
+pouvons poser ces règles sans une définition de
+l’Entendement et de sa puissance, il suit de là que, ou bien
+la définition de l’Entendement doit être claire par elle-
+même ou que nous ne pouvons rien connaître clairement.
+Or cette définition n’est pas par, ou en elle-même,
+parfaitement claire. Puisque cependant, pour que nous
+puissions percevoir clairement et distinctement les
+propriétés de l’Entendement, il faut que la nature nous en
+soit connue (comme de tout ce dont nous avons une
+véritable connaissance), la définition de l’entendement
+
+                             64
+s’éclaircira d’elle-même si nous considérons avec attention
+les propriétés à lui appartenant dont nous avons une idée
+claire et distincte. Nous énumérerons donc les Propriétés de
+l’Entendement et nous les examinerons soigneusement et
+nous commencerons à traiter de nos instruments natifs.
+   (62) Les propriétés de l’entendement que j’ai
+principalement remarquées et que je connais sont les
+suivantes :
+  (63) I. Il enveloppe en lui la certitude, c’est-à-dire il sait
+que les choses sont formellement comme elles sont
+contenues en lui objectivement.
+   (64) II. Il perçoit certaines choses, autrement dit, il forme
+certaines idées absolument, en forme d’autres idées. Ainsi il
+forme l’idée de quantité absolument, sans avoir égard à
+d’autres, mais il ne forme pas les idées de mouvement sans
+avoir égard à l’idée de quantité.
+   (65) III. Les idées qu’il forme absolument expriment une
+infinité ; quant aux idées déterminées, il les forme d’autres
+idées. Ainsi pour l’idée [N 30] de quantité : quand il la perçoit
+par sa cause, alors il détermine une quantité, comme,
+comme par exemple, quand il conçoit que du mouvement
+d’une surface naît un corps, du mouvement d’une ligne une
+surface, de celui d’un point une ligne ; toutes ces
+perceptions ne servent pas à rendre plus claire l’idée de
+quantité mais seulement à déterminer une quantité. Cela se
+reconnaît à ce que nous concevons ces choses comme si
+elles naissaient du mouvement, alors que cependant nous ne
+percevons pas le mouvement avant d’avoir perçu la quantité
+                               65
+et que nous pouvons aussi prolonger à l’infini le
+mouvement qui engendre la ligne, ce qui nous serait
+impossible si nous n’avions pas l’idée de la quantité infinie.
+  (66) IV. Il forme des idées positives avant d’en former de
+négatives.
+  (67) V. Il perçoit les choses non tant dans la durée que
+sous une certaine forme d’éternité et d’infinité numérique,
+ou plutôt il n’a égard, pour percevoir les choses, ni au
+nombre ni à la durée. C’est quand il se représente les choses
+par l’imagination qu’il les perçoit sous la forme d’un
+nombre déterminé, d’une durée et d’une quantité
+déterminées.
+   (68) VI. Les idées que nous formons claires et distinctes
+semblent découler de la seule nécessité de notre nature, de
+telle façon qu’elles paraissent dépendre absolument de notre
+puissance seule ; c’est le contraire pour les idées confuses ;
+car celles-là se forment souvent en dépit de nous.
+   (69) VII. L’esprit peut déterminer de beaucoup de
+manières les idées des choses que l’entendement forme
+d’autres idées ; c’est ainsi que, pour déterminer, par
+exemple, une surface elliptique, il se représente une pointe
+appliquée contre une corde et se mouvant autour de deux
+points fixes, ou conçoit des points infinis en nombre qui
+soutiennent un certain rapport constant avec une ligne
+droite, ou encore un cône coupé par un plan oblique dont
+l’angle d’inclinaison soit plus grand que l’angle au sommet
+du cône, ou procède encore d’une infinité d’autres
+manières.
+                             66
+  (70) VIII. Les idées sont d’autant plus parfaites qu’il y a
+plus de perfection dans l’objet qu’elles expriment : nous
+n’admirons pas autant l’artiste qui a conçu l’idée d’une
+pagode que celui qui a conçu l’idée d’un temple
+magnifique.
+   (71) Je ne m’arrête pas ici aux autres modes qui
+appartiennent encore à la pensée, comme l’amour, la joie,
+etc., car ils ne font rien à notre présent dessein et ne peuvent
+être conçus qu’on n’ait d’abord perçu l’entendement. Qu’on
+supprime en effet complètement la perception ils sont tous
+supprimés.
+   Les idées fausses et forgées n’ont rien de positif (comme
+je l’ai suffisamment montré) par quoi elles méritent la
+dénomination de fausses et de forgées ; mais c’est
+seulement un manque de connaissance qui les rend telles
+qu’on les considère. Donc les idées fausses et forgées ne
+peuvent, comme telles, rien nous apprendre de l’essence de
+la pensée ; cette connaissance doit être acquise des
+propriétés positives ci-dessus passées en revue ; c’est-à-dire
+qu’on doit maintenant établir quelque chose de commun
+d’où ces propriétés découlent nécessairement, c’est-à-dire
+tel que, l’existence en étant posée, elles suivent
+nécessairement, et, l’existence en étant levée, elles soient
+toutes levées.
+                                            (La suite manque.)
+
+Erreur de référence : Des balises <ref> existent pour un
+
+                              67
+groupe nommé « N », mais aucune balise <references
+group="N"/> correspondante n’a été trouvée
+
+  1. ↑ Ce point eût pu être traité avec plus de développement et plus
+     distinctement par la considération séparée de plusieurs cas : richesse
+     poursuivie pour elle-même, en vue de l’honneur, du plaisir, de la santé, et
+     du progrès des sciences et des arts ; ces considérations trouveront leur
+     place ailleurs, n’y ayant pas de raison ici pour traiter ce point si
+     soigneusement.
+  2. ↑ Nous aurons à établir ce point plus soigneusement.
+  3. ↑ Cela est expliqué plus amplement en son temps.
+  4. ↑ On observera que je ne me suis soucié ici que d’énumérer les sciences
+     nécessaires à notre objet et n’ai pas égard à leur enchaînement.
+  5. ↑ Il y a dans les sciences une fin unique vers laquelle il faut toutes les
+     diriger.
+  6. ↑ En pareil cas nous ne connaissons rien de la cause hormis✶ ce que nous
+     considérons dans l’effet ; cela se voit assez à ce qu’on ne peut alors en
+     parler que dans les termes les plus généraux : Il y a donc quelque chose ;
+     il y a donc un pouvoir, etc., ou même en termes négatifs : Ce n’est donc
+     pas ceci ou cela, etc. Dans le second cas, il est attribué à la cause en sus
+     de l’effet quelque chose qui est conçu clairement, comme on le verra par
+     l’exemple donné ; mais on ne dépasse pas ainsi les propriétés, on
+     n’atteint pas l’essence particulière de la chose.
+        * Au mot propter qui se trouve ici dans le texte je substitue, selon
+     l’exemple de Stern le mot præter ; la même observation s’applique
+     quelques lignes plus bas ; cf. les notes de la page suivante et voir la note
+     explicative.
+  7. ↑ On peut voir clairement par cet exemple ce que je viens de noter : par
+     cette union nous n’entendons rien si ce n’est la sensation elle-même,
+     duquel effet nous concluons une cause au sujet de laquelle nous n’avons
+     aucune connaissance.
+  8. ↑ Une telle conclusion, bien que certaine, ne donne cependant pas une
+     sécurité assez grande à moins qu’on ne soit au plus haut point sur ses
+     gardes. À moins d’y veiller avec le plus grand soin, on tombera aussitôt
+     dans l’erreur : quand on conçoit les choses de cette façon abstraite et non
+     pas leur véritable essence l’imagination vient en effet aussitôt produire
+     des confusions. Car les hommes se représentent par l’imagination ce qui
+     est un, comme multiple : aux qualités conçues abstraitement, séparément,
+     confusément, ils donnent des noms qu’ils emploient pour désigner
+
+                                     68
+    d’autres choses plus familières ; par où il arrive qu’il imaginent les unes
+    de la même façon que les autres auxquelles ils ont d’abord appliqué ces
+    noms.
+ 9. ↑ Je parlerai ici un peu plus amplement de l’expérience ; et j’examinerai
+    la méthode des Empiriques et des nouveaux Philosophes.
+10. ↑ Par puissance native j’entends ce qui n’est pas✶ causé en nous par des
+    causes extérieures ; cela sera expliqué plus tard dans ma Philosophie.
+       * Le texte de van Vloten et Land, qui reproduit celui des Opera
+    Posthuma, est ici manifestement fautif ; la négation manque.
+11. ↑ Il est fait ici simple mention de ces œuvres ; dans ma Philosophie
+    j’expliquerai en quoi elles consistent.
+12. ↑ Observons que nous n’avons pas seulement à tâche en cet endroit de
+    montrer ce que je viens de dire, mais encore de faire voir que nous avons
+    suivi la voie droite jusqu’ici et en même temps beaucoup d’autres choses
+    très nécessaires à savoir.
+13. ↑ On observera que nous ne cherchons pas ici comment la première
+    essence objective nous est donnée de naissance ; cette question a sa place
+    dans l’étude de la nature où cela sera plus abondamment expliqué, et où
+    l’on fera voir en même temps qu’en dehors de l’idée il n’y a ni
+    affirmation ni négation ni aucune volonté.
+14. ↑ En quoi cette recherche consiste dans l’âme, ma Philosophie
+    l’expliquera.
+15. ↑ Avoir commerce avec d’autres choses, c’est être produit par d’autres
+    choses ou en produire.
+16. ↑ De même que nous ne doutons pas de la vérité que nous possédons.
+17. ↑ Voir plus bas nos remarques au sujet des hypothèses qui sont
+    clairement connues de nous ; où il y a fiction c’est quand nous disons que
+    certaines choses comme telles existent dans les corps célestes.
+18. ↑ Comme la vérité, dont il s’agit ici, pourvu qu’on l’entende, se fait
+    connaître elle-même, un exemple suffit sans autre démonstration. De
+    même pour la proposition contradictoire, dont la fausseté apparaît sitôt
+    qu’on l’examine, comme on le verra bientôt quand nous parlerons de la
+    fiction relative à l’essence.
+19. ↑ On observera que si beaucoup de gens déclarent douter de l’existence
+    de Dieu, ou bien ils n’en possèdent que le nom ou bien ils forgent une
+    fiction qu’ils appellent Dieu ; ce qui ne s’accorde pas avec la nature de
+    Dieu comme nous le montrerons en son lieu.
+20. ↑ Je montrerai bientôt que nulle fiction ne peut avoir trait aux vérités
+    éternelles. Par vérité éternelle j’entends une proposition qui, si elle est
+    affirmative, ne puisse jamais être négative. Ainsi c’est une vérité
+
+
+                                    69
+    première et éternelle que Dieu est, ce n’est pas une vérité éternelle
+    qu’Adam pense. La Chimère n’est pas est une vérité éternelle, mais non
+    Adam ne pense pas.
+21. ↑ Plus loin, quand nous parlerons de la fiction relative aux essences, il
+    apparaîtra clairement que jamais une fiction ne crée ni n’offre à l’esprit
+    rien de nouveau ; que seuls les souvenirs qui sont dans le cerveau ou dans
+    l’imagination sont rappelés et que l’esprit est attentif à tous à la fois
+    confusément. On se rappelle par exemple une parole prononcée et un
+    arbre ; et l’esprit s’attachant à ces souvenirs indistinctement admet un
+    arbre qui parle. Il faut l’entendre ainsi de l’existence, surtout, comme
+    nous l’avons dit, quand elle est conçue sous la forme générale de l’être,
+    parce qu’alors elle s’applique facilement à tous les souvenirs qui peuvent
+    se présenter à l’esprit. Ce qui mérite fort d’être observé.
+22. ↑ Cela doit s’entendre aussi des hypothèses que l’on fait pour expliquer
+    certains mouvements célestes ou tirer une conclusion sur la nature du ciel
+    qui peut cependant être différente, d’autant que pour expliquer ces
+    mouvements l’on peut concevoir beaucoup d’autres causes.
+23. ↑ Il arrive souvent qu’un homme rappelle à son souvenir ce mot âme et
+    forme en même temps quelque image corporelle. Comme ces deux
+    choses se représentent simultanément, il croit facilement qu’il imagine et
+    forge une âme corporelle, car il ne distingue pas le mot de la chose elle-
+    même. Je demande ici que les lecteurs ne soient pas empressés à rejeter
+    ce que je dis, et j’espère qu’ils ne le feront pas, pourvu qu’ils considèrent
+    les exemples et aussi ce qui va suivre avec grande attention.
+24. ↑ J’ai l’air ici de tirer ma conclusion d’une expérience et l’on dira peut-
+    être que je n’ai rien prouvé parce que la démonstration fait défaut ; si l’on
+    y tient, la voici : Rien dans la nature ne peut se trouver en opposition
+    avec ses lois, et tout arrive selon des lois de nature déterminées, de façon
+    à produire selon des lois déterminées des effets déterminés dans un
+    enchaînement inébranlable : il suit de là que l’âme, quand elle conçoit
+    vraiment une chose doit en développer objectivement les effets. Voir plus
+    bas le passage relatif à l’idée fausse.
+25. ↑ On observera qu’une fiction considérée en elle-même ne diffère pas
+    beaucoup d’un songe, sauf que dans les songes font défaut ces causes
+    qui, par le moyen des sens, s’offrent à l’homme éveillé et d’où ressort
+    pour lui que les images lui apparaissant ne proviennent pas à ce moment
+    même de choses occupant un lieu hors de lui. Pour l’erreur, ainsi qu’il
+    apparaîtra bientôt, elle consiste à rêver éveillé. On l’appelle délire quand
+    elle est très manifeste.
+26. ↑ Ce ne sont point là des attributs de Dieu qui manifestent son essence,
+    comme je le montrerai dans la Philosophie.
+
+                                     70
+  27. ↑ Cela a déjà été démontré ci-dessus. Si en effet un tel être n’existait pas,
+      il ne pourrait jamais être produit ; et ainsi l’esprit pourrait connaitre plus
+      que la Nature ne peut fournir, ce qui a déjà été reconnu faux ci-dessus.
+  28. ↑ ✶✶C’est-à-dire le sens sait souvent qu’il a été trompé ; mais il le sait
+      confusément, car il ne sait pas comment les sens trompent.
+         ** Cette note est dans la traduction hollandaise, jointe au texte qui se
+      lirait ainsi : mais le doute prend naissance en pensant à l’illusion des
+      sens, c’est-à-dire que le sens sait souvent, etc.
+  29. ↑ J’ajoute au texte latin le mot Dei, de Dieu ; correction faite par la
+      traduction hollandaise de 1677 et d’ailleurs nécessaire au sens, voir note
+      explicative.
+  30. ↑ Si la durée n’est pas déterminée, le souvenir gardé de la même chose
+      est imparfait, comme chacun paraît l’avoir appris de la nature. Car
+      souvent pour accroître la crédibilité d’un témoignage nous demandons où
+      et quand s’est passé le fait rapporté. Et, bien que les idées aussi aient leur
+      durée dans l’esprit, ayant accoutumé de déterminer la durée par la mesure
+      d’un mouvement, opération qui se fait elle même à l’aide de
+      l’imagination, nous n’observons jusqu’ici aucune mémoire appartenant à
+      l’esprit pur.
+  31. ↑ La Règle principale de cette partie est, comme il suit de la première, de
+      passer en revue toutes les idées que nous trouvons en nous qui sont de
+      l’entendement pur, afin de les distinguer de celles que nous formons par
+      l’imagination. Distinction qui se tirera des propriétés tant de
+      l’imagination que de la connaissance.
+  32. ↑ Notons cette conséquence que nous ne pouvons rien connaître de la
+      Nature sans rendre en même temps plus étendue notre connaissance de la
+      première cause, c’est-à-dire de Dieu.
+
+       NOTES RELATIVES AU TRAITÉ DE LA
+         RÉFORME DE L’ENTENDEMENT
+  § 1. Le mot honneur (honor) est pris évidemment dans ce
+paragraphe au sens d’estime d’autrui, comme dans ce vers
+de Boileau :
+       N’allons point à l’honneur par de honteuses brigues
+  (Cf. Court Traité, II, chap. xii, § 1).
+
+                                       71
+  § 2. La fin du paragraphe rappelle le mot connu
+d’Aristippe : ἐχω οὐκ ἔχομαι ; j’ai Laïs, mais Laïs ne m’a
+pas.
+
+   § 3. a) L’idée que notre félicité dépend de la nature de
+l’objet que nous aimons a été exprimée dans le Court Traité
+(II, chap. xiv, § 4.)
+  b) Sur l’insuffisance de la connaissance abstraite d’une
+vérité morale pour réformer la conduite cf. Ethique, III,
+Prop. 2, Scolie et IV, Prop. 14.
+
+   § 5. a) Pour l’intelligence de ce paragraphe le rapprocher
+du Court Traité (II, chap. iv, § 5 à 8 ; et I, chap. x). Voir
+aussi les notes explicatives concernant ces paragraphes,
+notes dans lesquelles sont indiqués les principaux textes de
+l’Ethique relatifs au bien et au mal.
+   b) La fin du paragraphe 5 montre clairement en quoi la
+fin visée par Spinoza diffère de celle des Stoïciens de
+laquelle on l’a rapprochée (voir en particulier un article de
+Dilthey dans Archiv für Geschichte der Philosophie (t.
+VII) ; il compare le début du Traité de la Réforme de
+l’Entendement à un passage de Marc-Aurèle et fait observer
+que pour les Stoïciens le souverain bien consistait dans la
+connaissance de notre union avec la nature entière et dans
+notre conformité à la loi de l’univers conçu comme un
+grand Etre). Sans vouloir méconnaître la parenté des deux
+doctrines, il est permis de faire observer que la science, telle
+que la conçoit Spinoza n’a rien d’une contemplation, elle
+est moderne, active, cartésienne (baconienne même en ce
+                              72
+sens de tendance) ; elle transforme les choses, le corps,
+l’âme en les comprenant, les ajuste « au niveau de la
+raison » ; le sage ne s’absorbe pas dans le grand Tout, mais
+cherche bien plutôt à se l’assimiler.
+
+  § 10 à 14. a) Voir le Court Traité (II, chap. i, et la note
+explicative s’y rapportant).
+   b) Stern dans sa traduction allemande fait la correction
+propter praeter dans la note de la page 231, mais il ne la
+fait qu’une fois ; il me parait logique de la faire deux fois.
+   Spinoza distingue deux façons de conclure une chose
+d’une autre chose ; premièrement quand de l’effet on
+prétend remonter il la cause — dans ce cas on ne sait rien
+de la cause hormis ce qui est considéré dans l’effet.
+Exemple : l’union de l’âme et du corps, de laquelle nous ne
+savons rien quand nous la concluons de la sensation, sinon
+qu’elle se manifeste par la sensation. En second lieu, quand
+on fait application à un cas particulier d’une règle générale ;
+en pareil cas, on sait de la cause quelque chose de plus que
+l’effet lui-même ; par exemple, appliquant à un acte
+particulier de vision (et conséquemment à son objet) ce qui
+est vrai de la vision en général, on affirme que le soleil,
+considéré comme cause de la représentation que nous en
+avons, est plus grand qu’il ne paraît.
+  Je pense donc que la première partie de la note
+correspond au premier exemple donné à la page suivante
+dans le texte — et la note 1 de cette page l’indique
+d’ailleurs clairement — et que la deuxième partie
+
+                              73
+correspond au dernier exemple. J’ajoute que la note 2 de la
+page 232 me semble devoir être placée comme je l’indique,
+cette note étant destinée à montrer que, même dans le cas le
+plus favorable, le troisième mode de connaissance expose
+encore à l’erreur et à la confusion.
+
+  § 15. Au sujet de la place donnée à la note 2 de la page
+232 voir la note précédente.
+
+  § 16. L’exemple de la règle de trois se retrouve dans le
+Court Traité (II, chap. i) et dans l’Ethique (II, Prop. 40,
+Scolie 2). Dans la Réforme de l’Entendement, il est présenté
+dune façon plus vivante que dans le Court Traité, moins
+concise que dans l’Ethique.
+
+   § 22. La dernière phrase de ce paragraphe n’est pas très
+claire, du moins on ne voit pas bien comment elle se
+rattache à ce qui précède. Il me semble que Spinoza veut
+dire : non seulement le ouï-dire ne donne pas de certitude
+légitime, mais la croyance de fait qui se fonde en apparence
+sur le simple ouï-dire repose toujours en réalité sur une
+autre croyance ayant pour origine une véritable perception
+de l’entendement. On ne croit pas une chose uniquement
+parce qu’on l’a entendu dire ; on la croit parce qu’il paraît à
+quelque degré raisonnable de la croire.
+  L’impression que peuvent produire sur nos organes les
+paroles d’autrui, la répétition même, purement machinale,
+de ces paroles n’engendrent pas de croyance.
+
+
+                              74
+   § 23. a) Par les mots jamais définitive j’essaie de rendre
+sine fine ; l’expérience vague n’est jamais concluante.
+   b) Nous ne pouvons avoir de connaissance ou d’idée
+claire des accidents que si les essences nous sont connues
+au préalable. Cela me parait dirigé contre Bacon qui voulait
+suivre la marche inverse ; partir de la connaissance des
+accidents pour parvenir jusqu’aux formes ; sans que
+d’ailleurs je prétende assimiler les formes de Bacon aux
+essences de Spinoza. Il suit de ce passage, on l’observera,
+que les accidents ne sont pas sans rapport avec les
+essences ; nous aurons besoin plus tard de nous le rappeler
+pour interpréter correctement une phrase qui se trouve dans
+le paragraphe 57 (voir la note explicative).
+  c) La note de la page 235 montre que Spinoza se
+proposait de faire un examen critique de la méthode et de la
+philosophie de Bacon (cf. Lettre 2).
+
+   § 27. La méthode enseignée par Spinoza est la plus
+opposée qu’il se puisse à la méthode expérimentale (voir
+note précédente) ; dans cette dernière l’esprit forme
+différentes hypothèses et cherche laquelle s’ajuste le mieux
+aux faits, laquelle résiste à l’épreuve de l’expérience dite
+cruciale. L’invention est ainsi tout à fait distincte de la
+preuve. Pour Spinoza l’invention, quand elle est ce qu’elle
+doit être, porte avec elle la marque de sa vérité. Il ne s’agit
+pas de faire des hypothèses, mais de penser droitement ou
+simplement de penser. La vraie méthode consiste à produire
+des idées vraies par une activité spontanée de l’esprit (cf. §
+
+                              75
+29). Toutefois, cette génération du vrai par la pensée exige
+certaines précautions, et c’est pourquoi le mot de méthode
+s’appliquant à ce qui fait l’objet de la suite du Traité n’a pas
+exactement le sens que Spinoza vient de lui donner. Il
+désigne la connaissance qu’il nous faut prendre de la nature
+de l’idée vraie, la distinction de l’idée vraie, conçue par
+l’entendement, d’avec les autres idées à la production
+desquelles prend part l’imagination, la recherche enfin de
+certaines règles à observer, d’un ordre à suivre pour
+épargner à l’esprit toute démarche inutile (cf. § 32). Le
+passage du premier sens du mot méthode au second est bien
+marqué dans le paragraphe 27 par ces mots : La méthode,
+pour y revenir (Rursus methodus). Les paragraphes 29 et 30
+expliquent la nécessité de cette recherche préliminaire
+(méthode au second sens) pour pouvoir suivre plus tard la
+voie qui conduit à la connaissance (méthode au premier
+sens), et Spinoza y répond aux objections possibles : Il me
+faut étudier la connaissance en elle-même et traiter d’abord
+de ce qu’elle doit être, primo parce que les hommes pour
+diverses raisons sont généralement dans l’erreur, c’est-à-
+dire sont empêchés de penser ou ne pensent pas assez,
+secundo parce que je leur donne ainsi un moyen de
+s’assurer que ce que je leur dirai plus tard est vrai encore
+que très différent de ce qu’ils ont accoutumé de croire.
+
+  § 29 et 30. Voir la note précédente.
+
+   § 34. a) La note 1 de la page 246 doit être rapprochée de
+la note 2 de la page 249. Spinoza y a en vue des hypothèses
+
+                              76
+comme celle qu’il expose lui-même, d’après Descartes,
+dans la troisième partie (inachevée) des Principes de lu
+Philosophie de Descartes, hypothèses devant permettre
+d’expliquer la formation de l’univers selon les principes de
+la mécanique. Ces hypothèses ne sont pas des fictions aussi
+longtemps que nous ne perdons pas de vue leur véritable
+caractère : c’est un mode de représentation que nous
+adoptons pour sa simplicité, sa commodité. Spinoza
+toutefois ne les aime guère (voir la note explicative
+concernant la troisième partie des Principes de la
+Philosophie de Descartes).
+   b) Sur l’impossible, le nécessaire et le possible, cf. Court
+Traité (I, chap. i, note 3, et voir aussi la note explicative
+relative à ce passage). Pour la définition du possible, voir
+Pensées Métaphysiques (I, 3), et Ethique (IV, déf. 3). Telle
+qu’elle est formulée ici, cette définition nous surprend
+d’abord parce que nous avons dans l’esprit l’idée du réel,
+c’est-à-dire d’un objet dont l’existence est donnée
+expérimentalement ; ce prétendu réel n’est-il donc qu’un
+possible pour Spinoza ? Oui, assurément ; aussi longtemps
+que l’existence d’une chose, n’est pas scientifiquement
+expliquée elle reste problématique : puisqu’elle dépend de
+conditions extérieures, elle n’est pas telle de sa nature qu’il
+y ait contradiction à la nier ; il n’y aurait contradiction que
+si, les conditions étant clairement connues, on posait ces
+conditions sans poser l’existence qu’elles déterminent.
+
+  § 37. A mesure que la connaissance s’étend, le pouvoir
+de forger diminue ; il ne faut pas entendre par là que la
+                              77
+pensée cesse d’être productive ; tout au contraire ; mais les
+choses qu’elle crée sont des vérités et non des fictions ; car,
+ainsi qu’il est dit au paragraphe 38, la connaissance, non la
+fiction, fait qu’on ne peut forger qu’un accord avec ce que
+l’on sait. C’est ainsi qu’un homme qui aurait de l’anatomie
+une connaissance achevée, s’il inventait un corps d’animal
+se conformerait spontanément aux lois de la nature ; il
+construirait non une chimère mais un animal vrai, encore
+que non observable peut-être (cf. § 41 et voir aussi la fin du
+Scolie de la proposition 17, partie II de l’Ethique, où
+Spinoza conçoit la possibilité d’une imagination affranchie
+dont les produits attesteraient non l’imperfection mais la
+perfection de l’esprit).
+
+  § 38. Le principe posé à la fin de ce paragraphe sera
+rappelé au paragraphe 60. Voir la note explicative.
+
+  § 39. Cf. Pensées Métaphysiques (I, 1).
+
+   § 41. a) Rapprocher de ce passage la définition de l’idée
+adéquate dans l’Ethique (II, déf. 4). Pour bien entendre le
+mot concernant la forme de la pensée vraie qui est contenue
+dans cette pensée même sans relation à d’autres, on le
+rapprochera de la définition donnée précédemment de la
+connaissance intuitive et (le ce qui est dit au paragraphe 29,
+et dans l’Ethique (II, prop. 43), de l’idée vraie, laquelle fait
+connaître elle-même sa vérité : verum index sui. Une pensée
+n’est point vraie parce qu’elle est en accord avec une autre
+pensée ; du moins ce n’est pas par cet accord que nous en
+
+                              78
+connaissons la vérité quand nous nous élevons au plus haut
+degré de connaissance, elle est vraie en elle-même et par
+elle-même, absolute (Cf. Ethique, II, prop. 34). Il appartient
+à la nature d’une pensée d’être vraie ; si elle ne l’est point,
+c’est dans la mesure précise où elle n’est pas une véritable
+pensée, où elle n’est pas entièrement formée par l’esprit. Il
+est certain d’ailleurs qu’une pensée vraie a sa place parmi
+d’autres, car elle n’aurait pu être formée si l’ordre juste
+(ordo debitus) n’avait pas été suivi ; et elle soutient des
+rapports nécessaires avec ces autres pensées de même
+qu’avec les objets. Une idée vraie s’accorde avec son objet
+(Ethique, I, Axiome 6), parce qu’elle est vraie ; elle n’est
+point vraie parce quelle s’accorde avec lui. Il est certain
+aussi qu’une pensée véritable est active, féconde,
+automatiquement, c’est-à-dire spontanément, librement,
+productrice d’idées vraies (cf. le paragraphe 46 et voir la
+note explicative).
+   b) Rapprocher de la théorie, donnée à la fin du
+paragraphe de l’idée inadéquate, ce qui en est dit dans le
+Court Traité (II, chap. xv, § 4), et dans l’Ethique (II, prop.
+17, scolie et 35, avec le scolie). Rapprocher ce qui est dit de
+l’idée abstraite et de la confusion qu’elle produit du scolie 1
+de la proposition 40 (partie II) de l’Ethique.
+
+   § 43. La correction de la page 262 consistant dans
+l’addition au texte du mot Dei (de Dieu) est justifiée, on
+l’observera, par ce que dit Spinoza dans son Introduction
+aux Principes de la Philosophie de Descartes (voir p. 312,
+et voir aussi la Notice relative à cet ouvrage, p. 285).
+                              79
+  § 44. a) Au sujet de la mémoire, voir Ethique (II, prop. 18
+avec le scolie).
+   Dans ce dernier passage, Spinoza sous ce nom de
+mémoire traite de l’association des idées en tant qu’elle se
+ramène à une habitude du corps ; dans la Réforme de
+l’Entendement, la mémoire n’est pas l’habitude, elle est
+plutôt ce que nous appelons la reconnaissance du souvenir,
+plus exactement l’idée que nous avons qu’une certaine
+sensation a été éprouvée à un instant déterminé, quelle que
+puisse être la cause du réveil de cette sensation. La mémoire
+est donc ici une forme de la connaissance, et par cela même
+n’est point passive mais active : si nous assignons à la
+sensation une durée ou. en langage plus moderne, à un
+souvenir, une place parmi d’autres, ce n’est point parce
+qu’il se réveille à la suite de tel autre en vertu d’une
+habitude du corps, c’est parce que nous apercevons une
+raison pour le situer comme nous faisons. Le réveil lui-
+même n’est pas toujours un effet de l’habitude brute,
+comme le montre ce fait qu’on se souvient plus aisément de
+choses qui ont entre elles quelque relation intelligible, que
+de choses qui se sont simplement succédé dans le temps.
+Ainsi la mémoire, au moins dans ce passage de la Réforme
+de l’Entendement, n’est pas une propriété du corps et ne
+s’expliquerait point par raisons mécaniques : c’est une
+propriété d’un esprit joint à un corps, ou plus exactement
+d’un esprit à la nature duquel il appartient (cf. § 15, vers la
+fin) d’être joint à un corps. Il est fort regrettable que
+Spinoza n’ait pas cru devoir développer davantage ses idées
+
+                              80
+sur la mémoire. Il eût été conduit, il me semble, à une
+théorie des rapports de l’âme et du corps plus profondément
+moniste que celle qu’il expose dans l’Ethique, dans laquelle
+le dualisme subsiste sous une certaine forme (celle du
+parallélisme) : il eût, plus complètement qu’il ne l’a fait,
+concilié son mécanisme avec la doctrine, qu’il professe, de
+l’individualité du corps et l’idée de la vie, celle aussi du
+devenir, qui né sont point absentes de la philosophie, y
+seraient plus faciles à saisir. Je vais jusqu’à croire qu’il se
+fût rapproché du point de vue de M. Bergson dans Matière
+et Mémoire. Mais cette sorte de connaissance qu’est la
+mémoire est trop dépendante encore, trop peu spéculative
+pour satisfaire Spinoza. Au point de vue encore platonicien
+où il se place de préférence, il n’y a ni passé ni futur,
+l’entendement concevant toutes choses sous forme
+d’essences éternelles. Trop uniquement préoccupé de
+connaissance intemporelle, il se désintéresse donc de la
+mémoire et de l’imagination. Ce deviennent pour lui des
+propriétés du corps seulement ; comme telles il est possible
+de les concevoir clairement, c’est-à-dire mécaniquement et
+cela suffit pour établir (dans la cinquième partie de
+l’Ethique) la domination de l’entendement sur la nature.
+  b) Le sens appelé commun, sensus quem vacant
+communem correspond, autant que j’en puis juger, à ce
+qu’on désignait naguère par le mot de sensorium.
+
+   § 46. La connaissance par la cause est la véritable
+science ; mais par cause il ne faut entendre ni une essence
+spécifique, comme fait Aristote, ni un concours de
+                              81
+circonstances comme dans la science dite expérimentale.
+Dans un cas comme dans l’autre, le passage de la cause à
+l’effet (la déduction de l’effet) ne pourrait se faire par un
+mouvement spontané de la pensée, car la cause ne
+contiendrait pas réellement l’effet. La véritable déduction
+va de l’essence singulière aux propriétés et, j’ajoute, à
+l’existence, en priant le lecteur de vouloir bien lire la note
+concernant le paragraphe 57 ; elle est, elle doit devenir une
+libre production par l’esprit ; car on observera que pour
+Spinoza l’automatisme dont il parle ici est la liberté même,
+l’absence de toute détermination imposée du dehors.
+
+   § 47. Les textes à rapprocher de la fin du paragraphe, où
+sont indiquées les erreurs qu’engendre la confusion de
+l’entendement avec l’imagination, sont avant tout la Lettre
+12, dite lettre sur l’Infini, en second lieu, les passages où il
+est traité de l’indivisibilité de la substance étendue : Court
+Traité, I, chapitre ii, §§ 18-22 ; Ethique, I, proposition 13
+avec le corollaire, proposition 15 scolie. Lettre 35. Voir
+aussi la note explicative se rapportant au passage visé du
+Court Traité.
+
+   § 49. Ce passage est un de ceux où la pensée de Spinoza
+s’exprime le plus heureusement et le plus complètement.
+   Sa formule lui est évidemment inspirée par la confiance
+qu’il a dans l’idée claire ; l’ordre déductif ou géométrique,
+auquel il pense, est à ses yeux le seul véritable parce qu’il
+est le seul intelligible. Observons toutefois que, même si
+l’on croyait le réel inintelligible en son fond et qu’en
+
+                              82
+conséquence l’on ne considérât point l’ordre déductif
+comme étant le seul et le plus vrai, la formule de Spinoza ne
+cesserait pas d’être applicable à la philosophie, pourvu
+qu’on n’admit pas dans l’esprit d’hétérogénéité radicale. A
+moins qu’il n’y ait deux façons de penser ou d’être
+conscient, qui non seulement soient irréductibles l’une à
+l’autre mais n’aient même pas une origine commune, la
+philosophie sera toujours une tentative faite par une pensée
+individuelle pour ranger dans un ordre conforme à elle-
+même la totalité de ses idées claires ou obscures et en
+prendre ainsi possession ; et toujours après ce travail fait, le
+jugeât-elle inachevé et inachevable, elle se considérera
+comme une expression plus approchée de la réalité totale.
+
+   §§ 50. Spinoza considère comme évident (voir plus loin,
+§§ 53 et 55. IV, et aussi la démonstration de la proposition
+16, partie I, de l’Ethique), que de la définition dune chose
+quelconque, l’entendement peut déduire plusieurs
+propriétés appartenant nécessairement à cette chose et
+d’autant plus qu’il y a plus d’essence ou de perfection dans
+la chose définie. Ignore-t-il donc que dune définition
+donnée on ne peut tirer immédiatement que ce qu’on y a
+mis par avance et que. pour établir des propositions neuves,
+il est nécessaire dans les mathématiques de considérer
+conjointement (cf. § 53) plusieurs définitions. En aucune
+façon (voir, Lettre 83, la réponse faite à l’objection que lui
+adresse Tschirnhaus sur ce point) ; mais il faut distinguer
+entre les définitions ayant pour objet des êtres de raison
+comme les figures géométriques et les définitions des
+
+                              83
+choses réelles : la multiplicité des unes comme des autres
+n’exclut évidemment pas la présence d’éléments communs
+(qu’il faut se garder de confondre avec des genres : voir
+Ethique, II, prop. 40) ; de plus, celle des secondes n’est pas
+une multiplicité irréductible à l’unité : l’idée adéquate d’une
+chose quelconque réellement existante enveloppe toutes les
+autres puisqu’elles sont toutes liées.
+   Tout le dogmatisme de Spinoza, par où il diffère tant de
+nous, consiste à croire que le réel peut être défini et l’on
+observera que ce dogmatisme se mêle d’agnosticisme. Le
+réel en soi ne peut être défini que par sa réalité même, c’est-
+à-dire son infinité : c’est une définition qui nous fait savoir
+qu’il est, non ce qu’il est : une définition dans laquelle
+l’existence est conçue abstraitement (cf. § 55, III) et qui ne
+fait pas connaître la nature de la chose définie : aussi n’en
+peut-on déduire que le principe de l’universelle nécessité
+non les choses qui sont nécessaires ; le cadre de la science
+est tracé mais il est vide. Seule la définition du réel par ses
+attributs (au sens spinoziste, peut fournir un point de départ
+à une tentative de déduction des choses concrètes ; or la
+définition par les attributs est, comme on sait, très
+incomplète, puisqu elle n’en fait connaître que deux (outre
+qu’elle est possible dans l’Ethique seulement après la
+démonstration des propositions 1 et 2 de la
+partie II et repose sur des axiomes indépendants).
+   §§ 51 à 53. Rapprocher ce qui est dit de la définition dans
+le Court Trailé (I, chap. vii).
+
+                              84
+   § 55. Les mots eu égard à l’esprit, quoad mentem, me
+semblent devoir s’interpréter comme il suit : les deux
+premières conditions énoncées concernent plutôt la chose
+définie ; la troisième est relative à l’esprit qui définit ; il
+faut, en définissant la chose incréée, prendre garde à ne pas
+confondre ses propriétés (propria) avec ses véritables
+attributs par lesquels nous la connaissons en elle-même (cf.
+Court Traité, I, chap. i, note 4, et surtout chap. ii, §§ 28 et
+29).
+
+   § 57. La phrase : car l’existence de ces choses n’a
+aucune connexion avec leur essence, semble donner raison
+d’abord à Camerer qui, dans son livre Die Lehre Spinoza’s
+(Stuttgart, 1871), a soutenu qu’entre la détermination de
+l’être par les causes extérieures et la détermination par
+l’essence il y a hétérogénéité radicale ; si cependant
+l’existence n’a point de rapport avec l’essence il est clair
+que toute tentative pour substituer à une détermination
+imposée du dehors une détermination intérieure doit
+échouer. Sans entreprendre ici de traiter à fond ce grave
+problème, je ferai les deux observations suivantes :
+   1° L’existence d’une chose, en tant qu’on la considère
+comme dépendant d’un concours de circonstances n’ayant
+avec l’essence de ces choses aucun lien intelligible, ne peut
+nous être connue que par l’expérience ; autrement dit elle
+est conçue seulement comme possible (voir la note relative
+au paragraphe 34, b), n’est ni une vérité ni même une
+réalité. Pour qu’elle devînt une vérité, il faudrait qu’elle fût
+expliquée et cette explication elle-même n’est possible
+                              85
+qu’en ayant égard à l’essence de la chose supposée
+existante ; car si cette essence considérée à part (per se
+absque aliis) ne fonde pas à elle seule l’existence (si elle
+pouvait le faire, chaque individu serait Dieu pleinement et
+non Deus quatemus), encore la fonde-t-elle au moins dans
+une certaine mesure et, l’on peut ajouter, dans une mesure
+d’autant plus grande qu’elle est plus parfaite. Je l’appelle ici
+qu’au paragraphe 23 Spinoza nous dit : la connaissance
+claire des accidents suppose celle des essences et qu’au
+paragraphe 22 il avait dit : nous ne pouvons connaître
+l’existence singulière d’une chose que si l’essence nous en
+est connue ;
+   2° L’essence d’une chose imparfaite enveloppe elle-
+même sa détermination par des causes extérieures ; il est de
+la nature d’une telle chose de ne pas exister par elle-même
+et d’être déterminée à être par d’autres choses, d’occuper
+ainsi une certaine place dans la suite infinie des modes
+comme son idée occupe une certaine place dans
+l’entendement divin (cf. Ethique, II, Prop. 9) ; c’est
+pourquoi dans la mesure où nous parvenons à connaître
+clairement la nécessité par laquelle nous sommes tels et
+tels, nous connaissons aussi notre véritable essence et y
+trouvons le principe de notre existence.
+   J’ai cité plus haut le livre de Camerer ; j’ajouterai que les
+auteurs français où l’on trouvera le plus de lumières sur ce
+point capital du spinozisme me semblent être MM. Delbos,
+le Problème moral dans la philosophie de Spinoza (p. 35 et
+
+
+                              86
+suiv.), et Rivaud, les Notions d’essence et d’existence dans
+la philosophie de Spinoza.
+
+   §§ 58 et 59. Au sujet de ces paragraphes voir la Notice
+sur le Traité de la Réforme de l’Entendement (p. 211) ; pour
+ce qui concerne le rôle attribué à l’expérience dans la
+recherche scientifique voir en particulier Principes de la
+Philosophie de Descartes (partie II, Prop. 6. scolie) :
+opposant sa façon de réfuter les arguments de Zénon d’Elée
+à celle de Diogène, Spinoza, à la fin de scolie. indique assez
+nettement en quoi les sens et l’expérience contribuent à
+l’acquisition de la connaissance.
+
+   § 60. Ce paragraphe contient un passage qui a été
+interprété fort diversement ; je dois en conséquence mettre
+le lecteur en mesure de se faire une opinion.
+   Spinoza commence par rappeler la régie posée à la fin du
+paragraphe 38 ; quand une pensée est fausse, la fausseté
+s’en découvre si Ion en déduit dans l’ordre juste ce qui doit
+s’en déduire : si elle est vraie, des idées vraies s’en
+déduiront sans interruption. Cela, poursuit-il, est requis
+pour notre objet : puis vient la phrase que j’ai cru devoir
+corriger en ajoutant au texte une négation : nequeunt.
+   Il ne me paraît guère possible, en effet, de s’en tenir à la
+leçon de l’édition Van Vloten et Land qui est celle des
+Opera posthuma (1677) : Spinoza continuerait ainsi : par
+aucun principe en effet nos pensés ne peuvent être
+délimitées (ou déterminées) ; nam ex nullo fundamento
+cogitationes nostræ terminari queunt.
+                              87
+   M. Couchoud. à la vérité, dans son livre sur Spinoza,
+propose (p. 49) une interprétation de ce texte : « Car, un
+point de départ quelconque une fois posé, dit-il,
+l’entendement ne peut plus être arrêté ». Je partage assez
+l’opinion de M. Couchoud touchant le sens du mot
+fundamentum dans ce passage, mais je ne crois pas qu’on
+puisse traduire terminari comme il le fait et je conçois mal
+qu’après avoir rappelé le principe énoncé au paragraphe 38
+Spinoza ait cru devoir ajouter : cela, dis-je, est requis pour
+notre objet, car d’aucun point de départ nos pensées ne
+peuvent être arrêtées.
+   Saisset, dans sa traduction, rendait ce passage comme il
+suit : « Cela, dis-je, est nécessaire à notre sujet, car nos
+pensées n’ont hors d’elles-mêmes aucun fondement sur
+lequel elles aient à s’appuyer. » (Je souligne les mots
+ajoutés par le traducteur ou traduits avec une liberté que je
+juge excessive.) L’intention est excellente ; il est certain que
+c’est dans la pensée et non hors d’elle qu’on doit chercher
+le fondement de la connaissance selon Spinoza, mais est-ce
+bien ce qu’il a voulu dire en ce passage ? Oui, en un sens,
+car ce principe est constamment présent à son esprit ; il
+inspire tout son Traité de la Réforme de l’Entendement et la
+règle même qu’il vient de rappeler en est évidemment une
+application assez immédiate, mais je ne crois pas que
+Spinoza ait voulu le formuler ici et le texte ne me semble
+pas justifier la traduction qu’en donne Saisset ; outre que le
+sens de la phrase suivante devient, si on l’accepte, très
+obscur.
+
+                              88
+   Léopold, dont l’opuscule Ad Spinozae Opera Posthuma
+m’a fourni plusieurs indications précieuses, se fonde sur la
+traduction hollandaise de Glazemaker (parue peu de temps
+après les Opera Posthuma et faite, semble-t-il, d’après le
+manuscrit même de Spinoza) pour lire : nam ex nullo alio
+fundamento cogitationes nostrae terminari queunt ; le texte
+hollandais est en effet : want onze denkingen konnen uit
+geen andre grondvest bepaalt wordeu. La traduction
+française serait donc : car par aucun autre principe nos
+pensées ne peuvent être déterminées (ou délimitées). C’est
+la même interprétation que donne Auerbach dans sa
+traduction allemande généralement exacte : « denn von
+keiner (andern) Grundlage können unsere Gedanken
+bestimmt werden. » Je ne sais, Auerbach ne le disant pas,
+s’il a eu recours à la traduction hollandaise ou si la seule
+étude du texte latin lui a fait juger nécessaire l’addition du
+mot andern.
+   Ni Auerbach ni Léopold ne me paraissent tenir compte
+autant qu’il l’aurait fallu de ce qui suit, et c’est pourquoi en
+dépit de l’autorité que je reconnais à la traduction de
+Glazuneker. je ne crois pas devoir accepter la correction
+alio.
+   Que signifie en effet cette suite de phrases ; cela, dis-je,
+est requis pour notre objet ; car par aucun autre principe nos
+pensées ne peuvent être délimitées (ou déterminées). Si
+donc (igitur) nous voulons porter notre enquête sur la chose
+la première de toutes, il est nécessaire qu’il y ait quelque
+
+
+                              89
+principe (aliquod fundamentum) qui dirige nos pensées de
+ce côté.
+   Le mot fundamentum dans la première phrase ne peut
+désigner que le principe posé au paragraphe 38, et que
+Spinoza vient rappeler. Comment peut-il dire aussitôt
+après : il est nécessaire qu’il y ait quelque principe qui
+dirige nos pensées vers la chose la première de toutes ? Il a
+évidemment en vue dans cette dernière phrase un principe
+nouveau et tout différent ; il l’explique d’ailleurs dans les
+lignes qui suivent : le fundamentum qui doit diriger nos
+pensées d’un certain côté c’est la connaissance, déjà
+acquise, de la forme de la vérité, c’est aussi la connaissance,
+qu’il se propose d’acquérir de l’entendement, de ses
+propriétés et de ses forces. Il faudrait donc admettre, ce qui
+ne me parait guère possible, que Spinoza a employé à deux
+lignes de distance le même mot fundamentum pour désigner
+deux choses différentes.
+   Même si l’on voulait accepter cette hypothèse en
+alléguant que pareille inadvertance est concevable dans un
+ouvrage resté inachevé et qu’il y a d’autres passages du
+traité où l’expression de la pensée n’est pas irréprochable,
+toute difficulté ne serait pas levée : il resterait à expliquer le
+mot igitur. Est-ce parce qu’il n’y a pas d’autre principe
+déterminant (ou délimitant) nos pensées que celui du
+paragraphe 38, qu’il est nécessaire d’en avoir un d’autre
+sorte pour les diriger d’un certain côté ? On le croira
+difficilement ; Le mot igitur se rattacherait donc non à ce
+qui précède immédiatement, mais à ce qui est dit en premier
+
+                               90
+lieu : Si une pensée est fausse les conséquences qu’on en
+déduira légitimement en montreront la fausseté ; si elle est
+vraie on en déduira sans interruption des idées vraies ; donc
+pour entreprendre une recherche quelconque et, en
+particulier, pour en instituer une ayant pour objet la chose la
+première de toutes, une première connaissance
+(fundamentum) est nécessaire, qui dirige nos pensées de ce
+côté.
+   J’accepte pour ma part cette interprétation, mais elle me
+parait s’accorder mieux avec la correction que je propose
+(après d’autres) qu’avec celle de Léopold tirée de la
+traduction hollandaise. Les mots placés avant donc seraient
+comme je les comprends une addition très acceptable : cela
+(c’est-à-dire le rappel de la règle posée au paragraphe 38)
+est requis, dis-je, pour notre objet, car (d’après cette règle)
+nos pensées ne peuvent sans une première connaissance être
+déterminées. Donc, etc.
+   Je fais observer que le mot terminare, que je traduis ainsi
+par déterminer au sens positif de produire, a bien ce sens
+dans d’autres passages, par exemple dans les Cogitata
+Metaphysica (II, 7) : ex perfectione Dei etiam sequitur ejus
+ideas non terminari, sicuti nostrae, ab objectis extra Deum
+positis. Il suit de la perfection de Dieu que ses pensées ne
+sont pas déterminées comme les nôtres par des objets placés
+hors de lui. Dans d’autres passages, à la vérité, comme dans
+le traité de la Réforme de l’Entendement (§ 38), terminare
+signifie déterminer au sens négatif de délimiter : Aliquis
+forte putabit quod fictio fictionem terminat sed non
+
+                              91
+intellectio. Quelqu’un croira peut-être que c’est la fiction,
+non la connaissance, qui délimite la fiction.
+  En ce qui concerne maintenant l’addition au texte d’une
+négation nequeunt pour queunt, ce n’est pas une très grande
+hardiesse ; surtout dans les phrases où se trouve déjà un mol
+négatif comme ici (ex nullo fundamento) il y a dans le texte
+des Opera Posthuma plusieurs exemples d’omission dune
+négation exigée par le sens. Même dans des phrases ne
+contenant aucun mot négatif, il arrive qu’une négation
+cependant indispensable au sens, fasse défaut : par exemple
+dans la note 1 de la page 236.
+
+  § 61. Au sujet de ce paragraphe, voir la Notice (p. 212).
+
+   § 64 et 65. L’idée de quantité ne se tire point par
+abstraction et généralisation de la considération de quantités
+déterminées, mais au contraire, pour concevoir une quantité
+déterminée, il faut que notre entendement ait le pouvoir de
+former de lui-même, absolute, l’idée de quantité. C’est la
+thèse que soutient au sujet de l’idée de grandeur
+M. Couturat, dans son livre sur l’Infini Mathématique (p.
+369). Il en fait, précisément comme Spinoza, « une notion
+primitive et irréductible ».
+
+Erreur de référence : Des balises <ref> existent pour un
+groupe nommé « N », mais aucune balise <references
+group="N"/> correspondante n’a été trouvée
+
+
+
+                             92
+     À propos de cette édition
+           électronique
+   Ce livre électronique est issu de la bibliothèque
+numérique Wikisource [1]. Cette bibliothèque numérique
+multilingue, construite par des bénévoles, a pour but de
+mettre à la disposition du plus grand nombre tout type de
+documents publiés (roman, poèmes, revues, lettres, etc.)
+   Nous le faisons gratuitement, en ne rassemblant que des
+textes du domaine public ou sous licence libre. En ce qui
+concerne les livres sous licence libre, vous pouvez les
+utiliser de manière totalement libre, que ce soit pour une
+réutilisation non commerciale ou commerciale, en
+respectant les clauses de la licence Creative Commons BY-
+SA 3.0 [2] ou, à votre convenance, celles de la licence GNU
+FDL [3].
+   Wikisource est constamment à la recherche de nouveaux
+membres. N’hésitez pas à nous rejoindre. Malgré nos soins,
+une erreur a pu se glisser lors de la transcription du texte à
+partir du fac-similé. Vous pouvez nous signaler une erreur à
+cette adresse [4].
+
+
+                             93
+   Les contributeurs suivants ont permis la réalisation de ce
+livre :
+
+     Favete linguistis
+     Phe-bot
+     Marc
+     Khardan
+     Nalou
+     Acélan
+     Chrisric
+     Yland
+     TptBot
+     Martin bordes
+     Phe
+     Hsarrazin
+     Promauteur1
+     Cantons-de-l'Est
+     Le ciel est par dessus le toit
+     Benoit Soubeyran
+     Kilom691
+
+
+
+   1. ↑ http://fr.wikisource.org
+   2. ↑ http://creativecommons.org/licenses/by-sa/3.0/deed.fr
+   3. ↑ http://www.gnu.org/copyleft/fdl.html
+   4. ↑ http://fr.wikisource.org/wiki/Aide:Signaler_une_erreur
+
+
+
+
+                                     94
+

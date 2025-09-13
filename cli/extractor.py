@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module d'extraction des phrases pour Noetron
+Sentence extraction module for Noetron
 """
 
 import csv
@@ -9,63 +9,75 @@ from typing import Union
 from processing.txt_processer import SentenceExtractor
 
 
-def extract_sentences(input_path: Union[str, Path], create_csv: bool = False, debug: bool = False, start_phrase: str = None) -> None:
+def extract_sentences(input_path: Union[str, Path], create_csv: bool = False, debug: bool = False, start_phrase: str = None, interactive: bool = False) -> None:
     """
-    Extrait les phrases d'un dossier de fichiers TXT
+    Extract sentences from a folder of TXT files
     Args:
-        input_path: Chemin vers le dossier contenant les fichiers TXT
-        create_csv: Si True, crée un fichier CSV avec les phrases extraites
-        debug: Mode debug pour afficher plus d'informations
-        start_phrase: Phrase de départ pour filtrer le contenu (optionnel)
+        input_path: Path to the folder containing TXT files
+        create_csv: If True, creates a CSV file with extracted sentences
+        debug: Debug mode to display more information
+        start_phrase: Starting phrase to filter content (optional, used if interactive=False)
+        interactive: If True, prompts for starting phrase for each file
     """
     input_path = Path(input_path)
     
     if not input_path.exists():
-        print(f"Erreur: Le dossier '{input_path}' n'existe pas.")
+        print(f"Error: Folder '{input_path}' does not exist.")
         return
     if not input_path.is_dir():
-        print(f"Erreur: '{input_path}' n'est pas un dossier.")
+        print(f"Error: '{input_path}' is not a folder.")
         return
     
     txt_files = list(input_path.glob("*.txt"))
     if not txt_files:
-        print(f"Aucun fichier TXT trouvé dans '{input_path}'")
+        print(f"No TXT files found in '{input_path}'")
         return
     
-    print(f"Extraction des phrases de {len(txt_files)} fichier(s) TXT...")
-    
-    if start_phrase:
-        print(f"🎯 Filtrage à partir de la phrase: '{start_phrase}'")
+    print(f"Extracting sentences from {len(txt_files)} TXT file(s)...")
     
     all_sentences = []
     sentence_id = 1
     
     for txt_file in txt_files:
         if debug:
-            print(f"Traitement du fichier: {txt_file.name}")
+            print(f"\nProcessing file: {txt_file.name}")
+        else:
+            print(f"\n📁 Processing: {txt_file.name}")
+        
+        # Ask for starting phrase for this file if interactive mode
+        current_start_phrase = start_phrase
+        if interactive:
+            current_start_phrase = input(f"What is the sentence for {txt_file.name}? ")
+            if current_start_phrase.strip():
+                print(f"🎯 Filtering from: '{current_start_phrase}'")
+            else:
+                print("ℹ️  No starting phrase specified, processing complete file")
+                current_start_phrase = None
         
         extractor = SentenceExtractor(txt_file)
-        sentences = extractor.extract_sentences(start_phrase=start_phrase)
+        sentences = extractor.extract_sentences(start_phrase=current_start_phrase)
         
         if debug:
-            print(f"  Nombre de phrases extraites: {len(sentences)}")
+            print(f"  Number of sentences extracted: {len(sentences)}")
             if sentences:
-                print(f"  Première phrase: {sentences[0][:100]}...")
-                print(f"  Dernière phrase: {sentences[-1][:100]}...")
+                print(f"  First sentence: {sentences[0][:100]}...")
+                print(f"  Last sentence: {sentences[-1][:100]}...")
+        else:
+            print(f"  ✅ {len(sentences)} sentences extracted")
         
-        # Ajouter les métadonnées pour chaque phrase
+        # Add metadata for each sentence
         for sentence in sentences:
             all_sentences.append({
                 'sentence_id': sentence_id,
                 'text': sentence,
                 'source': txt_file.name,
-                'vector': ''  # Vide pour l'extraction seule
+                'vector': ''  # Empty for extraction only
             })
             sentence_id += 1
     
-    print(f"Nombre total de phrases extraites: {len(all_sentences)}")
+    print(f"\n🎉 Total sentences extracted: {len(all_sentences)}")
     
-    # Créer le CSV si demandé
+    # Create CSV if requested
     if create_csv:
         database_dir = Path(__file__).parent.parent / 'database'
         database_dir.mkdir(exist_ok=True)
@@ -84,9 +96,9 @@ def extract_sentences(input_path: Union[str, Path], create_csv: bool = False, de
                         sentence_data['source'],
                         sentence_data['vector']
                     ])
-            print(f"CSV créé: {output_path}")
+            print(f"💾 CSV created: {output_path}")
         except Exception as e:
-            print(f"Erreur lors de l'écriture du CSV: {e}")
+            print(f"❌ Error writing CSV: {e}")
     
     return all_sentences
 
@@ -96,4 +108,4 @@ if __name__ == '__main__':
     if len(sys.argv) > 1:
         extract_sentences(sys.argv[1], create_csv=True)
     else:
-        print("Usage: python extractor.py <chemin_vers_dossier> [--csv]") 
+        print("Usage: python extractor.py <folder_path> [--csv]") 

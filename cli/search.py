@@ -232,6 +232,10 @@ def launch_interactive_mode(csv_path: Union[str, Path], top_k: int = 3, debug: b
                 elif user_input.lower().startswith('search '):
                     handle_search_command(user_input, model, sentences, top_k, debug)
                 
+                # Commande de comparaison
+                elif user_input.lower().startswith('compare '):
+                    handle_compare_command(user_input, debug)
+                
                 # Commande d'extraction
                 elif user_input.lower().startswith('extract'):
                     handle_extract_command(user_input, csv_path, debug)
@@ -263,6 +267,7 @@ def print_help_commands():
     """Affiche l'aide des commandes disponibles"""
     print("\n📚 COMMANDES DISPONIBLES:")
     print("  search \"phrase\" [--top N]  - Recherche sémantique")
+    print("  compare <source> <dest> [--top N] [--length L] - Comparaison entre corpus")
     print("  extract [--csv] [--debug]   - Extraction de phrases")
     print("  process [--debug]           - Traitement complet")
     print("  help                        - Afficher cette aide")
@@ -271,6 +276,10 @@ def print_help_commands():
     print("💡 Exemples:")
     print("  search \"philosophie de la perception\"")
     print("  search \"liberté et existence\" --top 5")
+    print("  compare database/merleau_ponty.csv database/spinoza.csv")
+    print("  compare database/merleau_ponty.csv database/spinoza.csv --top 5")
+    print("  compare database/merleau_ponty.csv database/spinoza.csv --length 50")
+    print("  compare database/merleau_ponty.csv database/spinoza.csv --top 5 --length 100")
     print("  extract --csv")
     print("  process --debug")
 
@@ -344,6 +353,62 @@ def handle_process_command(user_input: str, csv_path: Union[str, Path], debug: b
         print("✅ Traitement terminé")
     except Exception as e:
         print(f"❌ Erreur lors du traitement: {e}")
+
+
+def handle_compare_command(user_input: str, debug: bool):
+    """Gère la commande de comparaison"""
+    try:
+        # Supprimer "compare " du début
+        compare_part = user_input[8:]  # Enlever "compare "
+        
+        # Diviser en parties
+        parts = compare_part.split()
+        
+        if len(parts) < 2:
+            print("❌ Erreur: Deux fichiers CSV requis")
+            print("💡 Syntaxe: compare <source.csv> <destination.csv> [--top N] [--length L]")
+            return
+        
+        source_csv = parts[0]
+        dest_csv = parts[1]
+        
+        # Chercher l'option --top
+        top_results = 3
+        if '--top' in parts:
+            try:
+                top_index = parts.index('--top')
+                if top_index + 1 < len(parts):
+                    top_results = int(parts[top_index + 1])
+            except:
+                print("⚠️ Option --top invalide, utilisation de la valeur par défaut (3)")
+        
+        # Chercher l'option --length
+        min_length = 0
+        if '--length' in parts:
+            try:
+                length_index = parts.index('--length')
+                if length_index + 1 < len(parts):
+                    min_length = int(parts[length_index + 1])
+            except:
+                print("⚠️ Option --length invalide, utilisation de la valeur par défaut (0)")
+        
+        # Effectuer la comparaison
+        print(f"🔍 Comparaison: {source_csv} → {dest_csv} (top {top_results} global)")
+        if min_length > 0:
+            print(f"📏 Longueur minimale des phrases: {min_length} caractères")
+        
+        try:
+            from cli.compare import compare_corpus_cli
+            compare_corpus_cli(source_csv, dest_csv, top_results, min_length, debug)
+        except ImportError as e:
+            print(f"❌ Erreur d'import: {e}")
+            print("Assurez-vous que le module compare est disponible")
+        except Exception as e:
+            print(f"❌ Erreur lors de la comparaison: {e}")
+        
+    except Exception as e:
+        print(f"❌ Erreur lors de la comparaison: {e}")
+        print("💡 Syntaxe: compare <source.csv> <destination.csv> [--top N] [--length L]")
 
 
 def search_similar_sentences_with_model(

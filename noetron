@@ -1,64 +1,65 @@
 #!/usr/bin/env python3
 """
-Script principal Noetron - Environnement d'analyse sémantique
+Noetron - Semantic Analysis Environment
+Main entry point for the Noetron interactive environment
 """
 
 import sys
 import os
 from pathlib import Path
 
-# Ajouter le répertoire cli au path
+# Add the cli directory to the path
 sys.path.insert(0, str(Path(__file__).parent / 'cli'))
 
 def main():
-    """Point d'entrée principal du script noetron"""
+    """Main entry point for the noetron script"""
     if len(sys.argv) < 2:
-        print("🔮 NOETRON - Environnement d'analyse sémantique")
-        print("Usage: noetron activate <fichier_csv>")
+        print("🔮 NOETRON - Semantic Analysis Environment")
+        print("Usage: noetron activate <csv_file>")
         print("       noetron --help")
         sys.exit(1)
     
     command = sys.argv[1]
     
     if command == "--help" or command == "-h":
-        print("🔮 NOETRON - Environnement d'analyse sémantique")
+        print("🔮 NOETRON - Semantic Analysis Environment")
         print()
-        print("Commandes:")
-        print("  activate <fichier_csv>  - Activer l'environnement interactif")
-        print("  --help, -h             - Afficher cette aide")
+        print("Commands:")
+        print("  activate <csv_file>  - Activate the interactive environment")
+        print("  --help, -h          - Show this help")
         print()
-        print("Exemple:")
+        print("Example:")
         print("  noetron activate database/merleau_ponty.csv")
         sys.exit(0)
     
     elif command == "activate":
         if len(sys.argv) < 3:
-            print("❌ Erreur: Fichier CSV requis")
-            print("Usage: noetron activate <fichier_csv>")
+            print("❌ Error: CSV file required")
+            print("Usage: noetron activate <csv_file>")
             sys.exit(1)
         
         csv_file = sys.argv[2]
         
-        # Vérifier que le fichier existe
+        # Check if the file exists
         if not Path(csv_file).exists():
-            print(f"❌ Erreur: Le fichier '{csv_file}' n'existe pas")
+            print(f"❌ Error: File '{csv_file}' does not exist")
             sys.exit(1)
         
-        # Lancer le mode interactif
+        # Launch interactive mode
         try:
             from cli.search import launch_interactive_mode
             launch_interactive_mode(csv_file)
         except ImportError as e:
-            print(f"❌ Erreur d'import: {e}")
-            print("Assurez-vous que tous les modules sont installés")
+            print(f"❌ Import error: {e}")
+            print("Make sure all modules are installed")
             sys.exit(1)
         except Exception as e:
-            print(f"❌ Erreur: {e}")
+            print(f"❌ Error: {e}")
             sys.exit(1)
     
     else:
-        print(f"❌ Commande inconnue: {command}")
-        print("Utilisez 'noetron --help' pour voir les commandes disponibles")
+        print(f"❌ Unknown command: {command}")
+        print("Use 'noetron --help' to see available commands")
         sys.exit(1)
 
 if __name__ == '__main__':

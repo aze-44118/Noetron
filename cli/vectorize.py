@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Module de vectorisation des phrases pour Noetron
+Sentence vectorization module for Noetron
 """
 
 import csv
@@ -13,32 +13,32 @@ from sentence_transformers import SentenceTransformer
 
 def vectorize_sentences(csv_path: Union[str, Path], debug: bool = False) -> None:
     """
-    Vectorise les phrases d'un fichier CSV en utilisant BAAI/bge-m3
+    Vectorize sentences from a CSV file using BAAI/bge-m3
     Args:
-        csv_path: Chemin vers le fichier CSV contenant les phrases
-        debug: Mode debug pour afficher plus d'informations
+        csv_path: Path to the CSV file containing sentences
+        debug: Debug mode to display more information
     """
     csv_path = Path(csv_path)
     
     if not csv_path.exists():
-        print(f"Erreur: Le fichier '{csv_path}' n'existe pas.")
+        print(f"Error: File '{csv_path}' does not exist.")
         return
     
-    print("=== VECTORISATION DES PHRASES ===")
+    print("=== SENTENCE VECTORIZATION ===")
     
-    # Charger le modèle BAAI/bge-m3
+    # Load the BAAI/bge-m3 model
     if debug:
-        print("  Chargement du modèle BAAI/bge-m3...")
+        print("  Loading BAAI/bge-m3 model...")
     
     try:
         model = SentenceTransformer('BAAI/bge-m3')
         if debug:
-            print("  Modèle chargé avec succès")
+            print("  Model loaded successfully")
     except Exception as e:
-        print(f"Erreur lors du chargement du modèle: {e}")
+        print(f"Error loading model: {e}")
         return
     
-    # Lire le CSV
+    # Read the CSV
     sentences_data = []
     with open(csv_path, 'r', encoding='utf-8') as csvfile:
         reader = csv.DictReader(csvfile)
@@ -46,30 +46,30 @@ def vectorize_sentences(csv_path: Union[str, Path], debug: bool = False) -> None
             sentences_data.append(row)
     
     if debug:
-        print(f"  {len(sentences_data)} phrases à vectoriser")
+        print(f"  {len(sentences_data)} sentences to vectorize")
     
-    # Extraire les textes des phrases
+    # Extract sentence texts
     texts = [row['text'] for row in sentences_data]
     
-    # Vectoriser les phrases
+    # Vectorize the sentences
     if debug:
-        print("  Vectorisation en cours...")
+        print("  Vectorization in progress...")
     
     try:
         embeddings = model.encode(texts, show_progress_bar=debug)
         if debug:
-            print(f"  Vectorisation terminée. Dimensions: {embeddings.shape}")
+            print(f"  Vectorization completed. Dimensions: {embeddings.shape}")
     except Exception as e:
-        print(f"Erreur lors de la vectorisation: {e}")
+        print(f"Error during vectorization: {e}")
         return
     
-    # Ajouter les vecteurs aux données
+    # Add vectors to data
     for i, row in enumerate(sentences_data):
-        # Convertir le vecteur en liste pour le JSON
+        # Convert vector to list for JSON
         vector_list = embeddings[i].tolist()
         row['vector'] = json.dumps(vector_list)
     
-    # Écrire le CSV mis à jour
+    # Write the updated CSV
     output_path = csv_path.parent / f"{csv_path.stem}_vectorized.csv"
     
     try:
@@ -79,65 +79,65 @@ def vectorize_sentences(csv_path: Union[str, Path], debug: bool = False) -> None
             writer.writeheader()
             writer.writerows(sentences_data)
         
-        print(f"=== RÉSULTAT ===")
-        print(f"CSV vectorisé créé: {output_path}")
-        print(f"Nombre de phrases vectorisées: {len(sentences_data)}")
-        print(f"Dimension des vecteurs: {embeddings.shape[1]}")
+        print(f"=== RESULT ===")
+        print(f"Vectorized CSV created: {output_path}")
+        print(f"Number of vectorized sentences: {len(sentences_data)}")
+        print(f"Vector dimensions: {embeddings.shape[1]}")
         
     except Exception as e:
-        print(f"Erreur lors de l'écriture du CSV: {e}")
+        print(f"Error writing CSV: {e}")
 
 
 def vectorize_sentences_from_list(sentences: List[Dict], debug: bool = False) -> List[Dict]:
     """
-    Vectorise une liste de phrases et retourne les données avec vecteurs
+    Vectorize a list of sentences and return data with vectors
     Args:
-        sentences: Liste de dictionnaires contenant les phrases
-        debug: Mode debug pour afficher plus d'informations
+        sentences: List of dictionaries containing sentences
+        debug: Debug mode to display more information
     Returns:
-        Liste de dictionnaires avec les vecteurs ajoutés
+        List of dictionaries with added vectors
     """
     if not sentences:
-        print("Aucune phrase à vectoriser")
+        print("No sentences to vectorize")
         return sentences
     
-    print("=== VECTORISATION DES PHRASES ===")
+    print("=== SENTENCE VECTORIZATION ===")
     
-    # Charger le modèle BAAI/bge-m3
+    # Load the BAAI/bge-m3 model
     if debug:
-        print("  Chargement du modèle BAAI/bge-m3...")
+        print("  Loading BAAI/bge-m3 model...")
     
     try:
         model = SentenceTransformer('BAAI/bge-m3')
         if debug:
-            print("  Modèle chargé avec succès")
+            print("  Model loaded successfully")
     except Exception as e:
-        print(f"Erreur lors du chargement du modèle: {e}")
+        print(f"Error loading model: {e}")
         return sentences
     
-    # Extraire les textes des phrases
+    # Extract sentence texts
     texts = [sentence['text'] for sentence in sentences]
     
-    # Vectoriser les phrases
+    # Vectorize the sentences
     if debug:
-        print(f"  Vectorisation de {len(texts)} phrases...")
+        print(f"  Vectorizing {len(texts)} sentences...")
     
     try:
         embeddings = model.encode(texts, show_progress_bar=debug)
         if debug:
-            print(f"  Vectorisation terminée. Dimensions: {embeddings.shape}")
+            print(f"  Vectorization completed. Dimensions: {embeddings.shape}")
     except Exception as e:
-        print(f"Erreur lors de la vectorisation: {e}")
+        print(f"Error during vectorization: {e}")
         return sentences
     
-    # Ajouter les vecteurs aux données
+    # Add vectors to data
     for i, sentence in enumerate(sentences):
-        # Convertir le vecteur en liste pour le JSON
+        # Convert vector to list for JSON
         vector_list = embeddings[i].tolist()
         sentence['vector'] = json.dumps(vector_list)
     
     if debug:
-        print(f"  {len(sentences)} phrases vectorisées avec succès")
+        print(f"  {len(sentences)} sentences vectorized successfully")
     
     return sentences
 
@@ -147,4 +147,4 @@ if __name__ == '__main__':
     if len(sys.argv) > 1:
         vectorize_sentences(sys.argv[1], debug=True)
     else:
-        print("Usage: python vectorize.py <chemin_vers_csv>")
+        print("Usage: python vectorize.py <csv_path>")
